@@ -1,0 +1,157 @@
+[INFO ] 2022-01-26 16:31:14.326 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-26 16:31:14.336 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-26 16:31:14.336 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-26 16:31:14.336 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-26 16:31:14.353 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-26 16:31:14.353 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-26 16:31:14.353 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-26 16:31:14.354 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-26 16:31:14.354 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-26 16:31:14.354 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-26 16:31:14.369 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-26 16:31:14.369 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-26 16:31:14.371 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-26 16:31:14.371 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-26 16:31:14.371 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-26 16:31:14.371 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-26 16:31:14.371 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-26 16:31:14.371 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-26 16:31:14.388 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-26 16:31:14.388 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-26 16:31:14.389 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-26 16:31:14.389 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-26 16:31:14.389 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-26 16:31:14.389 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-26 16:31:14.403 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-26 16:31:14.403 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-26 16:31:14.404 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-26 16:31:14.404 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-26 16:31:14.404 [main] DataProviderH2 - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-26 16:31:14.404 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-26 16:31:14.404 [main] DataProviderH2 - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-26 16:31:14.405 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-26 17:42:26.419 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:42:26.425 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:42:26.425 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:42:26.426 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-26 17:42:26.516 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-26 17:42:26.517 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-26 17:42:26.518 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:42:26.518 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:42:26.519 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [1] {}
+[INFO ] 2022-01-26 17:42:26.519 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-01-26 17:42:26.519 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-01-26 17:42:26.527 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-01-26 17:42:26.527 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-01-26 17:42:26.528 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [2] {}
+[INFO ] 2022-01-26 17:42:26.528 [main] DataProviderCsv - searchPharmacyProductByCategory [3] {} This category is empty
+[INFO ] 2022-01-26 17:42:26.528 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:42:26.528 [main] PharmacyAplication - No such element
+[INFO ] 2022-01-26 17:42:55.937 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:42:55.941 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:42:55.941 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:42:55.942 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-26 17:42:56.037 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-26 17:42:56.037 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-26 17:42:56.038 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:42:56.038 [main] DataProviderCsv - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:42:56.038 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:42:56.038 [main] DataProviderCsv - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-01-26 17:42:56.039 [main] DataProviderCsv - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-01-26 17:42:56.049 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 266.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:42:56.049 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 23.523
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:42:56.049 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:43:14.491 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:43:14.494 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:43:14.495 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:43:14.495 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-26 17:43:14.597 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-26 17:43:14.598 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-26 17:43:14.599 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:43:14.599 [main] DataProviderCsv - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:43:14.599 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:43:14.599 [main] DataProviderCsv - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-01-26 17:43:14.601 [main] DataProviderCsv - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-01-26 17:43:14.609 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:43:14.609 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 23.523
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:43:14.609 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 266.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:43:28.374 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:43:28.377 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:43:28.377 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:43:28.378 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-26 17:43:28.487 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-26 17:43:28.488 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-26 17:43:28.489 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:43:28.489 [main] DataProviderCsv - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:43:28.490 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:43:28.498 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 266.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:43:28.499 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:43:28.499 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 23.523
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:45:46.257 [main] DataProviderXml - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:45:46.259 [main] DataProviderXml - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:45:46.259 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:45:46.260 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-26 17:45:46.373 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-26 17:45:46.374 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-26 17:45:46.375 [main] DataProviderXml - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:45:46.375 [main] DataProviderXml - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:45:46.375 [main] DataProviderXml - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:45:46.375 [main] DataProviderXml - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-01-26 17:45:46.377 [main] DataProviderXml - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-01-26 17:45:46.386 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 155.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:45:46.386 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 54.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+

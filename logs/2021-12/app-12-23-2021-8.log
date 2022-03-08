@@ -1,0 +1,127 @@
+[INFO ] 2021-12-23 22:10:46.787 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:10:46.794 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:10:46.794 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:10:46.867 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:10:46.868 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:10:46.868 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:10:46.918 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:10:46.919 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:10:46.922 [main] DataProviderH2 - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 22:10:46.923 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [1] {}
+[INFO ] 2021-12-23 22:10:46.923 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:10:47.132 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:10:47.132 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:10:47.136 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [2] {}
+[INFO ] 2021-12-23 22:10:47.136 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:10:47.155 [main] DataProviderH2 - writeToH2Meddicine: [1] {}
+[INFO ] 2021-12-23 22:10:47.155 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:10:47.170 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:10:47.171 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:10:47.191 [main] DataProviderH2 - writeToH2Meddicine: [2] {}
+[INFO ] 2021-12-23 22:10:47.191 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:10:47.211 [main] DataProviderH2 - writeToH2Meddicine: [4] {}
+[INFO ] 2021-12-23 22:10:47.211 [main] DataProviderH2 - appendMeddicines: [2] {}
+[INFO ] 2021-12-23 22:10:47.211 [main] DataProviderH2 - appendMeddicines: [5] {}
+[INFO ] 2021-12-23 22:11:01.446 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2021-12-23 22:11:01.450 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 22:11:01.450 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:11:01.664 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:11:01.665 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:11:01.665 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-23 22:11:01.667 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-23 22:11:01.667 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 22:11:01.667 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:11:01.687 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 22:11:01.687 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 22:11:01.687 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2021-12-23 22:11:01.687 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2021-12-23 22:23:14.806 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2021-12-23 22:23:14.809 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 22:23:14.809 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:23:15.046 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:23:15.046 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:23:15.047 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-23 22:23:15.049 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-23 22:23:15.050 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 22:23:15.050 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:23:15.069 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 22:23:15.069 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 22:23:15.069 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2021-12-23 22:23:15.069 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2021-12-23 22:23:29.486 [main] DataProviderH2 - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-23 22:23:29.489 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:23:29.699 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:23:29.700 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 22:23:29.703 [main] DataProviderH2 - deleteMeddicineByBarcode: [3] {} Синтаксическая ошибка в выражении SQL "DELETE FROM MEDDICINE WHERE BARCODE = I2/5:[*]1520152015201520"
+Syntax error in SQL statement "DELETE FROM MEDDICINE WHERE BARCODE = I2/5:[*]1520152015201520"; SQL statement:
+DELETE FROM MEDDICINE WHERE BARCODE = I2/5:1520152015201520 [42000-200]
+[INFO ] 2021-12-23 22:23:29.706 [main] DataProviderH2 - deleteMeddicineByBarcode: [4] {}
+[INFO ] 2021-12-23 22:24:05.085 [main] DataProviderH2 - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-23 22:24:05.089 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:05.294 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:05.294 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:05.298 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:05.317 [main] DataProviderH2 - deleteMeddicineByBarcode: [4] {}
+[INFO ] 2021-12-23 22:24:13.220 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2021-12-23 22:24:13.224 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 22:24:13.224 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:13.432 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:13.432 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:13.433 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-23 22:24:13.435 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-23 22:24:13.435 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 22:24:13.435 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:13.454 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 22:24:13.454 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 22:24:13.454 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2021-12-23 22:24:13.454 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2021-12-23 22:24:26.909 [main] DataProviderH2 - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-23 22:24:26.912 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:27.115 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:27.116 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:27.117 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:27.134 [main] DataProviderH2 - deleteMeddicineByBarcode: [4] {}
+[INFO ] 2021-12-23 22:24:36.142 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2021-12-23 22:24:36.145 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 22:24:36.146 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:36.369 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:36.369 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:36.370 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-23 22:24:36.371 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-23 22:24:36.372 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 22:24:36.372 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:36.390 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 22:24:36.391 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 22:24:36.391 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2021-12-23 22:24:36.391 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2021-12-23 22:24:46.697 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:24:46.763 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:24:46.763 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:24:46.763 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:24:46.838 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:24:46.839 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:24:46.839 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:24:46.891 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:24:46.892 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:24:46.895 [main] DataProviderH2 - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 22:24:46.896 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [1] {}
+[INFO ] 2021-12-23 22:24:46.896 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:47.104 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:47.104 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:47.108 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [2] {}
+[INFO ] 2021-12-23 22:24:47.109 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:47.128 [main] DataProviderH2 - writeToH2Meddicine: [1] {}
+[INFO ] 2021-12-23 22:24:47.128 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:47.145 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:47.145 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:47.168 [main] DataProviderH2 - writeToH2Meddicine: [2] {}
+[INFO ] 2021-12-23 22:24:47.168 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:47.182 [main] DataProviderH2 - writeToH2Meddicine: [4] {}
+[INFO ] 2021-12-23 22:24:47.182 [main] DataProviderH2 - appendMeddicines: [2] {}
+[INFO ] 2021-12-23 22:24:47.183 [main] DataProviderH2 - appendMeddicines: [5] {}
+[INFO ] 2021-12-23 22:24:52.335 [main] DataProviderH2 - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-23 22:24:52.339 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:24:52.551 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:24:52.551 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:24:52.553 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:24:52.572 [main] DataProviderH2 - deleteMeddicineByBarcode: [4] {}

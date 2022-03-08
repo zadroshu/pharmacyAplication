@@ -1,0 +1,165 @@
+[INFO ] 2022-01-26 17:45:46.387 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 23.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:45:59.642 [main] DataProviderXml - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:45:59.646 [main] DataProviderXml - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:45:59.646 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:45:59.647 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-26 17:45:59.780 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-26 17:45:59.781 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-26 17:45:59.782 [main] DataProviderXml - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:45:59.791 [main] DataProviderXml - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:45:59.791 [main] DataProviderXml - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:45:59.791 [main] DataProviderXml - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-01-26 17:45:59.792 [main] DataProviderXml - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-01-26 17:45:59.804 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 23.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:45:59.804 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 54.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:45:59.804 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 155.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:46:15.725 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:46:15.727 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:46:15.727 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:46:15.729 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-26 17:46:15.729 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-26 17:46:16.001 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-26 17:46:16.001 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-26 17:46:16.002 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-26 17:46:16.005 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-26 17:46:16.005 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-26 17:46:16.005 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-26 17:46:16.026 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-26 17:46:16.026 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-26 17:46:16.027 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-26 17:46:16.027 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-26 17:46:16.028 [main] DataProviderH2 - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:46:16.028 [main] DataProviderH2 - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:46:16.028 [main] DataProviderH2 - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:46:16.029 [main] DataProviderH2 - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-01-26 17:46:16.029 [main] DataProviderH2 - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-01-26 17:46:16.038 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:46:16.038 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 3.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:46:16.040 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name2
+Price: 133.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:46:31.411 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:46:31.411 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 17:46:31.414 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-26 17:46:31.415 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-26 17:46:31.415 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-26 17:46:31.670 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-26 17:46:31.670 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-26 17:46:31.671 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-26 17:46:31.673 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-26 17:46:31.673 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-26 17:46:31.673 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-26 17:46:31.697 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-26 17:46:31.697 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-26 17:46:31.698 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-26 17:46:31.698 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-26 17:46:31.698 [main] DataProviderH2 - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 17:46:31.698 [main] DataProviderH2 - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 17:46:31.698 [main] DataProviderH2 - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 17:46:31.699 [main] DataProviderH2 - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-01-26 17:46:31.700 [main] DataProviderH2 - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-01-26 17:46:31.710 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name2
+Price: 133.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:46:31.710 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 3.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 17:46:31.710 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 19:44:32.821 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 19:44:32.823 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 19:44:32.823 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-26 19:44:32.824 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-26 19:44:32.825 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-26 19:44:33.153 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-26 19:44:33.153 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-26 19:44:33.154 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-26 19:44:33.156 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-26 19:44:33.156 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-26 19:44:33.156 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-26 19:44:33.175 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-26 19:44:33.175 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-26 19:44:33.176 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-26 19:44:33.176 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-26 19:44:33.176 [main] DataProviderH2 - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-01-26 19:44:33.176 [main] DataProviderH2 - searchPharmacyProductByCategory [5] {}
+[INFO ] 2022-01-26 19:44:33.176 [main] DataProviderH2 - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-01-26 19:44:33.177 [main] DataProviderH2 - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-01-26 19:44:33.178 [main] DataProviderH2 - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-01-26 19:44:33.184 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name2
+Price: 133.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 19:44:33.184 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 3.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 19:44:33.184 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 19:46:20.878 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 19:46:20.882 [main] DataProviderH2 - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-01-26 19:46:20.882 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-26 19:46:20.883 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-26 19:46:20.883 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-26 19:46:21.127 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-26 19:46:21.127 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-26 19:46:21.128 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-26 19:46:21.130 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-26 19:46:21.130 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-26 19:46:21.130 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-26 19:46:21.154 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-26 19:46:21.154 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-26 19:46:21.155 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-26 19:46:21.155 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-26 19:46:21.156 [main] DataProviderH2 - searchPharmacyProductByCategory [2] {}

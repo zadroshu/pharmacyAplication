@@ -1,0 +1,20 @@
+<wrapper>
+   <orderList class="java.util.ArrayList">
+      <Order>
+         <orderId>1</orderId>
+         <pharmacyProductBarcode>I2/5:1520152015201520</pharmacyProductBarcode>
+      </Order>
+      <Order>
+         <orderId>2</orderId>
+         <pharmacyProductBarcode>I2/5:1520152015201520</pharmacyProductBarcode>
+      </Order>
+      <Order>
+         <orderId>166</orderId>
+         <pharmacyProductBarcode>CODE-128:CODE128A</pharmacyProductBarcode>
+      </Order>
+      <Order>
+         <orderId>4</orderId>
+         <pharmacyProductBarcode>I2/5:1520152015201520</pharmacyProductBarcode>
+      </Order>
+   </orderList>
+</wrapper>

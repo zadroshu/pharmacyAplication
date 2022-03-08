@@ -1,0 +1,113 @@
+[INFO ] 2022-01-21 20:43:45.474 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-21 20:43:45.508 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:43:45.509 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:43:45.510 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:43:45.511 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:43:45.511 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:43:45.512 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:44:36.050 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:44:36.055 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:44:36.063 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:44:36.063 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:44:36.064 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:44:36.064 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:44:36.065 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:44:36.066 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:44:36.067 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:44:36.068 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:44:36.068 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:44:36.070 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:44:36.071 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:44:36.071 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:45:39.429 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:45:39.433 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:45:39.434 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:45:39.435 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:45:39.436 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:45:39.436 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:45:39.437 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:45:39.438 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:45:39.438 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:45:39.439 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:45:39.439 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:45:39.441 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:45:39.441 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:45:39.441 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:46:25.849 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:46:25.880 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:46:25.882 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:46:25.885 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:46:25.887 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:46:25.889 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:46:25.895 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:46:25.898 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:46:25.901 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:46:25.903 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:46:25.903 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:46:25.911 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:46:25.911 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:46:25.911 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:47:03.071 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:47:51.667 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:47:59.819 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:47:59.830 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:47:59.833 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:47:59.837 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:47:59.849 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:47:59.862 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:47:59.868 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:47:59.876 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:47:59.878 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:47:59.894 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:47:59.898 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:47:59.899 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:48:05.247 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:48:05.251 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:48:05.251 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:48:05.252 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:48:05.253 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:48:05.253 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:48:05.255 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:48:05.255 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:48:05.256 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:48:05.257 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:48:05.257 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:48:05.260 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:48:05.260 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:48:05.260 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:48:32.002 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:48:32.038 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:48:32.038 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:48:32.046 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:48:32.048 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:48:32.052 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:48:32.061 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:48:32.065 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:48:32.072 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:48:32.080 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:48:32.082 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:48:32.098 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:48:32.100 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:48:32.102 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:57:55.594 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:57:55.598 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:57:55.598 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:57:55.599 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:57:55.599 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2022-01-21 20:57:55.599 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2022-01-21 20:57:55.600 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:57:55.601 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:57:55.601 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 20:57:55.602 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 20:57:55.602 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 20:57:55.605 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 20:57:55.605 [main] DataProviderH2 - getTheAnaloguesOfMedicine [3] {} No such meddicine
+[INFO ] 2022-01-21 20:57:55.605 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 20:58:56.640 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 20:58:56.643 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 20:58:56.644 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 20:58:56.645 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 20:58:56.645 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 20:58:56.648 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2022-01-21 20:58:56.648 [main] DataProviderH2 - readMeddicinesFromH2M: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2022-01-21 20:58:56.649 [main] DataProviderH2 - readFromH2: [4] {}

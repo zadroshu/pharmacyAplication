@@ -1,0 +1,28 @@
+<wrapper>
+   <meddicineList class="java.util.ArrayList">
+      <Meddicine>
+         <nameOfTheMeddicine>Name3</nameOfTheMeddicine>
+         <price>155.0</price>
+         <barcode>CODE-128:CODE128A</barcode>
+         <description>djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej</description>
+         <activeSubstanceOfTheMeddicine>something</activeSubstanceOfTheMeddicine>
+         <categoryOfTheMeddicine>antibiotics</categoryOfTheMeddicine>
+      </Meddicine>
+      <Meddicine>
+         <nameOfTheMeddicine>Name1</nameOfTheMeddicine>
+         <price>54.0</price>
+         <barcode>I2/5:1520152015201520</barcode>
+         <description>djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej</description>
+         <activeSubstanceOfTheMeddicine>something</activeSubstanceOfTheMeddicine>
+         <categoryOfTheMeddicine>antibiotics</categoryOfTheMeddicine>
+      </Meddicine>
+      <Meddicine>
+         <nameOfTheMeddicine>Name2</nameOfTheMeddicine>
+         <price>23.0</price>
+         <barcode>EAN-8:65833254</barcode>
+         <description>djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej</description>
+         <activeSubstanceOfTheMeddicine>something</activeSubstanceOfTheMeddicine>
+         <categoryOfTheMeddicine>antibiotics</categoryOfTheMeddicine>
+      </Meddicine>
+   </meddicineList>
+</wrapper>

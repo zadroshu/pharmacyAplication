@@ -1,0 +1,115 @@
+[INFO ] 2021-12-23 17:26:10.211 [main] DataProviderXml - appendMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:10.218 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.218 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:10.218 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.223 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:10.223 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:10.223 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:10.224 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.227 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:10.235 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:10.236 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [2] {}
+[INFO ] 2021-12-23 17:26:10.236 [main] DataProviderXml - writeXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.255 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:10.255 [main] DataProviderXml - appendMedicalDevices: [3] {}
+[INFO ] 2021-12-23 17:26:10.255 [main] DataProviderXml - updateMedicalDevice: [3] {}
+[INFO ] 2021-12-23 17:26:43.452 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 17:26:43.521 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 17:26:43.521 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 17:26:43.524 [main] DataProviderXml - updateMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.526 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:43.526 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.635 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:43.635 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:43.635 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.635 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:43.635 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.638 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:43.639 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:43.639 [main] DataProviderXml - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-23 17:26:43.639 [main] DataProviderXml - appendMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:43.639 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.639 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:43.639 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.643 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:43.643 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:43.644 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:43.644 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.647 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:43.647 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:43.648 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [2] {}
+[INFO ] 2021-12-23 17:26:43.648 [main] DataProviderXml - writeXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:43.674 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:43.674 [main] DataProviderXml - appendMedicalDevices: [3] {}
+[INFO ] 2021-12-23 17:26:43.675 [main] DataProviderXml - updateMedicalDevice: [3] {}
+[INFO ] 2021-12-23 17:29:55.532 [main] DataProviderXml - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-23 17:29:55.536 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:29:55.538 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:29:55.644 [main] DataProviderXml - readXmlMedicine: [3] {}
+[ERROR] 2021-12-23 17:29:55.645 [main] DataProviderXml - getMedicalDevices: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2021-12-23 17:29:55.647 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:29:55.648 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:29:55.648 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:29:55.648 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:29:55.652 [main] DataProviderXml - readXmlMedicine: [3] {}
+[ERROR] 2021-12-23 17:29:55.653 [main] DataProviderXml - getMedicalDevices: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2021-12-23 17:29:55.655 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:29:55.655 [main] DataProviderXml - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-23 17:29:55.656 [main] DataProviderXml - getMedicalDeviceByBarcode: [2] {} No Such Element
+[INFO ] 2021-12-23 17:29:55.656 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-23 17:29:55.660 [main] DataProviderXml - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-23 17:29:55.660 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:29:55.661 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:29:55.666 [main] DataProviderXml - readXmlMedicine: [3] {}
+[ERROR] 2021-12-23 17:29:55.667 [main] DataProviderXml - getMedicalDevices: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2021-12-23 17:29:55.668 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:29:55.668 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:29:55.668 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:29:55.668 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:29:55.672 [main] DataProviderXml - readXmlMedicine: [3] {}
+[ERROR] 2021-12-23 17:29:55.673 [main] DataProviderXml - getMedicalDevices: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2021-12-23 17:29:55.675 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:29:55.675 [main] DataProviderXml - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-23 17:29:55.676 [main] DataProviderXml - getMedicalDeviceByBarcode: [2] {} No Such Element
+[INFO ] 2021-12-23 17:29:55.676 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-23 17:30:28.074 [main] DataProviderXml - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-23 17:30:28.081 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:30:28.081 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:30:28.193 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:30:28.193 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:30:28.194 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:30:28.194 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:30:28.194 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:30:28.197 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:30:28.197 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:30:28.198 [main] DataProviderXml - isIdInDataMedicalDevice: [2] {} Element is found
+[INFO ] 2021-12-23 17:30:28.198 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-23 17:30:28.202 [main] DataProviderXml - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-23 17:30:28.202 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:30:28.202 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:30:28.206 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:30:28.207 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:30:28.207 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:30:28.207 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:30:28.207 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:30:28.211 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:30:28.211 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:30:28.211 [main] DataProviderXml - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-23 17:30:28.211 [main] DataProviderXml - getMedicalDeviceByBarcode: [2] {} No Such Element
+[INFO ] 2021-12-23 17:30:28.212 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-23 19:14:35.729 [main] DataProviderH2 - writeToH2User: [1] {}
+[INFO ] 2021-12-23 19:14:35.734 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2021-12-23 19:14:35.735 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2021-12-23 19:14:35.738 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 19:14:35.739 [main] DataProviderH2 - writeToH2User: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2021-12-23 19:14:35.740 [main] DataProviderH2 - writeToH2User: [4] {}
+[INFO ] 2021-12-23 19:16:23.486 [main] DataProviderH2 - writeToH2User: [1] {}
+[INFO ] 2021-12-23 19:16:23.490 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2021-12-23 19:16:23.491 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2021-12-23 19:16:23.494 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 19:16:23.494 [main] DataProviderH2 - writeToH2User: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[INFO ] 2021-12-23 19:16:23.496 [main] DataProviderH2 - writeToH2User: [4] {}
+[INFO ] 2021-12-23 20:04:50.473 [main] DataProviderH2 - writeToH2User: [1] {}
+[INFO ] 2021-12-23 20:04:50.477 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2021-12-23 20:04:50.535 [main] DataProviderH2 - connection: [3] {} Ошибка формата URL; должно быть "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]", на текущий момент "jdbc:h2:tcp:C:\Users\zadro\IdeaProjects\ru.sfedu.searchOfMeddicine\src\main\resources\H2.mv.db\pharmacyAplication\user"
+URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:tcp:C:\Users\zadro\IdeaProjects\ru.sfedu.searchOfMeddicine\src\main\resources\H2.mv.db\pharmacyAplication\user" [90046-200]

@@ -1,0 +1,126 @@
+[INFO ] 2022-01-22 16:45:47.464 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-22 16:45:47.514 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-22 16:45:47.514 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-22 16:45:47.516 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-22 16:45:47.517 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-22 16:45:47.518 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-22 16:45:47.518 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-22 16:45:47.545 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-22 16:45:47.546 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-22 16:45:47.546 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-22 16:45:47.547 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-22 16:45:47.547 [main] DataProviderH2 - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-22 16:45:47.548 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-22 16:45:47.549 [main] DataProviderH2 - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-22 16:46:10.696 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-22 16:46:10.790 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-22 16:46:10.791 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-22 16:46:10.791 [main] DataProviderH2 - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-22 16:46:10.792 [main] DataProviderH2 - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-22 16:46:10.792 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-22 16:46:11.071 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-22 16:46:11.071 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-22 16:46:11.072 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-22 16:46:11.074 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-22 16:46:11.074 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-22 16:46:11.074 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-22 16:46:11.099 [main] DataProviderH2 - getMeddicineByBarcode: [2] {}
+[INFO ] 2022-01-22 16:46:11.099 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-22 16:46:11.100 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-22 16:46:11.100 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:11.100 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-22 16:46:11.100 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-22 16:46:11.117 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-22 16:46:11.117 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-22 16:46:11.118 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-22 16:46:11.118 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-22 16:46:11.118 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-22 16:46:11.118 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-22 16:46:11.135 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-22 16:46:11.136 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-22 16:46:11.136 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-22 16:46:11.136 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-22 16:46:11.137 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-22 16:46:11.138 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-22 16:46:11.138 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:11.138 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-22 16:46:11.138 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-22 16:46:11.157 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-22 16:46:11.157 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-22 16:46:11.158 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-22 16:46:11.158 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-22 16:46:11.158 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-22 16:46:11.158 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-22 16:46:11.175 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-22 16:46:11.196 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-22 16:46:11.197 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-22 16:46:11.197 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-22 16:46:11.198 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-22 16:46:11.198 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-22 16:46:11.198 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-22 16:46:11.217 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-22 16:46:11.217 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-22 16:46:11.217 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-22 16:46:11.217 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-22 16:46:11.218 [main] DataProviderH2 - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-22 16:46:11.218 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-22 16:46:11.218 [main] DataProviderH2 - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-22 16:46:31.595 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-22 16:46:31.690 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-22 16:46:31.690 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-22 16:46:31.691 [main] DataProviderXml - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-22 16:46:31.691 [main] DataProviderXml - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-22 16:46:31.692 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.692 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.800 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.801 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.802 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.802 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.802 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.809 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.810 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.810 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-22 16:46:31.812 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-22 16:46:31.812 [main] DataProviderXml - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-22 16:46:31.812 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.812 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.818 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.819 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.819 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.819 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.819 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.825 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.825 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.825 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-22 16:46:31.825 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-22 16:46:31.826 [main] DataProviderXml - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-22 16:46:31.826 [main] DataProviderXml - searchMeddicineByName [1] {}
+[INFO ] 2022-01-22 16:46:31.826 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.826 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.832 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.832 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.833 [main] DataProviderXml - searchMeddicineByName [2] {}
+[INFO ] 2022-01-22 16:46:31.833 [main] DataProviderXml - searchMeddicineByName [1] {}
+[INFO ] 2022-01-22 16:46:31.834 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.834 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.839 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.839 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.840 [main] DataProviderXml - searchMeddicineByName [2] {}
+[INFO ] 2022-01-22 16:46:31.840 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-22 16:46:31.840 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-22 16:46:31.844 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-22 16:46:31.844 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-22 16:46:31.844 [main] DataProviderXml - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-22 16:46:31.845 [main] DataProviderXml - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-22 16:46:31.845 [main] DataProviderXml - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-22 16:47:11.263 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-22 16:47:11.364 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-22 16:47:11.365 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-22 16:47:11.365 [main] DataProviderXml - getTheAnaloguesByBarcode [1] {}

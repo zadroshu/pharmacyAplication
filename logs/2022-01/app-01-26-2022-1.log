@@ -1,0 +1,132 @@
+[INFO ] 2022-01-23 13:02:50.833 [main] PharmacyAplication - 
+Barcode: EAN-8:65833254
+Name: Name2
+Price: 23.523
+Category of the medicine: antibiotics
+Active substance: something1
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-23 13:02:50.842 [main] PharmacyAplication - 
+Barcode: CODE-128:CODE128A
+Name: Name3
+Price: 266.0
+Category of the medicine: antibiotics
+Active substance: something1
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-01-26 16:01:18.569 [main] DataProviderCsv - createOrder [1] {}
+[INFO ] 2022-01-26 16:01:18.578 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2022-01-26 16:01:18.579 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2022-01-26 16:01:18.580 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2022-01-26 16:01:18.698 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2022-01-26 16:01:18.700 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2022-01-26 16:01:18.700 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2022-01-26 16:01:18.700 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2022-01-26 16:01:18.700 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2022-01-26 16:01:18.708 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2022-01-26 16:01:18.708 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2022-01-26 16:01:18.710 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2022-01-26 16:01:18.711 [main] DataProviderCsv - getUserById: [4] {}
+[INFO ] 2022-01-26 16:01:18.712 [main] DataProviderCsv - pharmacyProductName [1] {}
+[INFO ] 2022-01-26 16:01:18.712 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-01-26 16:01:18.713 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-01-26 16:01:18.713 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-26 16:01:18.713 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-26 16:01:18.739 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-26 16:01:18.740 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-26 16:01:18.741 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-01-26 16:01:18.741 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-01-26 16:01:18.741 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-01-26 16:01:18.741 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-01-26 16:01:18.751 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-01-26 16:01:18.752 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-01-26 16:01:18.753 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-01-26 16:01:18.753 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-01-26 16:01:18.753 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-01-26 16:01:18.753 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-01-26 16:01:18.753 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-01-26 16:01:18.753 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-01-26 16:01:18.754 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-26 16:01:18.754 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-26 16:01:18.759 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-26 16:01:18.759 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-26 16:01:18.759 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-01-26 16:01:18.759 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-01-26 16:01:18.759 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-01-26 16:01:18.760 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-01-26 16:01:18.765 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-01-26 16:01:18.765 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-01-26 16:01:18.765 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-01-26 16:01:18.765 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-01-26 16:01:18.765 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-01-26 16:01:18.766 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-01-26 16:01:18.766 [main] DataProviderCsv - updateOrders: [1] {}
+[INFO ] 2022-01-26 16:01:18.766 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2022-01-26 16:01:18.766 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2022-01-26 16:01:18.773 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2022-01-26 16:01:18.773 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2022-01-26 16:01:18.773 [main] DataProviderCsv - isIdInDataOrder: [1] {}
+[INFO ] 2022-01-26 16:01:18.773 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2022-01-26 16:01:18.773 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2022-01-26 16:01:18.778 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2022-01-26 16:01:18.778 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2022-01-26 16:01:18.780 [main] DataProviderCsv - isIdInDataOrder: [2] {} Element is found
+[INFO ] 2022-01-26 16:01:18.784 [main] HistoryContent - putOrderHistory: [1] {}
+[INFO ] 2022-01-26 16:01:19.364 [main] HistoryContent - putOrderHistory: [2] {}
+[INFO ] 2022-01-26 16:01:21.206 [main] DataProviderCsv - appendOrders: [1] {}
+[INFO ] 2022-01-26 16:01:21.206 [main] DataProviderCsv - stringingDuplicateIdOrder: [1] {}
+[INFO ] 2022-01-26 16:01:21.208 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2022-01-26 16:01:21.208 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2022-01-26 16:01:21.220 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2022-01-26 16:01:21.221 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2022-01-26 16:01:21.222 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2022-01-26 16:01:21.222 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2022-01-26 16:01:21.234 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2022-01-26 16:01:21.235 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2022-01-26 16:01:21.237 [main] DataProviderCsv - stringingDuplicateIdOrder: [2] {}
+[INFO ] 2022-01-26 16:01:21.238 [main] DataProviderCsv - writeCsvOrder: [1] {}
+[INFO ] 2022-01-26 16:01:21.302 [main] DataProviderCsv - writeCsvOrder: [2] {}
+[INFO ] 2022-01-26 16:01:21.303 [main] DataProviderCsv - writeCsvOrder: [4] {}
+[INFO ] 2022-01-26 16:01:21.303 [main] DataProviderCsv - appendOrders: [5] {}
+[INFO ] 2022-01-26 16:01:21.304 [main] DataProviderCsv - updateOrders: [3] {}
+[INFO ] 2022-01-26 16:01:21.304 [main] DataProviderCsv - createOrder [3] {}
+[INFO ] 2022-01-26 16:03:57.633 [main] DataProviderXml - createOrder [1] {}
+[INFO ] 2022-01-26 16:03:57.638 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2022-01-26 16:03:57.638 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-26 16:03:57.638 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-26 16:03:57.786 [main] DataProviderXml - readXml: [3] {}
+[ERROR] 2022-01-26 16:03:57.788 [main] DataProviderXml - getUsers: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2022-01-26 16:03:57.792 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-26 16:03:57.793 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2022-01-26 16:03:57.793 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-26 16:03:57.793 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-26 16:03:57.800 [main] DataProviderXml - readXml: [3] {}
+[ERROR] 2022-01-26 16:03:57.800 [main] DataProviderXml - getUsers: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2022-01-26 16:03:57.803 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-26 16:03:57.805 [main] DataProviderXml - isIdInData: [3] {} No Such Element
+[INFO ] 2022-01-26 16:03:57.807 [main] DataProviderXml - getUserById: [2] {} No Such Element id = 4
+[INFO ] 2022-01-26 16:03:57.808 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-26 16:03:57.808 [main] DataProviderXml - createOrder [2] {} No such user
+[INFO ] 2022-01-26 16:03:57.808 [main] DataProviderXml - createOrder [3] {}
+[INFO ] 2022-01-26 16:05:49.805 [main] DataProviderXml - createOrder [1] {}
+[INFO ] 2022-01-26 16:05:49.811 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2022-01-26 16:05:49.813 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-26 16:05:49.813 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-26 16:05:49.950 [main] DataProviderXml - readXml: [3] {}
+[ERROR] 2022-01-26 16:05:49.951 [main] DataProviderXml - getUsers: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2022-01-26 16:05:49.955 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-26 16:05:49.955 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2022-01-26 16:05:49.955 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-26 16:05:49.955 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-26 16:05:49.958 [main] DataProviderXml - readXml: [3] {}
+[ERROR] 2022-01-26 16:05:49.958 [main] DataProviderXml - getUsers: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2022-01-26 16:05:49.961 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-26 16:05:49.963 [main] DataProviderXml - isIdInData: [3] {} No Such Element
+[INFO ] 2022-01-26 16:05:49.966 [main] DataProviderXml - getUserById: [2] {} No Such Element id = 4
+[INFO ] 2022-01-26 16:05:49.967 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-26 16:05:49.967 [main] DataProviderXml - createOrder [2] {} No such user
+[INFO ] 2022-01-26 16:05:49.967 [main] DataProviderXml - createOrder [3] {}
+[INFO ] 2022-01-26 16:06:51.467 [main] DataProviderXml - createOrder [1] {}
+[INFO ] 2022-01-26 16:06:51.473 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2022-01-26 16:06:51.474 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-26 16:06:51.474 [main] DataProviderXml - readXml: [1] {}

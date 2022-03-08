@@ -1,0 +1,116 @@
+[INFO ] 2021-12-25 21:35:42.856 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-25 21:35:42.944 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-25 21:35:42.944 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:42.945 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-25 21:35:42.946 [main] HistoryContent - putUserHistory: [1] {}
+[INFO ] 2021-12-25 21:35:42.976 [main] HistoryContent - putUserHistory: [2] {}
+[INFO ] 2021-12-25 21:35:43.983 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-25 21:35:43.995 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-25 21:35:43.995 [main] DataProviderCsv - deleteUserById: [3] {}
+[INFO ] 2021-12-25 21:35:44.001 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.010 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.010 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.010 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.020 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.022 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.022 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.023 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.023 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.023 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.024 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.035 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.036 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.036 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.036 [main] DataProviderCsv - searchPharmacyProductByCategory [4] {}
+[INFO ] 2021-12-25 21:35:44.038 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2021-12-25 21:35:44.044 [main] DataProviderCsv - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2021-12-25 21:35:44.048 [main] DataProviderCsv - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2021-12-25 21:35:44.053 [main] DataProviderCsv - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2021-12-25 21:35:44.055 [main] DataProviderCsv - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2021-12-25 21:35:44.060 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2021-12-25 21:35:44.060 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.061 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:44.102 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 7. [5,User5,Order{pharmacyProductList=[]},5User5]
+[INFO ] 2021-12-25 21:35:44.107 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:44.108 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-25 21:35:44.108 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.108 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:44.121 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 5. [10,Name10,Order{pharmacyProductList=[]},Password10]
+[INFO ] 2021-12-25 21:35:44.128 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:44.128 [main] DataProviderCsv - isIdInData: [3] {} No Such Element
+[INFO ] 2021-12-25 21:35:44.135 [main] DataProviderCsv - getUserById: [2] {} No Such Element id = 4
+[INFO ] 2021-12-25 21:35:44.135 [main] DataProviderCsv - getUserById: [4] {}
+[INFO ] 2021-12-25 21:35:44.147 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.147 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.147 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.149 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.154 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.160 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.160 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.160 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.160 [main] DataProviderCsv - searchPharmacyProductByCategory [4] {}
+[INFO ] 2021-12-25 21:35:44.160 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2021-12-25 21:35:44.161 [main] DataProviderCsv - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2021-12-25 21:35:44.162 [main] DataProviderCsv - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2021-12-25 21:35:44.163 [main] DataProviderCsv - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-25 21:35:44.164 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.164 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.169 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.169 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.169 [main] DataProviderCsv - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.169 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.169 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.174 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.174 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.174 [main] DataProviderCsv - isIdInDataMedicalDevice: [2] {} Element is found
+[INFO ] 2021-12-25 21:35:44.175 [main] DataProviderCsv - getMedicalDeviceByBarcode: [4] {}
+[INFO ] 2021-12-25 21:35:44.179 [main] DataProviderCsv - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-25 21:35:44.179 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.179 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.188 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.188 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.188 [main] DataProviderCsv - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.188 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.188 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.192 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.192 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.192 [main] DataProviderCsv - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-25 21:35:44.193 [main] DataProviderCsv - getMedicalDeviceByBarcode: [2] {}
+[INFO ] 2021-12-25 21:35:44.193 [main] DataProviderCsv - getMedicalDeviceByBarcode: [4] {}
+[INFO ] 2021-12-25 21:35:44.195 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.195 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-25 21:35:44.195 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.195 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:44.203 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 3. [3,Name3,Order{pharmacyProductList=[]},Password3]
+[INFO ] 2021-12-25 21:35:44.204 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:44.204 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-25 21:35:44.207 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-25 21:35:44.207 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-25 21:35:44.209 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.209 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-25 21:35:44.209 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.209 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:44.213 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 3. [9,Name9,Order{pharmacyProductList=[]},Password9]
+[INFO ] 2021-12-25 21:35:44.214 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:44.214 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-25 21:35:44.218 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-25 21:35:44.218 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-25 21:35:44.219 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.219 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:44.223 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 2. [1,Name1,Order{pharmacyProductList=[]},Password1]
+[INFO ] 2021-12-25 21:35:44.225 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:44.225 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:44.225 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:44.229 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 4. [3,Name3,Order{pharmacyProductList=[]},Password3]
+[INFO ] 2021-12-25 21:35:44.229 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:44.231 [main] DataProviderCsv - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2021-12-25 21:35:44.232 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-25 21:35:44.232 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.232 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.236 [main] DataProviderCsv - readCsvMedicine: [3] {}

@@ -1,0 +1,137 @@
+[INFO ] 2021-12-19 14:31:00.713 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-19 14:31:00.726 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-19 14:31:00.726 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-19 14:31:00.726 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2021-12-19 14:31:00.731 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2021-12-19 14:31:00.732 [main] DataProviderXml - appendUsers: [5] {}
+[INFO ] 2021-12-19 14:31:00.732 [main] DataProviderXml - updateUsers: [3] {}
+[INFO ] 2021-12-19 14:31:00.733 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-19 14:31:00.734 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-19 14:31:00.737 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-19 14:31:00.738 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-19 14:31:00.742 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2021-12-19 14:31:00.742 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-19 14:31:00.743 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-19 14:31:00.746 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-19 14:31:00.746 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-19 14:31:00.746 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2021-12-19 14:31:00.746 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-19 14:31:00.747 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-19 14:31:00.750 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-19 14:31:00.750 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-19 14:31:00.753 [main] DataProviderXml - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-19 14:31:00.753 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-19 15:53:13.820 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 15:53:13.986 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 15:54:45.170 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 15:54:45.349 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 15:54:45.349 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 15:56:56.498 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 15:56:56.707 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 15:56:56.709 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 15:57:35.817 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 15:57:35.991 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 15:58:53.081 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 15:58:53.244 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 15:58:53.244 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 15:59:53.269 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 15:59:53.442 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 15:59:53.442 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:01:49.070 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:01:49.230 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:01:49.230 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:02:12.527 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:02:12.600 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:02:12.600 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:30:45.386 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:30:45.463 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:30:45.463 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:30:45.463 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:30:45.524 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:30:45.524 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:30:45.527 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:30:45.536 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:33:05.960 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:33:06.033 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:33:06.033 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:33:06.033 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:33:06.099 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:33:06.099 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:33:06.106 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:33:06.231 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:35:52.356 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:35:52.476 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:37:33.642 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:37:33.755 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:39:39.974 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:42:07.593 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:42:07.710 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:52:14.301 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:52:14.418 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:52:49.019 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:52:49.131 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:58:44.034 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:58:44.109 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:58:44.110 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:58:44.110 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 16:58:44.167 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 16:58:44.167 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 16:58:44.173 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:58:44.281 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 16:59:10.120 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 16:59:10.222 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 17:10:02.690 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-19 17:10:02.696 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-19 17:10:02.796 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-19 17:10:02.796 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-19 17:10:53.728 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 17:10:53.733 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 17:10:53.828 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 17:10:53.828 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 17:37:50.597 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 17:37:50.678 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 17:37:50.679 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 17:37:50.679 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 17:37:50.740 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 17:37:50.740 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 17:37:50.741 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-19 17:37:50.742 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-19 17:37:50.742 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 17:37:50.743 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 17:37:50.851 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 17:37:50.852 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 17:37:50.852 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 17:37:50.852 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 17:37:50.858 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 17:37:50.858 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 17:37:50.858 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-19 17:37:50.858 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 17:37:50.883 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 17:37:50.883 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-19 18:48:31.682 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 18:48:31.817 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 18:48:31.817 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 18:48:31.818 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 18:48:31.905 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 18:48:31.905 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 18:48:31.905 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 18:48:32.038 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 18:48:32.038 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 18:48:32.042 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-19 18:48:32.044 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-19 18:48:32.045 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 18:48:32.045 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 18:48:32.342 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 18:48:32.343 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 18:48:32.343 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 18:48:32.344 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 18:48:32.364 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 18:48:32.364 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 18:48:32.366 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-19 18:48:32.366 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 18:48:32.449 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 18:48:32.449 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-19 18:48:59.567 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 18:48:59.642 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 18:48:59.642 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 18:48:59.643 [main] Barcode - readBarcode[1] {}

@@ -1,0 +1,129 @@
+[INFO ] 2021-12-22 18:07:47.744 [main] DataProviderCsv - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-22 18:07:47.758 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-22 18:07:47.759 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-22 18:07:47.765 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-22 18:07:47.766 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-22 18:07:47.766 [main] DataProviderCsv - isIdInDataMedicalDevice: [2] {} Element is found
+[INFO ] 2021-12-22 18:07:47.767 [main] DataProviderCsv - appendMedicalDevices: [1] {}
+[INFO ] 2021-12-22 18:07:47.767 [main] DataProviderCsv - stringingDuplicateBarcodeDevice: [1] {}
+[INFO ] 2021-12-22 18:07:47.767 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-22 18:07:47.767 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-22 18:07:47.772 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-22 18:07:47.772 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-22 18:07:47.773 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-22 18:07:47.773 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-22 18:07:47.786 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-22 18:07:47.787 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-22 18:07:47.787 [main] DataProviderCsv - stringingDuplicateBarcodeDevice: [2] {}
+[INFO ] 2021-12-22 18:07:47.787 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-22 18:07:47.806 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-22 18:07:47.806 [main] DataProviderCsv - appendMedicalDevices: [3] {}
+[INFO ] 2021-12-22 18:07:47.806 [main] DataProviderCsv - updateMedicalDevice: [3] {}
+[INFO ] 2021-12-22 18:23:31.198 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2021-12-22 18:23:31.201 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:23:31.202 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2021-12-22 18:23:31.290 [main] DataProviderXml - readXml: [2] {}Element 'userList' does not have a match in class project.utils.Wrapper at line 2
+[INFO ] 2021-12-22 18:23:31.293 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:23:31.293 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:23:31.293 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2021-12-22 18:23:31.293 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:23:31.294 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2021-12-22 18:23:31.295 [main] DataProviderXml - readXml: [2] {}Element 'userList' does not have a match in class project.utils.Wrapper at line 2
+[INFO ] 2021-12-22 18:23:31.297 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:23:31.297 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:23:31.299 [main] DataProviderXml - isIdInData: [3] {} No Such Element
+[INFO ] 2021-12-22 18:23:31.302 [main] DataProviderXml - getUserById: [2] {} No Such Element id = 3
+[INFO ] 2021-12-22 18:23:31.302 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-22 18:27:21.613 [main] DataProviderXml - updateUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.617 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.617 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-22 18:27:21.718 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:27:21.719 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:27:21.719 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2021-12-22 18:27:21.719 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.719 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-22 18:27:21.724 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:27:21.724 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:27:21.726 [main] DataProviderXml - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-22 18:27:21.726 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.726 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-22 18:27:21.726 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.726 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-22 18:27:21.730 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:27:21.730 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:27:21.730 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.731 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-22 18:27:21.734 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:27:21.734 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:27:21.735 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-22 18:27:21.735 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2021-12-22 18:27:21.754 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2021-12-22 18:27:21.754 [main] DataProviderXml - appendUsers: [5] {}
+[INFO ] 2021-12-22 18:27:21.755 [main] DataProviderXml - updateUsers: [3] {}
+[INFO ] 2021-12-22 18:27:21.755 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-22 18:27:21.755 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-22 18:27:21.761 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:27:21.762 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-22 18:33:26.892 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:33:26.964 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:33:26.965 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:33:26.965 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:33:27.015 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:33:27.016 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:33:27.016 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-22 18:33:27.125 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-22 18:40:38.879 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-22 18:40:38.970 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-22 18:41:21.227 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-22 18:41:21.328 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:42:49.560 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-22 18:42:49.656 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:48:39.839 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-22 18:48:39.843 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-22 18:48:39.935 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:48:39.936 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-22 18:54:58.636 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:54:58.703 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:54:58.703 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:54:58.704 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:54:58.787 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:54:58.788 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:54:58.788 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:54:58.850 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:54:58.850 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:54:58.851 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-22 18:54:58.852 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-22 18:54:58.852 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-22 18:54:58.852 [main] DataProviderXml - readXmlMedicine: [1] {}
+[ERROR] 2021-12-22 18:54:58.889 [main] DataProviderXml - readXmlMedicine: [2] {}ParseError at [row,col]:[1,1]
+Message: Content is not allowed in prolog.
+[INFO ] 2021-12-22 18:54:58.892 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:54:58.892 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-22 18:54:58.892 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-22 18:54:58.979 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-22 18:54:58.979 [main] DataProviderXml - appendMeddicines: [3] {}
+[INFO ] 2021-12-22 18:55:48.053 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-22 18:55:48.153 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:55:58.308 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:55:58.378 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:55:58.378 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:55:58.379 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:55:58.455 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:55:58.455 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:55:58.455 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-22 18:55:58.518 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-22 18:55:58.518 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-22 18:55:58.520 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-22 18:55:58.520 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-22 18:55:58.521 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-22 18:55:58.521 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-22 18:55:58.605 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:55:58.605 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-22 18:55:58.605 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-22 18:55:58.605 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-22 18:55:58.609 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-22 18:55:58.609 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-22 18:55:58.609 [main] DataProviderXml - stringingDuplicateBarcode: [2] {}
+[INFO ] 2021-12-22 18:55:58.609 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-22 18:55:58.629 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-22 18:55:58.630 [main] DataProviderXml - appendMeddicines: [3] {}

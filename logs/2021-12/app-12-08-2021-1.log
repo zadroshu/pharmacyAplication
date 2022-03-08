@@ -1,0 +1,133 @@
+[INFO ] 2021-12-08 16:37:54.286 [main] DataProviderCsv - deleteUserById: [1] {}
+[INFO ] 2021-12-08 16:37:54.290 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:37:54.291 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:37:54.376 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:37:54.376 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:37:54.377 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:37:54.377 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:37:54.377 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:37:54.381 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:37:54.382 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:37:54.392 [main] DataProviderCsv - isIdInData: [3] {} No Such Element
+[INFO ] 2021-12-08 16:37:54.392 [main] DataProviderCsv - deleteUserById: [4] {}
+[INFO ] 2021-12-08 16:38:20.457 [main] DataProviderCsv - deleteUserById: [1] {}
+[INFO ] 2021-12-08 16:38:20.461 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:38:20.463 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:38:20.565 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:38:20.565 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:38:20.566 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:38:20.566 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:38:20.566 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:38:20.571 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:38:20.571 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:38:20.572 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-08 16:38:20.573 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-08 16:38:20.592 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-08 16:38:20.592 [main] DataProviderCsv - deleteUserById: [4] {}
+[INFO ] 2021-12-08 16:56:42.978 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2021-12-08 16:56:42.983 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:56:42.983 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:56:43.070 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:56:43.071 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:56:43.071 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:56:43.071 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:56:43.071 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:56:43.075 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:56:43.075 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:56:43.076 [main] DataProviderCsv - isIdInData: [3] {} No Such Element
+[INFO ] 2021-12-08 16:56:43.080 [main] DataProviderCsv - getUserById: [2] {} No Such Element id = 2
+[INFO ] 2021-12-08 16:56:43.080 [main] DataProviderCsv - getUserById: [4] {}
+[INFO ] 2021-12-08 16:57:01.606 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2021-12-08 16:57:01.610 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:57:01.610 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:57:01.695 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:57:01.695 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:57:01.695 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:57:01.696 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:57:01.696 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:57:01.700 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:57:01.700 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:57:01.701 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-08 16:57:01.702 [main] DataProviderCsv - getUserById: [4] {}
+[INFO ] 2021-12-08 16:57:35.040 [main] DataProviderCsv - updateUsers: [1] {}
+[INFO ] 2021-12-08 16:57:35.044 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:57:35.045 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:57:35.139 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:57:35.140 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:57:35.140 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:57:35.140 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:57:35.140 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:57:35.145 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:57:35.145 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:57:35.146 [main] DataProviderCsv - isIdInData: [3] {} No Such Element
+[INFO ] 2021-12-08 16:57:35.146 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-08 16:57:35.146 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-08 16:57:35.146 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:57:35.147 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:57:35.152 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:57:35.152 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:57:35.153 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-08 16:57:35.154 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-08 16:57:35.175 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-08 16:57:35.175 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-08 16:57:35.175 [main] DataProviderCsv - updateUsers: [3] {}
+[INFO ] 2021-12-08 16:57:35.175 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:57:35.175 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:57:35.188 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:57:35.188 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:58:18.962 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2021-12-08 16:58:18.967 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:58:18.967 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:58:19.049 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:58:19.049 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:58:19.050 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:58:19.050 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:58:19.050 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:58:19.055 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:58:19.055 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:58:19.056 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-08 16:58:19.057 [main] DataProviderCsv - getUserById: [4] {}
+[INFO ] 2021-12-08 16:58:19.057 [main] DataProviderCsv - updateUsers: [1] {}
+[INFO ] 2021-12-08 16:58:19.057 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:58:19.057 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:58:19.061 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:58:19.062 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:58:19.062 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-08 16:58:19.062 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:58:19.062 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:58:19.067 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:58:19.067 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:58:19.067 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-08 16:58:19.067 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-08 16:58:19.067 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-08 16:58:19.067 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-08 16:58:19.068 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-08 16:58:19.079 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-08 16:58:19.079 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-08 16:58:19.080 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-08 16:58:19.080 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-08 16:58:19.105 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-08 16:58:19.106 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-08 16:58:19.106 [main] DataProviderCsv - updateUsers: [3] {}
+[INFO ] 2021-12-08 17:01:21.570 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2021-12-08 17:01:21.574 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-08 17:01:21.574 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-08 17:01:21.574 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2021-12-08 17:01:21.622 [main] DataProviderXml - readXml: [2] {}ParseError at [row,col]:[1,1]
+Message: Content is not allowed in prolog.
+[INFO ] 2021-12-08 17:01:21.625 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-08 17:01:21.625 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-08 17:01:21.625 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-08 17:01:21.626 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2021-12-08 17:01:21.718 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2021-12-08 17:01:21.718 [main] DataProviderXml - appendUsers: [5] {}
+[INFO ] 2021-12-08 17:03:40.923 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2021-12-08 17:03:40.927 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-08 17:03:40.928 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-08 17:03:40.928 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2021-12-08 17:03:40.967 [main] DataProviderXml - readXml: [2] {}ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+[INFO ] 2021-12-08 17:03:40.969 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-08 17:03:40.969 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-08 17:03:40.970 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-08 17:03:40.970 [main] DataProviderXml - writeXml: [1] {}

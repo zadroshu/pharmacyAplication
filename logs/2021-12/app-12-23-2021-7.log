@@ -1,0 +1,120 @@
+[INFO ] 2021-12-23 21:02:59.698 [main] DataProviderH2 - writeToH2Meddicine: [4] {}
+[INFO ] 2021-12-23 21:04:02.778 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 21:04:02.858 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 21:04:02.858 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 21:04:02.859 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 21:04:02.915 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 21:04:02.915 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 21:04:02.918 [main] DataProviderH2 - writeToH2Meddicine: [1] {}
+[INFO ] 2021-12-23 21:04:02.919 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 21:04:03.196 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 21:04:03.196 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 21:04:03.215 [main] DataProviderH2 - writeToH2Meddicine: [3] {} Синтаксическая ошибка в выражении SQL "INSERT INTO MEDDICINE VALUES (I2/5:[*]1520152015201520, 'Name1', 'djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej', 1.0, 'something1', 'antibiotics')"; ожидалось "[, ::, AT, FORMAT, *, /, %, +, -, ||, ~, !~, NOT, LIKE, ILIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"
+Syntax error in SQL statement "INSERT INTO MEDDICINE VALUES (I2/5:[*]1520152015201520, 'Name1', 'djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej', 1.0, 'something1', 'antibiotics')"; expected "[, ::, AT, FORMAT, *, /, %, +, -, ||, ~, !~, NOT, LIKE, ILIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO MEDDICINE VALUES (I2/5:1520152015201520, 'Name1', 'djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej', 1.0, 'something1', 'antibiotics') [42001-200]
+[INFO ] 2021-12-23 21:04:03.220 [main] DataProviderH2 - writeToH2Meddicine: [4] {}
+[INFO ] 2021-12-23 21:05:14.268 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 21:05:14.346 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 21:05:14.346 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 21:05:14.346 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 21:05:14.404 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 21:05:14.404 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 21:05:14.407 [main] DataProviderH2 - writeToH2Meddicine: [1] {}
+[INFO ] 2021-12-23 21:05:14.408 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 21:05:14.659 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 21:05:14.659 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 21:05:14.685 [main] DataProviderH2 - writeToH2Meddicine: [2] {}
+[INFO ] 2021-12-23 21:05:14.685 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 21:05:14.709 [main] DataProviderH2 - writeToH2Meddicine: [4] {}
+[INFO ] 2021-12-23 21:51:29.715 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 21:51:29.720 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 21:51:30.071 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 21:51:30.071 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 21:51:30.071 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[ERROR] 2021-12-23 21:51:30.078 [main] DataProviderH2 - h2ToMeddicineList [3] {} Столбец "NAMEOFPHARMACYPRODUCT" не найден
+Column "NAMEOFPHARMACYPRODUCT" not found [42122-200]
+[INFO ] 2021-12-23 21:51:30.081 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 21:51:30.082 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 21:51:30.097 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 21:51:30.098 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 21:54:48.440 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 21:54:48.445 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 21:54:48.668 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 21:54:48.668 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 21:54:48.669 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-23 21:54:48.671 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-23 21:54:48.671 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 21:54:48.671 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 21:54:48.687 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 21:54:48.687 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 22:00:15.719 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2021-12-23 22:00:15.724 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-23 22:00:15.724 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:00:15.937 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:00:15.938 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 22:00:15.938 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-23 22:00:15.940 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-23 22:00:15.940 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-23 22:00:15.940 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 22:00:15.960 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-23 22:00:15.960 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 22:00:15.960 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2021-12-23 22:00:15.961 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2021-12-23 22:06:44.304 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:06:44.385 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:06:44.386 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:06:44.386 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:06:44.463 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:06:44.463 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:06:44.463 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:06:44.513 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:06:44.514 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:06:44.517 [main] DataProviderH2 - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 22:06:44.518 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [1] {}
+[INFO ] 2021-12-23 22:06:44.518 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:06:44.724 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:06:44.724 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 22:06:44.728 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [3] {} Синтаксическая ошибка в выражении SQL "DELETE FROM USER WHERE BARCODE = CODE-128:[*]CODE128A"
+Syntax error in SQL statement "DELETE FROM USER WHERE BARCODE = CODE-128:[*]CODE128A"; SQL statement:
+DELETE FROM USER WHERE BARCODE = CODE-128:CODE128A [42000-200]
+[ERROR] 2021-12-23 22:06:44.730 [main] DataProviderH2 - appendMeddicines: [3] {} Duplicates didn't delete
+[INFO ] 2021-12-23 22:06:44.730 [main] DataProviderH2 - appendMeddicines: [5] {}
+[INFO ] 2021-12-23 22:07:45.973 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:07:46.038 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:07:46.038 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:07:46.038 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:07:46.110 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:07:46.111 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:07:46.111 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:07:46.164 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:07:46.164 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:07:46.167 [main] DataProviderH2 - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 22:07:46.168 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [1] {}
+[INFO ] 2021-12-23 22:07:46.168 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:07:46.376 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:07:46.376 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 22:07:46.382 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [3] {} Столбец "BARCODE" не найден
+Column "BARCODE" not found; SQL statement:
+DELETE FROM USER WHERE BARCODE = 'CODE-128:CODE128A' [42122-200]
+[ERROR] 2021-12-23 22:07:46.383 [main] DataProviderH2 - appendMeddicines: [3] {} Duplicates didn't delete
+[INFO ] 2021-12-23 22:07:46.384 [main] DataProviderH2 - appendMeddicines: [5] {}
+[INFO ] 2021-12-23 22:08:38.702 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:08:38.771 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:08:38.771 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:08:38.771 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:08:38.841 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:08:38.842 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:08:38.842 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 22:08:38.893 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 22:08:38.893 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 22:08:38.896 [main] DataProviderH2 - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 22:08:38.897 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [1] {}
+[INFO ] 2021-12-23 22:08:38.897 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 22:08:39.101 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 22:08:39.102 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 22:08:39.106 [main] DataProviderH2 - stringingDuplicateIdDeleteMeddicine: [3] {} Столбец "BARCODE" не найден
+Column "BARCODE" not found; SQL statement:
+DELETE FROM USER WHERE BARCODE = 'CODE-128:CODE128A' [42122-200]
+[ERROR] 2021-12-23 22:08:39.108 [main] DataProviderH2 - appendMeddicines: [3] {} Duplicates didn't delete
+[INFO ] 2021-12-23 22:08:39.109 [main] DataProviderH2 - appendMeddicines: [5] {}
+[INFO ] 2021-12-23 22:10:46.729 [main] Barcode - readBarcode[1] {}

@@ -1,0 +1,129 @@
+[INFO ] 2021-12-24 15:23:53.970 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 15:23:53.977 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-24 15:23:53.982 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:53.986 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2021-12-24 15:23:53.986 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-24 15:23:53.986 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:53.987 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:53.991 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:53.991 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:53.992 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:53.999 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.003 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.004 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.004 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-24 15:23:54.004 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.008 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.009 [main] DataProviderXml - appendUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.010 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2021-12-24 15:23:54.011 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-24 15:23:54.012 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:54.012 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.017 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.017 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.017 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:54.017 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.022 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.022 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.022 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-24 15:23:54.022 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.026 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.026 [main] DataProviderXml - appendUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.026 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:54.026 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.031 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.031 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.031 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:54.031 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:54.035 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:54.036 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:54.051 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:54.057 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:54.059 [main] DataProviderXml - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-24 15:23:54.060 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-24 15:23:54.060 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-24 15:23:54.064 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:54.064 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-24 15:23:54.064 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-24 15:23:54.065 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-24 15:23:54.065 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-24 15:23:54.068 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:54.068 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-24 15:23:54.068 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-24 15:23:54.070 [main] HistoryContent - putMeddicineHistory: [1] {}
+[INFO ] 2021-12-24 15:23:54.096 [main] HistoryContent - putMeddicineHistory: [2] {}
+[INFO ] 2021-12-24 15:23:55.024 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-24 15:23:55.031 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:55.032 [main] DataProviderXml - deleteMeddicineByBarcode: [3] {}
+[INFO ] 2021-12-24 15:23:55.037 [main] DataProviderXml - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-24 15:23:55.038 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-24 15:23:55.038 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:55.045 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:55.045 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-24 15:23:55.046 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:55.046 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-24 15:23:55.047 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:55.051 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:55.051 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-24 15:23:55.051 [main] DataProviderXml - isIdInDataMedicalDevice: [2] {} Element is found
+[INFO ] 2021-12-24 15:23:55.054 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-24 15:23:55.055 [main] DataProviderXml - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-24 15:23:55.056 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-24 15:23:55.056 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:55.062 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:55.062 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-24 15:23:55.063 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:55.063 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-24 15:23:55.063 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-24 15:23:55.067 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:55.067 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-24 15:23:55.067 [main] DataProviderXml - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-24 15:23:55.070 [main] DataProviderXml - getMedicalDeviceByBarcode: [2] {} No Such Element
+[INFO ] 2021-12-24 15:23:55.070 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-24 15:23:55.073 [main] DataProviderXml - updateUsers: [1] {}
+[INFO ] 2021-12-24 15:23:55.076 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:55.076 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:55.083 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:55.083 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:55.086 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2021-12-24 15:23:55.087 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:55.087 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:55.093 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:55.093 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:55.093 [main] DataProviderXml - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-24 15:23:55.094 [main] HistoryContent - putUserHistory: [1] {}
+[INFO ] 2021-12-24 15:23:55.120 [main] HistoryContent - putUserHistory: [2] {}
+[INFO ] 2021-12-24 15:23:55.988 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2021-12-24 15:23:55.988 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-24 15:23:55.988 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:55.988 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:55.995 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:55.995 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:55.995 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:55.996 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:55.999 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:55.999 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:55.999 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-24 15:23:56.002 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2021-12-24 15:23:56.009 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2021-12-24 15:23:56.009 [main] DataProviderXml - appendUsers: [3] {}
+[INFO ] 2021-12-24 15:23:56.009 [main] DataProviderXml - updateUsers: [3] {}
+[INFO ] 2021-12-24 15:23:56.009 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2021-12-24 15:23:56.009 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2021-12-24 15:23:56.018 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2021-12-24 15:23:56.018 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2021-12-24 15:23:56.021 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 15:23:56.159 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 15:23:56.159 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 15:23:56.159 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 15:23:56.257 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 15:23:56.257 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 15:23:56.257 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 15:23:56.377 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 15:23:56.377 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 15:23:56.377 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-24 15:23:56.377 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-24 15:23:56.377 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-24 15:23:56.377 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-24 15:23:56.379 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-24 15:23:56.379 [main] DataProviderXml - getMeddicines: [3] {}

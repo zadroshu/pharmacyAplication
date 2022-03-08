@@ -1,0 +1,122 @@
+[INFO ] 2021-12-23 16:42:45.729 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-23 16:42:45.745 [main] DataProviderXml - getMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-23 16:42:45.745 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:42:45.746 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:42:45.751 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:42:45.751 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:42:45.751 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-23 16:42:45.752 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:42:45.752 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:42:45.763 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:42:45.764 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:42:45.764 [main] DataProviderXml - isIdInDataMedicine: [3] {} No Such Element
+[INFO ] 2021-12-23 16:42:45.764 [main] DataProviderXml - getMeddicineByBarcode: [2] {} No Such Element
+[INFO ] 2021-12-23 16:42:45.765 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2021-12-23 16:55:58.130 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 16:55:58.205 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 16:55:58.206 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 16:55:58.206 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 16:55:58.263 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 16:55:58.263 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 16:55:58.264 [main] DataProviderXml - writeXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 16:55:58.386 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 16:59:10.085 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 16:59:10.200 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:02:55.282 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:02:55.287 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:02:55.391 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:02:55.391 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:07:47.874 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 17:07:47.945 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 17:07:47.945 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 17:07:47.946 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 17:07:48.028 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 17:07:48.028 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 17:07:48.028 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 17:07:48.087 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 17:07:48.088 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 17:07:48.089 [main] DataProviderXml - appendMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:07:48.090 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:07:48.090 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:07:48.090 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:07:48.208 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:07:48.209 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:07:48.209 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:07:48.209 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:07:48.211 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:07:48.211 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:07:48.212 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [2] {}
+[INFO ] 2021-12-23 17:07:48.212 [main] DataProviderXml - writeXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:07:48.238 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 17:07:48.238 [main] DataProviderXml - appendMedicalDevices: [3] {}
+[INFO ] 2021-12-23 17:20:23.970 [main] DataProviderXml - deleteMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-23 17:20:23.974 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:20:23.976 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:24.092 [main] DataProviderXml - readXmlMedicine: [3] {}
+[ERROR] 2021-12-23 17:20:24.100 [main] DataProviderXml - getMedicalDevices: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2021-12-23 17:20:24.102 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:20:24.102 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:24.102 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:20:24.103 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:24.107 [main] DataProviderXml - readXmlMedicine: [3] {}
+[ERROR] 2021-12-23 17:20:24.107 [main] DataProviderXml - getMedicalDevices: [2] {} Cannot invoke "java.util.Collection.toArray()" because "c" is null
+[INFO ] 2021-12-23 17:20:24.109 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:20:24.110 [main] DataProviderXml - isIdInDataMedicalDevice: [3] {} No Such Element
+[INFO ] 2021-12-23 17:20:24.111 [main] DataProviderXml - deleteMeddicineByBarcode: [3] {}
+[INFO ] 2021-12-23 17:20:45.804 [main] DataProviderXml - deleteMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-23 17:20:45.807 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:20:45.809 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:45.924 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:20:45.924 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:20:45.925 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:45.925 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:20:45.925 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:45.928 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:20:45.929 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:20:45.929 [main] DataProviderXml - isIdInDataMedicalDevice: [2] {} Element is found
+[INFO ] 2021-12-23 17:20:45.930 [main] DataProviderXml - writeXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:20:45.957 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 17:20:45.957 [main] DataProviderXml - deleteMeddicineByBarcode: [3] {}
+[INFO ] 2021-12-23 17:25:28.192 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 17:25:28.261 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 17:25:28.261 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 17:25:28.265 [main] DataProviderXml - updateMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.266 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:25:28.266 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.378 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:25:28.378 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:25:28.378 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.378 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:25:28.378 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.381 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:25:28.382 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:25:28.382 [main] DataProviderXml - isIdInDataMedicalDevice: [2] {} Element is found
+[INFO ] 2021-12-23 17:25:28.383 [main] DataProviderXml - appendMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:25:28.383 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.383 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:25:28.383 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.386 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:25:28.386 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:25:28.386 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:25:28.386 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.391 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:25:28.391 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:25:28.391 [main] DataProviderXml - stringingDuplicateBarcodeMedicalDevice: [2] {}
+[INFO ] 2021-12-23 17:25:28.392 [main] DataProviderXml - writeXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:25:28.418 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 17:25:28.418 [main] DataProviderXml - appendMedicalDevices: [3] {}
+[INFO ] 2021-12-23 17:25:28.418 [main] DataProviderXml - updateMedicalDevice: [3] {}
+[INFO ] 2021-12-23 17:26:10.011 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 17:26:10.098 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 17:26:10.098 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 17:26:10.103 [main] DataProviderXml - updateMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.104 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:10.104 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.206 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:10.207 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:10.207 [main] DataProviderXml - isIdInDataMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.207 [main] DataProviderXml - getMedicalDevices: [1] {}
+[INFO ] 2021-12-23 17:26:10.207 [main] DataProviderXml - readXmlMedicalDevice: [1] {}
+[INFO ] 2021-12-23 17:26:10.210 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 17:26:10.210 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 17:26:10.211 [main] DataProviderXml - isIdInDataMedicalDevice: [2] {} Element is found

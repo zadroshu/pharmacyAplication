@@ -1,0 +1,125 @@
+[INFO ] 2021-12-23 16:39:32.108 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 16:39:32.120 [main] DataProviderXml - updateMeddicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.121 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:32.122 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.240 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:32.241 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:32.241 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.241 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:32.241 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.245 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:32.247 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:32.248 [main] DataProviderXml - isIdInDataMedicine: [3] {} No Such Element
+[INFO ] 2021-12-23 16:39:32.248 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:32.248 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-23 16:39:32.249 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:32.249 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.254 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:32.254 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:32.254 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:32.254 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.258 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:32.259 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:32.260 [main] DataProviderXml - stringingDuplicateBarcode: [2] {}
+[INFO ] 2021-12-23 16:39:32.260 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:32.281 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:32.281 [main] DataProviderXml - appendMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:32.282 [main] DataProviderXml - updateMeddicine: [3] {}
+[INFO ] 2021-12-23 16:39:53.054 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 16:39:53.130 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 16:39:53.131 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 16:39:53.134 [main] DataProviderXml - updateMeddicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.135 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:53.135 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.245 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:53.246 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:53.246 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.246 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:53.246 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.251 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:53.251 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:53.252 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-23 16:39:53.252 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:53.252 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-23 16:39:53.252 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:53.252 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.258 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:53.258 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:53.259 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:39:53.259 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.263 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:53.263 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:53.265 [main] DataProviderXml - stringingDuplicateBarcode: [2] {}
+[INFO ] 2021-12-23 16:39:53.265 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-23 16:39:53.296 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 16:39:53.296 [main] DataProviderXml - appendMeddicines: [3] {}
+[INFO ] 2021-12-23 16:39:53.296 [main] DataProviderXml - updateMeddicine: [3] {}
+[INFO ] 2021-12-23 16:40:30.743 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 16:40:30.850 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 16:40:30.851 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 16:40:30.856 [main] DataProviderXml - updateMeddicine: [1] {}
+[INFO ] 2021-12-23 16:40:30.858 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:30.858 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:30.982 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:30.982 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:30.982 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:30.982 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:30.983 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:30.986 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:30.986 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:30.987 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-23 16:40:30.987 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:30.987 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-23 16:40:30.987 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:30.987 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:30.992 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:30.992 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:30.993 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:30.993 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:30.996 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:30.996 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:30.997 [main] DataProviderXml - stringingDuplicateBarcode: [2] {}
+[INFO ] 2021-12-23 16:40:30.997 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:31.023 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:31.023 [main] DataProviderXml - appendMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:31.023 [main] DataProviderXml - updateMeddicine: [3] {}
+[INFO ] 2021-12-23 16:40:51.696 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 16:40:51.784 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 16:40:51.785 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 16:40:51.788 [main] DataProviderXml - updateMeddicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.789 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:51.789 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.913 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:51.913 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:51.913 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.913 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:51.914 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.918 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:51.918 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:51.919 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-23 16:40:51.920 [main] DataProviderXml - appendMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:51.920 [main] DataProviderXml - stringingDuplicateBarcode: [1] {}
+[INFO ] 2021-12-23 16:40:51.920 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:51.920 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.926 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:51.926 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:51.926 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:40:51.926 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.931 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:51.931 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:51.932 [main] DataProviderXml - stringingDuplicateBarcode: [2] {}
+[INFO ] 2021-12-23 16:40:51.932 [main] DataProviderXml - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-23 16:40:51.958 [main] DataProviderXml - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-23 16:40:51.958 [main] DataProviderXml - appendMeddicines: [3] {}
+[INFO ] 2021-12-23 16:40:51.958 [main] DataProviderXml - updateMeddicine: [3] {}
+[INFO ] 2021-12-23 16:42:45.605 [main] DataProviderXml - getMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-23 16:42:45.611 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:42:45.611 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:42:45.723 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:42:45.723 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:42:45.723 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-23 16:42:45.723 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2021-12-23 16:42:45.723 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2021-12-23 16:42:45.728 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2021-12-23 16:42:45.728 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2021-12-23 16:42:45.729 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found

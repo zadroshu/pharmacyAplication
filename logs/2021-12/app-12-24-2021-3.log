@@ -1,0 +1,127 @@
+[INFO ] 2021-12-24 14:53:17.975 [main] DataProviderH2 - h2ToMedicalDeviceList: [4] {}
+[INFO ] 2021-12-24 14:53:17.988 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:17.988 [main] DataProviderH2 - readMedicalDeviceFromH2M: [2] {}
+[INFO ] 2021-12-24 14:53:17.989 [main] DataProviderH2 - readMedicalDeviceFromH2M: [4] {}
+[INFO ] 2021-12-24 14:53:17.989 [main] DataProviderH2 - getMedicalDevices: [2] {}
+[INFO ] 2021-12-24 14:53:17.989 [main] DataProviderH2 - getMedicalDevices: [4] {}
+[INFO ] 2021-12-24 14:53:17.990 [main] HistoryContent - putMedicalDeviceHistory: [1] {}
+[INFO ] 2021-12-24 14:53:18.017 [main] HistoryContent - putMedicalDeviceHistory: [2] {}
+[INFO ] 2021-12-24 14:53:18.835 [main] DataProviderH2 - deleteMedicalDeviceByBarcode: [2] {}
+[INFO ] 2021-12-24 14:53:18.839 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:18.868 [main] DataProviderH2 - deleteMedicalDeviceByBarcode: [4] {}
+[INFO ] 2021-12-24 14:53:18.873 [main] DataProviderH2 - appendUsers: [1] {}
+[INFO ] 2021-12-24 14:53:18.873 [main] DataProviderH2 - stringingDuplicateIdDeleteUser: [1] {}
+[INFO ] 2021-12-24 14:53:18.874 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:18.897 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:18.897 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:18.899 [main] DataProviderH2 - stringingDuplicateIdDeleteUser: [2] {}
+[INFO ] 2021-12-24 14:53:18.899 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:18.918 [main] DataProviderH2 - writeToH2User: [1] {}
+[INFO ] 2021-12-24 14:53:18.918 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:18.934 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:18.934 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:18.934 [main] DataProviderH2 - writeToH2User: [2] {}
+[INFO ] 2021-12-24 14:53:18.934 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:18.951 [main] DataProviderH2 - writeToH2User: [4] {}
+[INFO ] 2021-12-24 14:53:18.952 [main] DataProviderH2 - appendUsers: [2] {}
+[INFO ] 2021-12-24 14:53:18.952 [main] DataProviderH2 - appendUsers: [5] {}
+[INFO ] 2021-12-24 14:53:18.954 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 14:53:19.013 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 14:53:19.013 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 14:53:19.014 [main] DataProviderH2 - updateMedicalDevice [1] {}
+[INFO ] 2021-12-24 14:53:19.014 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.029 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.029 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.029 [main] DataProviderH2 - takeHistoryMedicalDevice [1] {}
+[INFO ] 2021-12-24 14:53:19.029 [main] DataProviderH2 - getMedicalDevices: [1] {}
+[INFO ] 2021-12-24 14:53:19.029 [main] DataProviderH2 - readMedicalDeviceFromH2M: [1] {}
+[INFO ] 2021-12-24 14:53:19.029 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.030 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.030 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - h2ToMedicalDeviceList: [1] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - h2ToMedicalDeviceList: [2] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - h2ToMedicalDeviceList: [4] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - readMedicalDeviceFromH2M: [2] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - readMedicalDeviceFromH2M: [4] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - getMedicalDevices: [2] {}
+[INFO ] 2021-12-24 14:53:19.031 [main] DataProviderH2 - getMedicalDevices: [4] {}
+[ERROR] 2021-12-24 14:53:19.032 [main] DataProviderH2 - takeHistoryMedicalDevice: [2] {} No value present
+[INFO ] 2021-12-24 14:53:19.046 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.059 [main] DataProviderH2 - updateMedicalDevice: [2] {}
+[INFO ] 2021-12-24 14:53:19.059 [main] DataProviderH2 - updateMedicalDevice [4] {}
+[INFO ] 2021-12-24 14:53:19.061 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 14:53:19.163 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 14:53:19.164 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 14:53:19.164 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 14:53:19.343 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 14:53:19.344 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 14:53:19.344 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 14:53:19.416 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 14:53:19.416 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 14:53:19.416 [main] DataProviderH2 - appendMeddicines: [1] {}
+[INFO ] 2021-12-24 14:53:19.416 [main] DataProviderH2 - stringingDuplicateBarcodeDeleteMedicalDevice: [1] {}
+[INFO ] 2021-12-24 14:53:19.416 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.431 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.431 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.432 [main] DataProviderH2 - stringingDuplicateBarcodeDeleteMedicalDevice: [2] {}
+[INFO ] 2021-12-24 14:53:19.432 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.447 [main] DataProviderH2 - writeToH2MedicalDevice: [1] {}
+[INFO ] 2021-12-24 14:53:19.447 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.461 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.461 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.463 [main] DataProviderH2 - writeToH2MedicalDevice: [2] {}
+[INFO ] 2021-12-24 14:53:19.463 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.479 [main] DataProviderH2 - writeToH2MedicalDevice: [4] {}
+[INFO ] 2021-12-24 14:53:19.479 [main] DataProviderH2 - appendMedicalDevices: [2] {}
+[INFO ] 2021-12-24 14:53:19.479 [main] DataProviderH2 - appendMedicalDevices: [5] {}
+[INFO ] 2021-12-24 14:53:19.480 [main] DataProviderH2 - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-24 14:53:19.480 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.496 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.496 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.496 [main] DataProviderH2 - h2ToMedicalDeviceList: [1] {}
+[INFO ] 2021-12-24 14:53:19.497 [main] DataProviderH2 - h2ToMedicalDeviceList: [2] {}
+[INFO ] 2021-12-24 14:53:19.497 [main] DataProviderH2 - h2ToMedicalDeviceList: [4] {}
+[INFO ] 2021-12-24 14:53:19.497 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.514 [main] DataProviderH2 - getMedicalDeviceByBarcode: [2] {}
+[INFO ] 2021-12-24 14:53:19.515 [main] DataProviderH2 - getMedicalDeviceByBarcode: [1] {}
+[INFO ] 2021-12-24 14:53:19.515 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.532 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.532 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.533 [main] DataProviderH2 - h2ToMedicalDeviceList: [1] {}
+[INFO ] 2021-12-24 14:53:19.533 [main] DataProviderH2 - h2ToMedicalDeviceList: [2] {}
+[INFO ] 2021-12-24 14:53:19.533 [main] DataProviderH2 - h2ToMedicalDeviceList: [4] {}
+[INFO ] 2021-12-24 14:53:19.533 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.548 [main] DataProviderH2 - getMedicalDeviceByBarcode: [2] {}
+[INFO ] 2021-12-24 14:53:19.550 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2021-12-24 14:53:19.550 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.564 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.564 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.565 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-24 14:53:19.565 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-24 14:53:19.565 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-24 14:53:19.565 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.581 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2021-12-24 14:53:19.581 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-24 14:53:19.583 [main] DataProviderH2 - getMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-24 14:53:19.583 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.594 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.594 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.595 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-24 14:53:19.595 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-24 14:53:19.595 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-24 14:53:19.595 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.610 [main] DataProviderH2 - getMeddicineByBarcode: [2] {}
+[INFO ] 2021-12-24 14:53:19.611 [main] DataProviderH2 - getMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-24 14:53:19.611 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-24 14:53:19.627 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-24 14:53:19.627 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-24 14:53:19.628 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2021-12-24 14:53:19.628 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2021-12-24 14:53:19.628 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2021-12-24 14:53:19.628 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-24 14:53:19.644 [main] DataProviderH2 - getMeddicineByBarcode: [2] {}
+[INFO ] 2021-12-24 14:53:19.646 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-24 14:53:19.715 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-24 14:53:19.716 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-24 14:53:19.716 [main] Barcode - readBarcode[1] {}

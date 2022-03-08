@@ -1,0 +1,5 @@
+BARCODE,CATEGORYOFPHARMACYDEVICES,DESCRIPTION,NAMEOFPHARMACYPRODUCT,PRICE
+I2/5:1520152015201520,something1,djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej,Name1,1.0
+EAN-8:65833254,something2,djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej,Name2,1.0
+"new Barcode().readBarcode(PATHPROG, barcodeJPG2)",something2,d22222222222jsdfdsfdsfdimeoiej,Name3new,13333.0
+CODE-128:CODE128A,something2,d22222222222jsdfdsfdsfdimeoiej,Name3,13333.0

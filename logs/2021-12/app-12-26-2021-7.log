@@ -1,0 +1,126 @@
+[INFO ] 2021-12-26 14:34:18.370 [main] DataProviderCsv - writeCsvOrder: [4] {}
+[INFO ] 2021-12-26 14:34:18.380 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:18.387 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:18.390 [main] DataProviderCsv - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2021-12-26 14:34:18.390 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-26 14:34:18.391 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:18.391 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.398 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:18.399 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:18.407 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.407 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:18.407 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:18.415 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.422 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:18.423 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:18.423 [main] DataProviderCsv - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2021-12-26 14:34:18.423 [main] DataProviderCsv - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2021-12-26 14:34:18.424 [main] DataProviderCsv - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2021-12-26 14:34:18.427 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2021-12-26 14:34:18.427 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2021-12-26 14:34:18.427 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:18.427 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.434 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:18.434 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:18.434 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2021-12-26 14:34:18.434 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2021-12-26 14:34:18.434 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-26 14:34:18.434 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-26 14:34:18.442 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-26 14:34:18.442 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-26 14:34:18.442 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2021-12-26 14:34:18.442 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2021-12-26 14:34:18.445 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-26 14:34:18.445 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:18.445 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.454 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:18.454 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:18.454 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-26 14:34:18.457 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-26 14:34:18.547 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-26 14:34:18.547 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-26 14:34:18.547 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-26 14:34:18.689 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-26 14:34:18.689 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-26 14:34:18.690 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:18.695 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:18.697 [main] DataProviderCsv - updateOrders: [1] {}
+[INFO ] 2021-12-26 14:34:18.697 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2021-12-26 14:34:18.697 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:18.701 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:18.701 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2021-12-26 14:34:18.701 [main] DataProviderCsv - isIdInDataOrder: [1] {}
+[INFO ] 2021-12-26 14:34:18.702 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2021-12-26 14:34:18.702 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:18.705 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:18.706 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2021-12-26 14:34:18.706 [main] DataProviderCsv - isIdInDataOrder: [2] {} Element is found
+[INFO ] 2021-12-26 14:34:18.706 [main] HistoryContent - putOrderHistory: [1] {}
+[INFO ] 2021-12-26 14:34:18.734 [main] HistoryContent - putOrderHistory: [2] {}
+[INFO ] 2021-12-26 14:34:19.558 [main] DataProviderCsv - appendOrders: [1] {}
+[INFO ] 2021-12-26 14:34:19.558 [main] DataProviderCsv - stringingDuplicateIdOrder: [1] {}
+[INFO ] 2021-12-26 14:34:19.563 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2021-12-26 14:34:19.563 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:19.570 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:19.570 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2021-12-26 14:34:19.570 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2021-12-26 14:34:19.570 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:19.578 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:19.579 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2021-12-26 14:34:19.579 [main] DataProviderCsv - stringingDuplicateIdOrder: [2] {}
+[INFO ] 2021-12-26 14:34:19.579 [main] DataProviderCsv - writeCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:19.587 [main] DataProviderCsv - writeCsvOrder: [2] {}
+[INFO ] 2021-12-26 14:34:19.587 [main] DataProviderCsv - writeCsvOrder: [4] {}
+[INFO ] 2021-12-26 14:34:19.587 [main] DataProviderCsv - appendOrders: [5] {}
+[INFO ] 2021-12-26 14:34:19.588 [main] DataProviderCsv - updateOrders: [3] {}
+[INFO ] 2021-12-26 14:34:19.592 [main] DataProviderCsv - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-26 14:34:19.592 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:19.593 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:19.604 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:19.604 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:19.604 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:19.604 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-26 14:34:19.604 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:19.614 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:19.615 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-26 14:34:19.615 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-26 14:34:19.616 [main] HistoryContent - putMeddicineHistory: [1] {}
+[INFO ] 2021-12-26 14:34:19.645 [main] HistoryContent - putMeddicineHistory: [2] {}
+[INFO ] 2021-12-26 14:34:20.321 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-26 14:34:20.321 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-26 14:34:20.321 [main] DataProviderCsv - deleteMeddicineByBarcode: [3] {}
+[INFO ] 2021-12-26 14:34:20.326 [main] DataProviderCsv - deleteOrderById: [1] {}
+[INFO ] 2021-12-26 14:34:20.327 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2021-12-26 14:34:20.327 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:20.334 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:20.335 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2021-12-26 14:34:20.335 [main] DataProviderCsv - isIdInDataOrder: [1] {}
+[INFO ] 2021-12-26 14:34:20.335 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2021-12-26 14:34:20.335 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:20.342 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2021-12-26 14:34:20.343 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2021-12-26 14:34:20.343 [main] DataProviderCsv - isIdInDataOrder: [2] {} Element is found
+[INFO ] 2021-12-26 14:34:20.343 [main] HistoryContent - putOrderHistory: [1] {}
+[INFO ] 2021-12-26 14:34:20.370 [main] HistoryContent - putOrderHistory: [2] {}
+[INFO ] 2021-12-26 14:34:21.061 [main] DataProviderCsv - writeCsvOrder: [1] {}
+[INFO ] 2021-12-26 14:34:21.067 [main] DataProviderCsv - writeCsvOrder: [2] {}
+[INFO ] 2021-12-26 14:34:21.068 [main] DataProviderCsv - writeCsvOrder: [4] {}
+[INFO ] 2021-12-26 14:34:21.068 [main] DataProviderCsv - deleteUserById: [3] {}
+[INFO ] 2021-12-26 14:34:21.071 [main] DataProviderCsv - updateUsers: [1] {}
+[INFO ] 2021-12-26 14:34:21.071 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-26 14:34:21.071 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-26 14:34:21.080 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-26 14:34:21.080 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-26 14:34:21.080 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-26 14:34:21.081 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-26 14:34:21.081 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-26 14:34:21.091 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-26 14:34:21.092 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-26 14:34:21.092 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-26 14:34:21.093 [main] HistoryContent - putUserHistory: [1] {}

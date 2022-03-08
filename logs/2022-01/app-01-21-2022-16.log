@@ -1,0 +1,124 @@
+[INFO ] 2022-01-21 21:12:30.878 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:12:30.915 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:12:30.916 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 21:12:30.916 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 21:12:30.935 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 21:12:30.935 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 21:12:30.936 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-21 21:12:30.936 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-21 21:12:30.936 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-21 21:12:30.936 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 21:12:30.954 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-21 21:12:30.954 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 21:12:30.954 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 21:12:30.954 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 21:12:30.955 [main] DataProviderH2 - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-21 21:12:30.955 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 21:27:42.439 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:27:42.777 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:27:42.777 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:27:42.777 [main] DataProviderCsv - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-21 21:27:42.778 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:27:42.779 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.779 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.880 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.881 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.882 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.882 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.882 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.891 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.891 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.891 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-21 21:27:42.891 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2022-01-21 21:27:42.891 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:27:42.892 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.892 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.899 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.900 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.900 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.900 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.900 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:27:42.906 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.907 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.911 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.911 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.912 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:27:42.912 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:27:42.912 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.913 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.921 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.921 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.921 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:27:42.921 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:27:42.921 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:27:42.926 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:27:42.926 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:27:42.927 [main] DataProviderCsv - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-21 21:27:42.927 [main] DataProviderCsv - getTheAnaloguesOfMedicine [5] {}
+[INFO ] 2022-01-21 21:27:42.927 [main] DataProviderCsv - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-21 21:28:28.395 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:28:28.470 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:28:28.471 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:28:28.471 [main] DataProviderCsv - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-21 21:28:28.471 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:28:28.472 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:28:28.472 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:28:28.583 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:28:28.584 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:28:28.584 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:28:28.585 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:28:28.585 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:28:28.594 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:28:28.595 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:28:28.596 [main] DataProviderCsv - isIdInDataMedicine: [3] {} No Such Element
+[INFO ] 2022-01-21 21:28:28.596 [main] DataProviderCsv - getMeddicineByBarcode: [2] {}
+[INFO ] 2022-01-21 21:28:28.597 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2022-01-21 21:28:28.597 [main] DataProviderCsv - getTheAnaloguesByBarcode [3] {} No such meddicine
+[INFO ] 2022-01-21 21:29:02.236 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:29:02.318 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:29:02.318 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:29:02.319 [main] DataProviderCsv - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-21 21:29:02.319 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:29:02.320 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:02.320 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.405 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.406 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.407 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.407 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:02.407 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.415 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.415 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.416 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-21 21:29:02.417 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2022-01-21 21:29:02.417 [main] DataProviderCsv - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:29:02.417 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:02.417 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.425 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.425 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.425 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.425 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:02.425 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.430 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.431 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.431 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-21 21:29:02.431 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2022-01-21 21:29:02.431 [main] DataProviderCsv - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 21:29:02.431 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:29:02.432 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:02.432 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.439 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.439 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.440 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:29:02.440 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:29:02.441 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:02.442 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.450 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.450 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.450 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:29:02.450 [main] DataProviderCsv - getMeddicines: [1] {}

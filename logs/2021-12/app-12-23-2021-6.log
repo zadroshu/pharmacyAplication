@@ -1,0 +1,124 @@
+[INFO ] 2021-12-23 20:18:27.387 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:18:27.668 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:18:27.668 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:18:27.683 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:18:27.710 [main] DataProviderH2 - updateUsers: [2] {}
+[INFO ] 2021-12-23 20:18:41.208 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2021-12-23 20:18:41.212 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2021-12-23 20:18:41.212 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:18:41.453 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:18:41.454 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:18:41.454 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:18:41.456 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:18:41.456 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:18:41.456 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:18:41.476 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2021-12-23 20:18:41.476 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 20:18:41.476 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2021-12-23 20:18:41.477 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2021-12-23 20:20:40.367 [main] DataProviderH2 - getUserById: [1] {}
+[INFO ] 2021-12-23 20:20:40.371 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:20:40.646 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:20:40.646 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:20:40.650 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:20:40.651 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:20:40.651 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:20:40.651 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:20:40.664 [main] DataProviderH2 - getUserById: [2] {}
+[INFO ] 2021-12-23 20:20:57.472 [main] DataProviderH2 - getUserById: [1] {}
+[INFO ] 2021-12-23 20:20:57.476 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:20:57.756 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:20:57.756 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:20:57.761 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:20:57.762 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:20:57.762 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:20:57.762 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:20:57.785 [main] DataProviderH2 - getUserById: [2] {}
+[INFO ] 2021-12-23 20:21:16.675 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2021-12-23 20:21:16.680 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2021-12-23 20:21:16.680 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:21:16.974 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:21:16.974 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:21:16.975 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:21:16.976 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:21:16.977 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:21:16.977 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:21:17.001 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2021-12-23 20:21:17.001 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 20:21:17.001 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2021-12-23 20:21:17.001 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2021-12-23 20:21:32.173 [main] DataProviderH2 - appendUsers: [1] {}
+[INFO ] 2021-12-23 20:21:32.177 [main] DataProviderH2 - stringingDuplicateIdDeleteUser: [1] {}
+[INFO ] 2021-12-23 20:21:32.178 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:21:32.468 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:21:32.468 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:21:32.477 [main] DataProviderH2 - stringingDuplicateIdDeleteUser: [2] {}
+[INFO ] 2021-12-23 20:21:32.477 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:21:32.499 [main] DataProviderH2 - writeToH2User: [1] {}
+[INFO ] 2021-12-23 20:21:32.499 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:21:32.526 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:21:32.526 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:21:32.536 [main] DataProviderH2 - writeToH2User: [2] {}
+[INFO ] 2021-12-23 20:21:32.537 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:21:32.553 [main] DataProviderH2 - writeToH2User: [4] {}
+[INFO ] 2021-12-23 20:21:32.554 [main] DataProviderH2 - appendUsers: [2] {}
+[INFO ] 2021-12-23 20:21:32.554 [main] DataProviderH2 - appendUsers: [5] {}
+[INFO ] 2021-12-23 20:21:41.857 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2021-12-23 20:21:41.861 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2021-12-23 20:21:41.861 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:21:42.110 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:21:42.110 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:21:42.111 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:21:42.113 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:21:42.114 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:21:42.114 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:21:42.135 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2021-12-23 20:21:42.135 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 20:21:42.135 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2021-12-23 20:21:42.135 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2021-12-23 20:22:13.605 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2021-12-23 20:22:13.610 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2021-12-23 20:22:13.610 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:22:13.833 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:22:13.833 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 20:22:13.841 [main] DataProviderH2 - readFromH2: [3] {} Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+SELECT * FROM USER  [42102-200]
+[INFO ] 2021-12-23 20:22:13.844 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 20:22:13.844 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2021-12-23 20:22:13.844 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2021-12-23 20:22:31.261 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2021-12-23 20:22:31.269 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2021-12-23 20:22:31.269 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:22:31.598 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:22:31.598 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:22:31.599 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:22:31.600 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:22:31.601 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:22:31.601 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:22:31.622 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2021-12-23 20:22:31.622 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-23 20:22:31.623 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2021-12-23 20:22:31.623 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2021-12-23 20:22:44.939 [main] DataProviderH2 - getUserById: [1] {}
+[INFO ] 2021-12-23 20:22:44.944 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 20:22:45.215 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 20:22:45.215 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-23 20:22:45.220 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-23 20:22:45.222 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-23 20:22:45.222 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-23 20:22:45.222 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-23 20:22:45.242 [main] DataProviderH2 - getUserById: [2] {}
+[INFO ] 2021-12-23 21:02:59.064 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 21:02:59.151 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 21:02:59.152 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 21:02:59.152 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-23 21:02:59.212 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-23 21:02:59.212 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-23 21:02:59.215 [main] DataProviderH2 - writeToH2Meddicine: [1] {}
+[INFO ] 2021-12-23 21:02:59.216 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-23 21:02:59.676 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-23 21:02:59.676 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-23 21:02:59.693 [main] DataProviderH2 - writeToH2Meddicine: [3] {} Синтаксическая ошибка в выражении SQL "INSERT INTO MEDDICINE VALUES (I2/5:[*]1520152015201520, 'Name1', 'djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej', '1.0', 'something1', 'antibiotics')"; ожидалось "[, ::, AT, FORMAT, *, /, %, +, -, ||, ~, !~, NOT, LIKE, ILIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"
+Syntax error in SQL statement "INSERT INTO MEDDICINE VALUES (I2/5:[*]1520152015201520, 'Name1', 'djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej', '1.0', 'something1', 'antibiotics')"; expected "[, ::, AT, FORMAT, *, /, %, +, -, ||, ~, !~, NOT, LIKE, ILIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO MEDDICINE VALUES (I2/5:1520152015201520, 'Name1', 'djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej', '1.0', 'something1', 'antibiotics') [42001-200]

@@ -1,0 +1,123 @@
+[INFO ] 2021-12-26 17:22:41.728 [main] DataProviderH2 - h2ToMedicalDeviceList: [4] {}
+[INFO ] 2021-12-26 17:22:41.761 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:41.777 [main] DataProviderH2 - readMedicalDeviceFromH2M: [2] {}
+[INFO ] 2021-12-26 17:22:41.777 [main] DataProviderH2 - readMedicalDeviceFromH2M: [4] {}
+[INFO ] 2021-12-26 17:22:41.777 [main] DataProviderH2 - getMedicalDevices: [2] {}
+[INFO ] 2021-12-26 17:22:41.777 [main] DataProviderH2 - getMedicalDevices: [4] {}
+[INFO ] 2021-12-26 17:22:41.778 [main] DataProviderH2 - searchMedicalDeviceByName [2] {}
+[INFO ] 2021-12-26 17:22:41.778 [main] DataProviderH2 - searchPharmacyProductByName [2] {}
+[INFO ] 2021-12-26 17:22:41.778 [main] DataProviderH2 - searchPharmacyProductByName [3] {}
+[INFO ] 2021-12-26 17:22:41.779 [main] DataProviderH2 - searchPharmacyProductByName [5] {}
+[INFO ] 2021-12-26 17:22:41.779 [main] DataProviderH2 - createOrder [1] {}
+[INFO ] 2021-12-26 17:22:41.780 [main] DataProviderH2 - updateOrders: [1] {}
+[INFO ] 2021-12-26 17:22:41.780 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-26 17:22:41.796 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-26 17:22:41.796 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-26 17:22:41.796 [main] DataProviderH2 - isInDataOrder [1] {}
+[INFO ] 2021-12-26 17:22:41.796 [main] DataProviderH2 - getOrders: [1] {}
+[INFO ] 2021-12-26 17:22:41.796 [main] DataProviderH2 - readH2Order: [1] {}
+[INFO ] 2021-12-26 17:22:41.796 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-26 17:22:41.798 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-26 17:22:41.798 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-26 17:22:41.798 [main] DataProviderH2 - h2ToOrderList: [1] {}
+[INFO ] 2021-12-26 17:22:41.798 [main] DataProviderH2 - h2ToOrderList: [2] {}
+[INFO ] 2021-12-26 17:22:41.798 [main] DataProviderH2 - h2ToOrderList: [4] {}
+[INFO ] 2021-12-26 17:22:41.799 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:41.799 [main] DataProviderH2 - readH2Order: [2] {}
+[INFO ] 2021-12-26 17:22:41.799 [main] DataProviderH2 - readH2Order: [4] {}
+[INFO ] 2021-12-26 17:22:41.799 [main] DataProviderH2 - getOrders: [2] {}
+[INFO ] 2021-12-26 17:22:41.799 [main] DataProviderH2 - getOrders: [4] {}
+[INFO ] 2021-12-26 17:22:41.800 [main] DataProviderH2 - takeHistoryOrders [1] {}
+[INFO ] 2021-12-26 17:22:41.800 [main] DataProviderH2 - isInDataOrder [1] {}
+[INFO ] 2021-12-26 17:22:41.801 [main] DataProviderH2 - getOrders: [1] {}
+[INFO ] 2021-12-26 17:22:41.801 [main] DataProviderH2 - readH2Order: [1] {}
+[INFO ] 2021-12-26 17:22:41.801 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-26 17:22:41.802 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-26 17:22:41.802 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-26 17:22:41.802 [main] DataProviderH2 - h2ToOrderList: [1] {}
+[INFO ] 2021-12-26 17:22:41.802 [main] DataProviderH2 - h2ToOrderList: [2] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - h2ToOrderList: [4] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - readH2Order: [2] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - readH2Order: [4] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - getOrders: [2] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - getOrders: [4] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - getOrders: [1] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - readH2Order: [1] {}
+[INFO ] 2021-12-26 17:22:41.803 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-26 17:22:41.804 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-26 17:22:41.805 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-26 17:22:41.805 [main] DataProviderH2 - h2ToOrderList: [1] {}
+[INFO ] 2021-12-26 17:22:41.805 [main] DataProviderH2 - h2ToOrderList: [2] {}
+[INFO ] 2021-12-26 17:22:41.805 [main] DataProviderH2 - h2ToOrderList: [4] {}
+[INFO ] 2021-12-26 17:22:41.805 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:41.806 [main] DataProviderH2 - readH2Order: [2] {}
+[INFO ] 2021-12-26 17:22:41.806 [main] DataProviderH2 - readH2Order: [4] {}
+[INFO ] 2021-12-26 17:22:41.806 [main] DataProviderH2 - getOrders: [2] {}
+[INFO ] 2021-12-26 17:22:41.806 [main] DataProviderH2 - getOrders: [4] {}
+[INFO ] 2021-12-26 17:22:41.807 [main] HistoryContent - putOrderHistory: [1] {}
+[INFO ] 2021-12-26 17:22:42.130 [main] HistoryContent - putOrderHistory: [2] {}
+[INFO ] 2021-12-26 17:22:43.410 [main] DataProviderH2 - updateOrders: [3] {}
+[INFO ] 2021-12-26 17:22:43.411 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:43.444 [main] DataProviderH2 - updateOrders: [5] {}
+[INFO ] 2021-12-26 17:22:43.444 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-26 17:22:43.458 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-26 17:22:43.458 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-26 17:22:43.458 [main] DataProviderH2 - isInDataUser [1] {}
+[INFO ] 2021-12-26 17:22:43.458 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2021-12-26 17:22:43.458 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2021-12-26 17:22:43.458 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2021-12-26 17:22:43.459 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2021-12-26 17:22:43.459 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2021-12-26 17:22:43.460 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2021-12-26 17:22:43.461 [main] DataProviderH2 - No such element
+[INFO ] 2021-12-26 17:22:43.465 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2021-12-26 17:22:43.480 [main] DataProviderH2 - updateUsers: [2] {}
+[INFO ] 2021-12-26 17:22:43.480 [main] DataProviderH2 - createOrder [2] {}
+[ERROR] 2021-12-27 13:31:31.290 [main] PharmacyAplication - Exception received {} Unrecognized option: -p
+[ERROR] 2021-12-27 13:31:48.120 [main] PharmacyAplication - Exception received {} Missing argument for option: p
+[ERROR] 2021-12-27 13:37:21.509 [main] PharmacyAplication - Exception received {} Missing argument for option: p
+[INFO ] 2021-12-27 13:38:57.574 [main] PharmacyAplication - Data provider project.api.DataProviderXml is installed
+[INFO ] 2021-12-27 13:40:47.001 [main] PharmacyAplication - Invalid data type
+[INFO ] 2021-12-27 13:40:47.005 [main] PharmacyAplication - Data provider project.api.DataProviderH2 is installed
+[INFO ] 2021-12-27 14:07:14.821 [main] DataProviderH2 - getUserById: [1] {}
+[INFO ] 2021-12-27 14:07:14.824 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2021-12-27 14:07:14.825 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2021-12-27 14:07:14.825 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-27 14:07:14.834 [main] DataProviderH2 - getUserById: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[ERROR] 2021-12-27 14:07:14.835 [main] PharmacyAplication - Exception received {} Index 1 out of bounds for length 1
+[INFO ] 2021-12-27 14:08:23.279 [main] DataProviderH2 - getUserById: [1] {}
+[INFO ] 2021-12-27 14:08:23.282 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2021-12-27 14:08:23.283 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2021-12-27 14:08:23.283 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-27 14:08:23.284 [main] DataProviderH2 - getUserById: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[ERROR] 2021-12-27 14:08:23.285 [main] PharmacyAplication - Exception received {} Index 1 out of bounds for length 1
+[INFO ] 2021-12-27 14:09:49.953 [main] PharmacyAplication - Data provider project.api.DataProviderCsv is installed
+[INFO ] 2021-12-27 14:10:08.450 [main] DataProviderH2 - getUserById: [1] {}
+[INFO ] 2021-12-27 14:10:08.455 [main] DataProviderH2 - connection: [1] {}
+[ERROR] 2021-12-27 14:10:08.455 [main] DataProviderH2 - connection: [3] {} org.h2.Driver
+[INFO ] 2021-12-27 14:10:08.456 [main] DataProviderH2 - connection: [4] {}
+[ERROR] 2021-12-27 14:10:08.457 [main] DataProviderH2 - getUserById: [3] {} Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[ERROR] 2021-12-27 14:10:08.458 [main] PharmacyAplication - Exception received {} Index 1 out of bounds for length 1
+[INFO ] 2021-12-27 14:19:02.571 [main] PharmacyAplication - Data provider project.api.DataProviderCsv is installed
+[INFO ] 2021-12-27 14:19:02.575 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2021-12-27 14:19:02.576 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-27 14:19:02.576 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-27 14:19:02.645 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-27 14:19:02.646 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-27 14:19:02.646 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-27 14:19:02.647 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-27 14:19:02.647 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-27 14:19:02.651 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-27 14:19:02.651 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-27 14:19:02.653 [main] DataProviderCsv - isIdInData: [2] {} Element is found
+[INFO ] 2021-12-27 14:19:02.653 [main] DataProviderCsv - getUserById: [4] {}
+[INFO ] 2021-12-27 14:19:02.653 [main] DataProviderCsv - getUserById: [1] {}
+[INFO ] 2021-12-27 14:19:02.653 [main] DataProviderCsv - getUsers: [1] {}

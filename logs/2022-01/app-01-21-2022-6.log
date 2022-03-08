@@ -1,0 +1,133 @@
+[INFO ] 2022-01-21 17:13:53.310 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 17:13:53.382 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2022-01-21 17:13:53.383 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 17:13:53.383 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2022-01-21 17:13:53.383 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2022-01-21 17:13:53.383 [main] DataProviderH2 - takeHistoryUsers [1] {}
+[INFO ] 2022-01-21 17:13:53.384 [main] DataProviderH2 - isInDataUser [1] {}
+[INFO ] 2022-01-21 17:13:53.384 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2022-01-21 17:13:53.384 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2022-01-21 17:13:53.384 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 17:13:53.387 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 17:13:53.387 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 17:13:53.388 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2022-01-21 17:13:53.388 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2022-01-21 17:13:53.389 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2022-01-21 17:13:53.389 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 17:13:53.389 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2022-01-21 17:13:53.389 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 17:13:53.389 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2022-01-21 17:13:53.390 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2022-01-21 17:13:53.390 [main] DataProviderH2 - getUsers: [1] {}
+[INFO ] 2022-01-21 17:13:53.390 [main] DataProviderH2 - readFromH2: [1] {}
+[INFO ] 2022-01-21 17:13:53.390 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 17:13:53.392 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 17:13:53.392 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 17:13:53.393 [main] DataProviderH2 - h2ToUserListUser: [1] {}
+[INFO ] 2022-01-21 17:13:53.393 [main] DataProviderH2 - h2ToUserListUser: [2] {}
+[INFO ] 2022-01-21 17:13:53.393 [main] DataProviderH2 - h2ToUserListUser: [4] {}
+[INFO ] 2022-01-21 17:13:53.394 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 17:13:53.394 [main] DataProviderH2 - readFromH2: [2] {}
+[INFO ] 2022-01-21 17:13:53.394 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 17:13:53.394 [main] DataProviderH2 - getUsers: [2] {}
+[INFO ] 2022-01-21 17:13:53.394 [main] DataProviderH2 - getUsers: [4] {}
+[INFO ] 2022-01-21 17:13:53.395 [main] HistoryContent - putUserHistory: [1] {}
+[INFO ] 2022-01-21 17:13:53.424 [main] HistoryContent - putUserHistory: [2] {}
+[INFO ] 2022-01-21 17:13:54.285 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 17:13:54.315 [main] DataProviderH2 - updateUsers: [2] {}
+[INFO ] 2022-01-21 17:18:20.322 [main] DataProviderXml - createOrder [1] {}
+[INFO ] 2022-01-21 17:18:20.326 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2022-01-21 17:18:20.327 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.327 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2022-01-21 17:18:20.382 [main] DataProviderXml - readXml: [2] {}ParseError at [row,col]:[1,1]
+Message: Content is not allowed in prolog.
+[INFO ] 2022-01-21 17:18:20.385 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.386 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.386 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2022-01-21 17:18:20.386 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.386 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2022-01-21 17:18:20.387 [main] DataProviderXml - readXml: [2] {}ParseError at [row,col]:[1,1]
+Message: Content is not allowed in prolog.
+[INFO ] 2022-01-21 17:18:20.388 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.388 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.390 [main] DataProviderXml - isIdInData: [3] {} No Such Element
+[INFO ] 2022-01-21 17:18:20.392 [main] DataProviderXml - getUserById: [2] {} No Such Element id = 166
+[INFO ] 2022-01-21 17:18:20.393 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-21 17:18:20.393 [main] DataProviderXml - createOrder [3] {} No such user
+[INFO ] 2022-01-21 17:18:20.393 [main] DataProviderXml - createOrder [4] {}
+[INFO ] 2022-01-21 17:18:20.397 [main] DataProviderXml - updateUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.397 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.398 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:20.496 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.496 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.496 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2022-01-21 17:18:20.497 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.497 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:20.500 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.500 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.500 [main] DataProviderXml - isIdInData: [3] {} No Such Element
+[INFO ] 2022-01-21 17:18:20.500 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.500 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2022-01-21 17:18:20.500 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.501 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:20.504 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.504 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.504 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:20.504 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:20.508 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.509 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.510 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2022-01-21 17:18:20.510 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2022-01-21 17:18:20.547 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2022-01-21 17:18:20.547 [main] DataProviderXml - appendUsers: [3] {}
+[INFO ] 2022-01-21 17:18:20.547 [main] DataProviderXml - updateUsers: [3] {}
+[INFO ] 2022-01-21 17:18:57.412 [main] DataProviderXml - createOrder [1] {}
+[INFO ] 2022-01-21 17:18:57.416 [main] DataProviderXml - getUserById: [1] {}
+[INFO ] 2022-01-21 17:18:57.417 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:57.417 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2022-01-21 17:18:57.462 [main] DataProviderXml - readXml: [2] {}ParseError at [row,col]:[1,1]
+Message: Content is not allowed in prolog.
+[INFO ] 2022-01-21 17:18:57.465 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:57.466 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:57.466 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2022-01-21 17:18:57.467 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:57.467 [main] DataProviderXml - readXml: [1] {}
+[ERROR] 2022-01-21 17:18:57.468 [main] DataProviderXml - readXml: [2] {}ParseError at [row,col]:[1,1]
+Message: Content is not allowed in prolog.
+[INFO ] 2022-01-21 17:18:57.471 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:57.471 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:57.473 [main] DataProviderXml - isIdInData: [3] {} No Such Element
+[INFO ] 2022-01-21 17:18:57.477 [main] DataProviderXml - getUserById: [2] {} No Such Element id = 166
+[INFO ] 2022-01-21 17:18:57.477 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-21 17:18:57.477 [main] DataProviderXml - createOrder [3] {} No such user
+[INFO ] 2022-01-21 17:18:57.477 [main] DataProviderXml - createOrder [4] {}
+[INFO ] 2022-01-21 17:18:57.481 [main] DataProviderXml - updateUsers: [1] {}
+[INFO ] 2022-01-21 17:18:57.482 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:57.482 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:57.577 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:57.577 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:57.577 [main] DataProviderXml - isIdInData: [1] {}
+[INFO ] 2022-01-21 17:18:57.577 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:57.578 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:57.582 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:57.582 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:57.583 [main] DataProviderXml - isIdInData: [2] {} Element is found
+[INFO ] 2022-01-21 17:18:57.586 [main] HistoryContent - putUserHistory: [1] {}
+[INFO ] 2022-01-21 17:18:57.958 [main] HistoryContent - putUserHistory: [2] {}
+[INFO ] 2022-01-21 17:18:59.478 [main] DataProviderXml - appendUsers: [1] {}
+[INFO ] 2022-01-21 17:18:59.479 [main] DataProviderXml - stringingDuplicateId: [1] {}
+[INFO ] 2022-01-21 17:18:59.479 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:59.479 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:59.489 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:59.490 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:59.490 [main] DataProviderXml - getUsers: [1] {}
+[INFO ] 2022-01-21 17:18:59.491 [main] DataProviderXml - readXml: [1] {}
+[INFO ] 2022-01-21 17:18:59.502 [main] DataProviderXml - readXml: [3] {}
+[INFO ] 2022-01-21 17:18:59.502 [main] DataProviderXml - getUsers: [3] {}
+[INFO ] 2022-01-21 17:18:59.506 [main] DataProviderXml - stringingDuplicateId: [2] {}
+[INFO ] 2022-01-21 17:18:59.506 [main] DataProviderXml - writeXml: [1] {}
+[INFO ] 2022-01-21 17:18:59.569 [main] DataProviderXml - writeXml: [3] {}
+[INFO ] 2022-01-21 17:18:59.569 [main] DataProviderXml - appendUsers: [3] {}
+[INFO ] 2022-01-21 17:18:59.569 [main] DataProviderXml - updateUsers: [3] {}
+[INFO ] 2022-01-21 17:20:06.948 [main] DataProviderXml - createOrder [1] {}
+[INFO ] 2022-01-21 17:20:06.954 [main] DataProviderXml - getUserById: [1] {}

@@ -1,0 +1,125 @@
+[INFO ] 2021-12-19 18:48:59.730 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 18:48:59.739 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 18:48:59.739 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 18:48:59.801 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 18:48:59.801 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 18:48:59.802 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-19 18:48:59.803 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-19 18:48:59.804 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 18:48:59.804 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 18:48:59.904 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 18:48:59.912 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 18:48:59.912 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 18:48:59.912 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 18:48:59.918 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 18:48:59.919 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 18:48:59.919 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-19 18:48:59.919 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 18:48:59.949 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 18:48:59.949 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-19 19:01:40.670 [main] DataProviderCsv - deleteUserById: [1] {}
+[INFO ] 2021-12-19 19:01:40.675 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:01:40.678 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:01:40.801 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:01:40.801 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:01:40.801 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-19 19:01:40.802 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-19 19:01:40.802 [main] DataProviderCsv - readCsv: [1] {}
+[INFO ] 2021-12-19 19:01:40.808 [main] DataProviderCsv - readCsv: [3] {}
+[INFO ] 2021-12-19 19:01:40.808 [main] DataProviderCsv - getUsers: [3] {}
+[ERROR] 2021-12-19 19:01:40.809 [main] DataProviderCsv - deleteUserById: [3] {} class project.model.User cannot be cast to class project.model.Meddicine (project.model.User and project.model.Meddicine are in unnamed module of loader 'app')
+[INFO ] 2021-12-19 19:01:40.812 [main] DataProviderCsv - deleteUserById: [4] {}
+[INFO ] 2021-12-19 19:03:18.952 [main] DataProviderCsv - deleteUserById: [1] {}
+[INFO ] 2021-12-19 19:03:18.957 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:03:18.960 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:19.076 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:03:19.076 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:03:19.076 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:19.076 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:03:19.076 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:19.083 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:03:19.083 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:03:19.084 [main] DataProviderCsv - isIdInDataMedicine: [3] {} No Such Element
+[INFO ] 2021-12-19 19:03:19.084 [main] DataProviderCsv - deleteUserById: [4] {}
+[INFO ] 2021-12-19 19:03:39.929 [main] DataProviderCsv - deleteUserById: [1] {}
+[INFO ] 2021-12-19 19:03:39.933 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:03:39.934 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:40.034 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:03:40.034 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:03:40.034 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:40.035 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:03:40.035 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:40.044 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:03:40.044 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:03:40.045 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-19 19:03:40.046 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:03:40.077 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:03:40.077 [main] DataProviderCsv - deleteUserById: [4] {}
+[INFO ] 2021-12-19 19:07:53.499 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:07:53.503 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:07:53.591 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:07:53.591 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:08:37.255 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:08:37.260 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:08:37.364 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:08:37.364 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:02.880 [main] DataProviderCsv - updateMeddicine: [1] {}
+[INFO ] 2021-12-19 19:31:02.886 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:02.886 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:03.002 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:03.002 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:03.002 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:03.002 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:03.003 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:03.010 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:03.010 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:03.011 [main] DataProviderCsv - isIdInDataMedicine: [3] {} No Such Element
+[INFO ] 2021-12-19 19:31:03.011 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-19 19:31:03.011 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-19 19:31:03.011 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:03.011 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:03.019 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:03.019 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:03.019 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:03.019 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:03.032 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:03.032 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:03.033 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-19 19:31:03.033 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:03.060 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:03.061 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-19 19:31:03.061 [main] DataProviderCsv - updateMeddicine: [3] {}
+[INFO ] 2021-12-19 19:31:55.748 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 19:31:55.833 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 19:31:55.834 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 19:31:55.838 [main] DataProviderCsv - updateMeddicine: [1] {}
+[INFO ] 2021-12-19 19:31:55.840 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:55.840 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:55.944 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:55.944 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:55.945 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:55.945 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:55.945 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:55.951 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:55.951 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:55.952 [main] DataProviderCsv - isIdInDataMedicine: [3] {} No Such Element
+[INFO ] 2021-12-19 19:31:55.952 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-19 19:31:55.952 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-19 19:31:55.952 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:55.952 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:55.963 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:55.963 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:55.963 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-19 19:31:55.963 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:55.976 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:55.976 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-19 19:31:55.977 [main] DataProviderCsv - stringingDuplicateId: [2] {}
+[INFO ] 2021-12-19 19:31:55.978 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-19 19:31:56.004 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-19 19:31:56.005 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-19 19:31:56.005 [main] DataProviderCsv - updateMeddicine: [3] {}
+[INFO ] 2021-12-19 19:32:34.018 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-19 19:32:34.092 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-19 19:32:34.092 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-19 19:32:34.099 [main] DataProviderCsv - updateMeddicine: [1] {}
+[INFO ] 2021-12-19 19:32:34.100 [main] DataProviderCsv - getMeddicines: [1] {}

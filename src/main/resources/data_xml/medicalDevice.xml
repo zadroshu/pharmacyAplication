@@ -1,0 +1,18 @@
+<wrapper>
+   <medicalDeviceList class="java.util.ArrayList">
+      <MedicalDevices>
+         <nameOfTheMeddicine>Name1</nameOfTheMeddicine>
+         <price>1.0</price>
+         <barcode>I2/5:1520152015201520</barcode>
+         <description>djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej</description>
+         <categoryOfPharmacyDevices>pipetka</categoryOfPharmacyDevices>
+      </MedicalDevices>
+      <MedicalDevices>
+         <nameOfTheMeddicine>Name4</nameOfTheMeddicine>
+         <price>223.0</price>
+         <barcode>CODE-128:CODE128A</barcode>
+         <description>pipetka</description>
+         <categoryOfPharmacyDevices>pipetka</categoryOfPharmacyDevices>
+      </MedicalDevices>
+   </medicalDeviceList>
+</wrapper>

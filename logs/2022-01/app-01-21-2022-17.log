@@ -1,0 +1,127 @@
+[INFO ] 2022-01-21 21:29:02.450 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:02.509 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:02.509 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:02.510 [main] DataProviderCsv - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-21 21:29:02.511 [main] DataProviderCsv - getTheAnaloguesOfMedicine [5] {}
+[INFO ] 2022-01-21 21:29:02.511 [main] DataProviderCsv - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-21 21:29:55.232 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:29:55.302 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:29:55.303 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:29:55.303 [main] DataProviderXml - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-21 21:29:55.304 [main] DataProviderXml - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:29:55.305 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.305 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.434 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.434 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.435 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.435 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.435 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.440 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.440 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.441 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-21 21:29:55.442 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-21 21:29:55.442 [main] DataProviderXml - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:29:55.442 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.443 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.447 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.448 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.448 [main] DataProviderXml - isIdInDataMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.448 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.448 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.455 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.455 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.455 [main] DataProviderXml - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2022-01-21 21:29:55.455 [main] DataProviderXml - getUserById: [4] {}
+[INFO ] 2022-01-21 21:29:55.456 [main] DataProviderXml - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 21:29:55.456 [main] DataProviderXml - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:29:55.456 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.456 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.461 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.461 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.462 [main] DataProviderXml - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:29:55.462 [main] DataProviderXml - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:29:55.462 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.462 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.472 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.472 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.472 [main] DataProviderXml - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:29:55.472 [main] DataProviderXml - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:29:55.473 [main] DataProviderXml - readXmlMedicine: [1] {}
+[INFO ] 2022-01-21 21:29:55.478 [main] DataProviderXml - readXmlMedicine: [3] {}
+[INFO ] 2022-01-21 21:29:55.479 [main] DataProviderXml - getMeddicines: [3] {}
+[INFO ] 2022-01-21 21:29:55.479 [main] DataProviderXml - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-21 21:29:55.480 [main] DataProviderXml - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 21:29:55.480 [main] DataProviderXml - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-21 21:30:10.430 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:30:10.506 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:30:10.506 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:30:10.506 [main] DataProviderH2 - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-21 21:30:10.507 [main] DataProviderH2 - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:30:10.507 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 21:30:10.773 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 21:30:10.774 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 21:30:10.775 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-21 21:30:10.777 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-21 21:30:10.777 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-21 21:30:10.777 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 21:30:10.800 [main] DataProviderH2 - getMeddicineByBarcode: [2] {}
+[INFO ] 2022-01-21 21:30:10.800 [main] DataProviderH2 - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2022-01-21 21:30:10.800 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:30:10.800 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:30:10.800 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 21:30:10.800 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 21:30:10.820 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 21:30:10.820 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 21:30:10.821 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-21 21:30:10.822 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-21 21:30:10.822 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-21 21:30:10.822 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 21:30:10.840 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-21 21:30:10.840 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 21:30:10.841 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 21:30:10.841 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 21:30:10.842 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:30:10.842 [main] DataProviderH2 - searchMeddicineByName [1] {}
+[INFO ] 2022-01-21 21:30:10.842 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:30:10.842 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 21:30:10.842 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 21:30:10.861 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 21:30:10.861 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 21:30:10.862 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-21 21:30:10.862 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-21 21:30:10.862 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-21 21:30:10.862 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 21:30:10.880 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-21 21:30:10.880 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 21:30:10.880 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 21:30:10.881 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 21:30:10.881 [main] DataProviderH2 - searchMeddicineByName [2] {}
+[INFO ] 2022-01-21 21:30:10.881 [main] DataProviderH2 - getMeddicines: [1] {}
+[INFO ] 2022-01-21 21:30:10.882 [main] DataProviderH2 - readMeddicinesFromH2M: [1] {}
+[INFO ] 2022-01-21 21:30:10.882 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 21:30:10.898 [main] DataProviderH2 - connection: [2] {}
+[INFO ] 2022-01-21 21:30:10.898 [main] DataProviderH2 - connection: [4] {}
+[INFO ] 2022-01-21 21:30:10.898 [main] DataProviderH2 - h2ToMeddicineList: [1] {}
+[INFO ] 2022-01-21 21:30:10.898 [main] DataProviderH2 - h2ToMeddicineList: [2] {}
+[INFO ] 2022-01-21 21:30:10.898 [main] DataProviderH2 - h2ToMeddicineList: [4] {}
+[INFO ] 2022-01-21 21:30:10.898 [main] DataProviderH2 - closeConnection: [1] {}
+[INFO ] 2022-01-21 21:30:10.915 [main] DataProviderH2 - readMeddicinesFromH2M: [2] {}
+[INFO ] 2022-01-21 21:30:10.915 [main] DataProviderH2 - readFromH2: [4] {}
+[INFO ] 2022-01-21 21:30:10.915 [main] DataProviderH2 - getMeddicines: [2] {}
+[INFO ] 2022-01-21 21:30:10.915 [main] DataProviderH2 - getMeddicines: [4] {}
+[INFO ] 2022-01-21 21:30:10.917 [main] DataProviderH2 - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2022-01-21 21:30:10.918 [main] DataProviderH2 - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2022-01-21 21:30:10.918 [main] DataProviderH2 - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2022-01-21 21:30:29.829 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:30:29.897 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:30:29.898 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:32:42.329 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:32:42.397 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:32:42.397 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:32:55.945 [main] Barcode - readBarcode[1] {}
+[INFO ] 2022-01-21 21:32:56.013 [main] Barcode - readBarcode[2] {}
+[INFO ] 2022-01-21 21:32:56.014 [main] Barcode - readBarcode[3] {}
+[INFO ] 2022-01-21 21:32:56.014 [main] DataProviderH2 - getTheAnaloguesByBarcode [1] {}
+[INFO ] 2022-01-21 21:32:56.016 [main] DataProviderH2 - getMeddicineByBarcode: [1] {}
+[INFO ] 2022-01-21 21:32:56.016 [main] DataProviderH2 - connection: [1] {}
+[INFO ] 2022-01-21 21:32:56.281 [main] DataProviderH2 - connection: [2] {}

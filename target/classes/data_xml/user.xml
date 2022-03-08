@@ -1,0 +1,24 @@
+<wrapper>
+   <userList class="java.util.ArrayList">
+      <User>
+         <id>1</id>
+         <login>Name1</login>
+         <password>Password1</password>
+      </User>
+      <User>
+         <id>3</id>
+         <login>Name3</login>
+         <password>Password3</password>
+      </User>
+      <User>
+         <id>4</id>
+         <login>Name4</login>
+         <password>Password4</password>
+      </User>
+      <User>
+         <id>2</id>
+         <login>Name2</login>
+         <password>Password2</password>
+      </User>
+   </userList>
+</wrapper>

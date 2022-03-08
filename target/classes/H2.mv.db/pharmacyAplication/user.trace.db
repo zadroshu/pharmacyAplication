@@ -1,0 +1,28 @@
+2021-12-23 20:05:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+INSERT INTO USER VALUES (10, 'Name10', 'Pass10') [42102-200]
+2021-12-23 20:05:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+INSERT INTO USER VALUES (10, 'Name10', 'Pass10') [42102-200]
+2021-12-23 20:08:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+SELECT * FROM user [42102-200]
+2021-12-23 20:09:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+SELECT * FROM USER  [42102-200]
+2021-12-23 20:12:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+SELECT * FROM USER  [42102-200]
+2021-12-23 20:14:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+SELECT * FROM USER  [42102-200]
+2021-12-23 20:22:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+SELECT * FROM USER  [42102-200]

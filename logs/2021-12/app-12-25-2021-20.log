@@ -1,0 +1,123 @@
+[INFO ] 2021-12-25 21:35:44.236 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.269 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.269 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.270 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.273 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.273 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.273 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-25 21:35:44.273 [main] DataProviderCsv - getMeddicineByBarcode: [4] {}
+[INFO ] 2021-12-25 21:35:44.273 [main] DataProviderCsv - getTheAnaloguesOfMedicine [1] {}
+[INFO ] 2021-12-25 21:35:44.274 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.274 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.279 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.279 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.279 [main] DataProviderCsv - getTheAnaloguesOfMedicine [2] {}
+[INFO ] 2021-12-25 21:35:44.279 [main] DataProviderCsv - getTheAnaloguesOfMedicine [4] {}
+[INFO ] 2021-12-25 21:35:44.279 [main] DataProviderCsv - getTheAnaloguesByBarcode [2] {}
+[INFO ] 2021-12-25 21:35:44.281 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2021-12-25 21:35:44.281 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2021-12-25 21:35:44.281 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.281 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.285 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.285 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.286 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2021-12-25 21:35:44.286 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2021-12-25 21:35:44.286 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2021-12-25 21:35:44.286 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2021-12-25 21:35:44.289 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2021-12-25 21:35:44.289 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2021-12-25 21:35:44.289 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2021-12-25 21:35:44.289 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2021-12-25 21:35:44.291 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:44.291 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.291 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.299 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.299 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.299 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-25 21:35:44.301 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-25 21:35:44.372 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-25 21:35:44.372 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-25 21:35:44.372 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-25 21:35:44.438 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-25 21:35:44.438 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-25 21:35:44.438 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.444 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.445 [main] DataProviderCsv - deleteMeddicineByBarcode: [1] {}
+[INFO ] 2021-12-25 21:35:44.445 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.446 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.452 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.452 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.452 [main] DataProviderCsv - isIdInDataMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.452 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:44.452 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:44.456 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:44.456 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:44.456 [main] DataProviderCsv - isIdInDataMedicine: [2] {} Element is found
+[INFO ] 2021-12-25 21:35:44.456 [main] HistoryContent - putMeddicineHistory: [1] {}
+[INFO ] 2021-12-25 21:35:44.483 [main] HistoryContent - putMeddicineHistory: [2] {}
+[INFO ] 2021-12-25 21:35:45.221 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:45.222 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:45.222 [main] DataProviderCsv - deleteMeddicineByBarcode: [3] {}
+[INFO ] 2021-12-25 21:35:45.223 [main] DataProviderCsv - updateUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.223 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.223 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:45.229 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 4. [3,Name3,Order{pharmacyProductList=[]},Password3]
+[INFO ] 2021-12-25 21:35:45.231 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:45.232 [main] DataProviderCsv - isIdInData: [1] {}
+[INFO ] 2021-12-25 21:35:45.232 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.232 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:45.237 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 3. [2,Name2,Order{pharmacyProductList=[]},Password2]
+[INFO ] 2021-12-25 21:35:45.239 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:45.240 [main] DataProviderCsv - isIdInData: [3] {} No Such Element
+[INFO ] 2021-12-25 21:35:45.240 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.240 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-25 21:35:45.240 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.240 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:45.251 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 5. [4,Name4,Order{pharmacyProductList=[]},Password4]
+[INFO ] 2021-12-25 21:35:45.252 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:45.253 [main] DataProviderCsv - writeCsv: [1] {}
+[INFO ] 2021-12-25 21:35:45.259 [main] DataProviderCsv - writeCsv: [3] {}
+[INFO ] 2021-12-25 21:35:45.259 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-25 21:35:45.260 [main] DataProviderCsv - updateUsers: [3] {}
+[INFO ] 2021-12-25 21:35:45.260 [main] DataProviderCsv - getUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.260 [main] DataProviderCsv - readCsv: [1] {}
+[ERROR] 2021-12-25 21:35:45.266 [main] DataProviderCsv - getUsers: [2] {} Error parsing CSV line: 2. [2,Name2,Order{pharmacyProductList=[]},Password2]
+[INFO ] 2021-12-25 21:35:45.268 [main] DataProviderCsv - getUsers: [3] {}
+[INFO ] 2021-12-25 21:35:45.270 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-25 21:35:45.410 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-25 21:35:45.411 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-25 21:35:45.411 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-25 21:35:45.590 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-25 21:35:45.590 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-25 21:35:45.590 [main] Barcode - readBarcode[1] {}
+[INFO ] 2021-12-25 21:35:45.726 [main] Barcode - readBarcode[2] {}
+[INFO ] 2021-12-25 21:35:45.726 [main] Barcode - readBarcode[3] {}
+[INFO ] 2021-12-25 21:35:45.726 [main] DataProviderCsv - appendUsers: [1] {}
+[INFO ] 2021-12-25 21:35:45.726 [main] DataProviderCsv - stringingDuplicateId: [1] {}
+[INFO ] 2021-12-25 21:35:45.727 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:45.727 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:45.731 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:45.731 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:45.731 [main] DataProviderCsv - writeCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:45.734 [main] DataProviderCsv - writeCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:45.735 [main] DataProviderCsv - appendUsers: [5] {}
+[INFO ] 2021-12-25 21:35:45.736 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:45.736 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2021-12-25 21:35:45.736 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:45.736 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:45.740 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:45.740 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:45.740 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2021-12-25 21:35:45.740 [main] DataProviderCsv - searchPharmacyProductByCategory [5] {}
+[INFO ] 2021-12-25 21:35:45.740 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2021-12-25 21:35:45.741 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:45.741 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:45.745 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:45.745 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:45.752 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2021-12-25 21:35:45.752 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2021-12-25 21:35:45.752 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2021-12-25 21:35:45.752 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2021-12-25 21:35:45.756 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2021-12-25 21:35:45.756 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2021-12-25 21:35:45.756 [main] DataProviderCsv - searchMeddicineByName [2] {}
