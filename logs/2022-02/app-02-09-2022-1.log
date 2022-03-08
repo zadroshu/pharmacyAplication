@@ -1,0 +1,130 @@
+[INFO ] 2022-02-05 12:42:27.011 [main] DataProviderCsv - getOrders: [1] {}
+[INFO ] 2022-02-05 12:42:27.035 [main] DataProviderCsv - readCsvOrder: [1] {}
+[INFO ] 2022-02-05 12:42:27.042 [main] DataProviderCsv - readCsvOrder: [3] {}
+[INFO ] 2022-02-05 12:42:27.043 [main] DataProviderCsv - getOrders: [3] {}
+[INFO ] 2022-02-05 12:42:27.044 [main] DataProviderCsv - stringingDuplicateIdOrder: [2] {}
+[INFO ] 2022-02-05 12:42:27.044 [main] DataProviderCsv - writeCsvOrder: [1] {}
+[INFO ] 2022-02-05 12:42:27.061 [main] DataProviderCsv - writeCsvOrder: [2] {}
+[INFO ] 2022-02-05 12:42:27.062 [main] DataProviderCsv - writeCsvOrder: [4] {}
+[INFO ] 2022-02-05 12:42:27.062 [main] DataProviderCsv - appendOrders: [5] {}
+[INFO ] 2022-02-05 12:42:27.062 [main] DataProviderCsv - updateOrders: [3] {}
+[INFO ] 2022-02-05 12:43:04.725 [main] DataProviderCsv - pharmacyProductName [1] {}
+[INFO ] 2022-02-05 12:43:04.728 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-02-05 12:43:04.728 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-02-05 12:43:04.728 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-05 12:43:04.729 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-05 12:43:04.809 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-05 12:43:04.809 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-05 12:43:04.809 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-02-05 12:43:04.809 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-02-05 12:43:04.810 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-05 12:43:04.810 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-05 12:43:04.817 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-05 12:43:04.817 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-05 12:43:04.817 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-02-05 12:43:04.817 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-02-05 12:43:04.818 [main] DataProviderCsv - pharmacyProductName [2] {} No such pharmacy product
+[INFO ] 2022-02-05 13:00:13.328 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-02-05 13:00:13.330 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-02-05 13:00:13.330 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-05 13:00:13.331 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-05 13:00:13.419 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-05 13:00:13.420 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-05 13:00:13.421 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-02-05 13:00:13.421 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-02-05 13:00:13.421 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [1] {}
+[INFO ] 2022-02-05 13:00:13.421 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-05 13:00:13.421 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-05 13:00:13.428 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-05 13:00:13.428 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-05 13:00:13.429 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [2] {}
+[INFO ] 2022-02-05 13:00:13.429 [main] DataProviderCsv - searchPharmacyProductByCategory [3] {} This category is empty
+[INFO ] 2022-02-05 13:00:13.429 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-02-05 13:00:13.429 [main] DataProviderCsv - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-02-05 13:00:13.431 [main] DataProviderCsv - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-02-05 13:05:51.362 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-02-05 13:05:51.366 [main] DataProviderCsv - searchPharmacyProductByCategory [1] {}
+[INFO ] 2022-02-05 13:05:51.366 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-05 13:05:51.367 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-05 13:05:51.445 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-05 13:05:51.446 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-05 13:05:51.447 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-02-05 13:05:51.447 [main] DataProviderCsv - searchPharmacyProductByCategory [2] {}
+[INFO ] 2022-02-05 13:05:51.447 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [1] {}
+[INFO ] 2022-02-05 13:05:51.447 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-05 13:05:51.447 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-05 13:05:51.454 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-05 13:05:51.454 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-05 13:05:51.455 [main] DataProviderCsv - searchPharmacyMedicalDeviceByCategory [2] {}
+[INFO ] 2022-02-05 13:05:51.455 [main] DataProviderCsv - searchPharmacyProductByCategory [3] {} This category is empty
+[INFO ] 2022-02-05 13:05:51.455 [main] DataProviderCsv - searchPharmacyProductByCategory [7] {}
+[INFO ] 2022-02-05 13:05:51.455 [main] DataProviderCsv - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-02-05 13:05:51.456 [main] DataProviderCsv - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-02-09 18:54:07.203 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-02-09 18:54:07.206 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-02-09 18:54:07.206 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-09 18:54:07.207 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-09 18:54:07.285 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-09 18:54:07.286 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-09 18:54:07.286 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-02-09 18:54:07.286 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-02-09 18:54:07.286 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-09 18:54:07.287 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-09 18:54:07.293 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-09 18:54:07.293 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-09 18:54:07.294 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-02-09 18:54:07.294 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-02-09 18:54:07.294 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-02-09 18:54:07.294 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-02-09 18:54:07.294 [main] DataProviderCsv - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-02-09 18:54:07.295 [main] DataProviderCsv - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-02-09 18:54:07.304 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-09 18:54:07.304 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-09 18:54:26.643 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-02-09 18:54:26.645 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-02-09 18:54:26.646 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-09 18:54:26.646 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-09 18:54:26.729 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-09 18:54:26.729 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-09 18:54:26.730 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-02-09 18:54:26.731 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-02-09 18:54:26.731 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-09 18:54:26.731 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-09 18:54:26.738 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-09 18:54:26.738 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-09 18:54:26.738 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-02-09 18:54:26.739 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-02-09 18:54:26.739 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-02-09 18:54:26.739 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-02-09 18:54:26.739 [main] DataProviderCsv - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-02-09 18:54:26.740 [main] DataProviderCsv - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-02-09 18:54:26.748 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-09 18:54:26.748 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-09 18:58:31.509 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-02-09 18:58:31.512 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-02-09 18:58:31.512 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-09 18:58:31.513 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-09 18:58:31.585 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-09 18:58:31.586 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-09 18:58:31.586 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-02-09 18:58:31.586 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}

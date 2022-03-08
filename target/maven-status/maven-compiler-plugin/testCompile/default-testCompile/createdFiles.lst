@@ -1,0 +1,5 @@
+api\DataProviderCsvTest.class
+api\HibernateUtilTest.class
+api\DataProviderXmlTest.class
+api\DataProviderH2Test.class
+api\HistoryContentTest.class

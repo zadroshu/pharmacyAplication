@@ -1,0 +1,30 @@
+[INFO ] 2022-02-09 20:11:34.030 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-02-09 20:11:34.032 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-02-09 20:11:34.032 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-02-09 20:11:34.033 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-02-09 20:11:34.101 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-02-09 20:11:34.101 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-02-09 20:11:34.102 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-02-09 20:11:34.102 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-02-09 20:11:34.102 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-09 20:11:34.103 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-09 20:11:34.109 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-09 20:11:34.109 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-09 20:11:34.110 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-02-09 20:11:34.110 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-02-09 20:11:34.110 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-02-09 20:11:34.110 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-02-09 20:11:34.111 [main] DataProviderCsv - sortPharmacyProductMaxToMin [1] {}
+[INFO ] 2022-02-09 20:11:34.112 [main] DataProviderCsv - sortPharmacyProductMaxToMin [2] {}
+[INFO ] 2022-02-09 20:11:34.119 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-09 20:11:34.120 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
