@@ -56,7 +56,17 @@ public class Constant {
     public static final String CLI_SEARCH_PHARMACY_PRODUCT_BY_NAME = "n";
 
     public static final String P_SELECT_DB_VERSION = "SELECT version();";
+    public static final String P_SELECT_TABLES = "SELECT *\n" +
+            "FROM pg_catalog.pg_tables\n" +
+            "WHERE schemaname != 'pg_catalog' AND \n" +
+            "    schemaname != 'information_schema';";
 
+    public static final String P_SELECT_TABLE_INFO = "select * from information_schema.columns\n" +
+            "where table_schema = 'public';";
 
+    public static final String SECLECT_ALL_FROM_MAPPEDSUPERCLASSPHARMACYPRODUCT = "SELECT a FROM PharmacyProduct a";
+    public static final String SELECT_PHARMACYPRODUCT_BY_ID = "SELECT a FROM PharmacyProduct WHERE id = ";
+    public static final String SELECT_MEDICALDEVICE_BY_ID = "SELECT a FROM MedicalDevice WHERE id = ";
+    public static final String SECLECT_ALL_FROM_MAPPEDSUPERCLASSMEDICALDEVICE = "SELECT a FROM MedicalDevice a";
 
 }

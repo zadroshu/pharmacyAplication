@@ -6,11 +6,12 @@ import org.simpleframework.xml.Root;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import java.io.Serializable;
 import java.util.Objects;
 
 @Entity
 @Root(name = "Order")
-public class Order {
+public class Order implements Serializable {
     @Element(name = "orderId")
     @CsvBindByName
     @Column

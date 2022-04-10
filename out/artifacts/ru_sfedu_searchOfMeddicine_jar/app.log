@@ -28,3 +28,33 @@ Name: Name1
 Price: 1.0
 Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
 
+[INFO ] 2022-03-29 08:08:57.948 [main] DataProviderCsv - searchPharmacyProductByName [1] {}
+[INFO ] 2022-03-29 08:08:57.950 [main] DataProviderCsv - searchMeddicineByName [1] {}
+[INFO ] 2022-03-29 08:08:57.950 [main] DataProviderCsv - getMeddicines: [1] {}
+[INFO ] 2022-03-29 08:08:57.952 [main] DataProviderCsv - readCsvMedicine: [1] {}
+[INFO ] 2022-03-29 08:08:58.043 [main] DataProviderCsv - readCsvMedicine: [3] {}
+[INFO ] 2022-03-29 08:08:58.044 [main] DataProviderCsv - getMeddicines: [3] {}
+[INFO ] 2022-03-29 08:08:58.044 [main] DataProviderCsv - searchMeddicineByName [2] {}
+[INFO ] 2022-03-29 08:08:58.045 [main] DataProviderCsv - searchMedicalDeviceByName [1] {}
+[INFO ] 2022-03-29 08:08:58.045 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-03-29 08:08:58.045 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-03-29 08:08:58.052 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-03-29 08:08:58.052 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-03-29 08:08:58.053 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-03-29 08:08:58.054 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-03-29 08:08:58.054 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-03-29 08:08:58.055 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-03-29 08:08:58.055 [main] DataProviderCsv - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-03-29 08:08:58.056 [main] DataProviderCsv - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-03-29 08:08:58.064 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-03-29 08:08:58.065 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+

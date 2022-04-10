@@ -17,7 +17,7 @@
       </schema-mapping>
     </data-source>
     <data-source name="myFirstDatabase@cluster0.p4jyy.mongodb.net" uuid="4812959d-b6e8-49b9-a7d2-5cc65c5453f8">
-      <database-info product="Mongo DB" version="" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.12" dbms="UNKNOWN" exact-version="0" />
+      <database-info product="Mongo DB" version="5.0.6" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.12" dbms="MONGO" exact-version="5.0.6" exact-driver-version="1.12" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <secret-storage>master_key</secret-storage>
       <user-name>edlenko</user-name>
@@ -30,7 +30,7 @@
       </schema-mapping>
     </data-source>
     <data-source name="pharmacyAplicationPostgres" uuid="0ff047a1-c351-4602-89ce-dac4c65496c6">
-      <database-info product="PostgreSQL" version="14.2" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.22" dbms="POSTGRES" exact-version="14.2" exact-driver-version="42.2">
+      <database-info product="PostgreSQL" version="14.2" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.3.3" dbms="POSTGRES" exact-version="14.2" exact-driver-version="42.3">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />

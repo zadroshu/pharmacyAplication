@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="myFirstDatabase@cluster0.p4jyy.mongodb.net">
-  <database-model serializer="dbm" dbms="UNKNOWN" family-id="UNKNOWN" format-version="4.31">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.31">
     <root id="1">
-      <DefaultCasing>mixed/mixed</DefaultCasing>
-      <ServerVersion>0.0</ServerVersion>
+      <ServerVersion>5.0.6</ServerVersion>
     </root>
-    <database id="2" parent="1" name="Mongo">
-      <Current>1</Current>
-    </database>
-    <schema id="3" parent="2" name="myFirstDatabase">
-      <Current>1</Current>
-    </schema>
+    <schema id="2" parent="1" name="pharmacyProduct"/>
+    <schema id="3" parent="1" name="userHistory"/>
+    <schema id="4" parent="1" name="admin"/>
+    <schema id="5" parent="1" name="local"/>
   </database-model>
 </dataSource>
