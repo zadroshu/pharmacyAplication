@@ -1,0 +1,91 @@
+[INFO ] 2022-03-16 09:25:58.770 [main] HibernateDataProvider - testEntityAdd[1]{}
+[INFO ] 2022-03-16 09:25:58.794 [main] HibernateDataProvider - testEntityAdd[2]{}
+[INFO ] 2022-03-16 09:25:58.802 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:25:58.822 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-16 09:25:58.826 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[INFO ] 2022-03-16 09:25:58.826 [main] HibernateDataProvider - testEntityUpdate[2]{}
+[ERROR] 2022-03-16 09:25:58.830 [main] HibernateDataProvider - testEntityUpdate[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update TestEntity set dateCreated=?, description=?, name=?, pass=? where id=?
+[INFO ] 2022-03-29 13:30:37.703 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[INFO ] 2022-03-29 13:30:41.607 [main] HibernateDataProvider - testEntityUpdate[2]{}
+[ERROR] 2022-03-29 13:30:41.623 [main] HibernateDataProvider - testEntityUpdate[]{} org.hibernate.PropertyValueException: not-null property references a null or transient value : project.model.TestEntity.homeAddress
+[INFO ] 2022-03-29 13:51:41.224 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[INFO ] 2022-03-29 13:51:43.508 [main] HibernateDataProvider - testEntityUpdate[2]{}
+[ERROR] 2022-03-29 13:51:43.516 [main] HibernateDataProvider - testEntityUpdate[]{} org.hibernate.PropertyValueException: not-null property references a null or transient value : project.model.TestEntity.homeAddress
+[INFO ] 2022-03-29 13:58:13.021 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[INFO ] 2022-03-29 13:58:15.071 [main] HibernateDataProvider - testEntityUpdate[2]{}
+[ERROR] 2022-03-29 13:58:15.102 [main] HibernateDataProvider - testEntityUpdate[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update TestEntity set dateCreated=?, description=?, HOME_CITY=?, HOME_STREET=?, HOME_ZIPCODE=?, name=?, pass=?, WORK_CITY=?, WORK_STREET=?, WORK_ZIPCODE=? where id=?
+[INFO ] 2022-03-29 15:37:55.111 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-29 15:37:56.999 [main] HibernateDataProvider - testEntityDelete[2]{}
+[INFO ] 2022-03-29 15:37:57.018 [main] HibernateDataProvider - testEntitieRead[1]{}
+[INFO ] 2022-03-29 15:37:57.028 [main] HibernateDataProvider - testEntitieRead[2]{}
+[INFO ] 2022-04-08 12:42:55.940 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 12:42:58.528 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 13:09:28.417 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 13:09:30.488 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 13:13:28.380 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:13:30.536 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-08 13:17:28.042 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:17:30.161 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-08 13:18:38.703 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[INFO ] 2022-04-08 13:19:36.220 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:19:38.303 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-08 13:22:07.286 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:22:09.350 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-08 13:34:48.317 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:34:50.531 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [FROM PharmacyProduct]
+[INFO ] 2022-04-08 13:49:56.326 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:49:58.250 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-08 13:50:31.767 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-08 13:50:33.713 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.mappedsuperclass.PharmacyProduct
+[INFO ] 2022-04-08 13:55:13.932 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 13:55:15.919 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 13:57:59.107 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 13:58:01.219 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:00:04.647 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:00:06.547 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:01:27.000 [main] MappedSuperClassService - updateMedicalDevice[1]{}
+[INFO ] 2022-04-08 14:01:28.862 [main] MappedSuperClassService - updateMedicalDevice[2]{}
+[INFO ] 2022-04-08 14:03:29.856 [main] MappedSuperClassService - getAllMedicalDevice[1]{}
+[ERROR] 2022-04-08 14:03:31.825 [main] MappedSuperClassService - getAllMedicalDevice[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: MedicalDevice is not mapped [SELECT a FROM MedicalDevice a]
+[INFO ] 2022-04-08 14:12:55.590 [main] MappedSuperClassService - getPharmacyProduct[1]{}
+[ERROR] 2022-04-08 14:12:57.560 [main] MappedSuperClassService - getPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: MedicalDevice is not mapped [SELECT a FROM MedicalDevice WHERE id = 1]
+[INFO ] 2022-04-08 14:21:42.462 [main] MappedSuperClassService - getPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:21:44.374 [main] MappedSuperClassService - getPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:22:29.977 [main] MappedSuperClassService - getPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:22:31.905 [main] MappedSuperClassService - getPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:22:42.668 [main] MappedSuperClassService - getPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:22:44.553 [main] MappedSuperClassService - getPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:25:30.916 [main] MappedSuperClassService - deleteMedicalDevice[1]{}
+[INFO ] 2022-04-08 14:25:32.763 [main] MappedSuperClassService - getPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:25:32.849 [main] MappedSuperClassService - getPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:25:32.868 [main] MappedSuperClassService - deleteMedicalDevice[2]{}
+[INFO ] 2022-04-08 14:26:51.001 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:26:53.001 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:27:44.770 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:27:46.595 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:36:46.189 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:36:48.301 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:53:12.103 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 14:53:14.139 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 14:56:21.030 [main] MappedSuperClassService - updateMedicine[1]{}
+[INFO ] 2022-04-08 14:56:22.944 [main] MappedSuperClassService - updateMedicine[2]{}
+[ERROR] 2022-04-08 14:56:22.980 [main] MappedSuperClassService - updateMedicine[3]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update MappedSuperClassMedicine set barcode=?, description=?, nameOfPharmacyProduct=?, price=?, activeSubstanceOfTheMeddicine=?, categoryOfTheMeddicine=? where id=?
+[INFO ] 2022-04-08 14:57:01.385 [main] MappedSuperClassService - updateMedicine[1]{}
+[INFO ] 2022-04-08 14:57:03.360 [main] MappedSuperClassService - updateMedicine[2]{}
+[INFO ] 2022-04-08 15:01:13.241 [main] MappedSuperClassService - getMedicine[1]{}
+[INFO ] 2022-04-08 15:01:15.180 [main] MappedSuperClassService - getMedicine[2]{}
+[INFO ] 2022-04-08 15:03:22.303 [main] MappedSuperClassService - deleteMedicine[1]{}
+[INFO ] 2022-04-08 15:03:24.208 [main] MappedSuperClassService - getMedicine[1]{}
+[INFO ] 2022-04-08 15:03:24.455 [main] MappedSuperClassService - getMedicine[2]{}
+[INFO ] 2022-04-08 15:03:24.475 [main] MappedSuperClassService - deleteMedicine[2]{}
+[INFO ] 2022-04-08 15:03:43.478 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 15:03:45.332 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 15:13:37.505 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-08 15:13:39.414 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.mappedsuperclass.PharmacyProduct
+[INFO ] 2022-04-08 15:24:28.575 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-08 15:24:30.466 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.tableperclass.MedicalDevice
+[INFO ] 2022-04-08 15:25:09.452 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 15:46:14.048 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 15:47:33.410 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 15:47:35.564 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 15:49:15.274 [main] MappedSuperClassService - addPharmacyProduct[1]{}

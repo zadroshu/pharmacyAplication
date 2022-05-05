@@ -24,6 +24,14 @@
     <mapping class="project.model.inheritance.tableperclass.MedicalDevice"/>
     <mapping class="project.model.inheritance.tableperclass.Medicine"/>
 
+    <mapping class="project.model.inheritance.singletable.PharmacyProduct"/>
+    <mapping class="project.model.inheritance.singletable.MedicalDevice"/>
+    <mapping class="project.model.inheritance.singletable.Medicine"/>
+
+    <mapping class="project.model.inheritance.joined.PharmacyProduct"/>
+    <mapping class="project.model.inheritance.joined.MedicalDevice"/>
+    <mapping class="project.model.inheritance.joined.Medicine"/>
+
 
     <!-- DB schema will be updated if needed -->
     <!-- <property name="hibernate.hbm2ddl.auto">update</property> -->

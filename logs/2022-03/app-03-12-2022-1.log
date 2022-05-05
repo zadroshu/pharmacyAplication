@@ -1,0 +1,104 @@
+[INFO ] 2022-02-09 18:58:31.587 [main] DataProviderCsv - getMedicalDevices: [1] {}
+[INFO ] 2022-02-09 18:58:31.594 [main] DataProviderCsv - readCsvMedicalDevice: [1] {}
+[INFO ] 2022-02-09 18:58:31.602 [main] DataProviderCsv - readCsvMedicalDevice: [3] {}
+[INFO ] 2022-02-09 18:58:31.602 [main] DataProviderCsv - getMedicalDevices: [3] {}
+[INFO ] 2022-02-09 18:58:31.603 [main] DataProviderCsv - searchMedicalDeviceByName [2] {}
+[INFO ] 2022-02-09 18:58:31.603 [main] DataProviderCsv - searchPharmacyProductByName [2] {}
+[INFO ] 2022-02-09 18:58:31.603 [main] DataProviderCsv - searchPharmacyProductByName [3] {}
+[INFO ] 2022-02-09 18:58:31.603 [main] DataProviderCsv - searchPharmacyProductByName [5] {}
+[INFO ] 2022-02-09 18:58:31.603 [main] DataProviderCsv - sortPharmacyProductMinToMax [1] {}
+[INFO ] 2022-02-09 18:58:31.604 [main] DataProviderCsv - sortPharmacyProductMinToMax [2] {}
+[INFO ] 2022-02-09 18:58:31.614 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 1.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-09 18:58:31.614 [main] PharmacyAplication - 
+Barcode: I2/5:1520152015201520
+Name: Name1
+Price: 20.0
+Description: djkfjsdkfjskdfjkdsjfkaflk;jdkajfkjdfkjdakfjdasfkjdkajfkdjlkajkdjakjdfdajfkdjfkjrkrojimeoiej
+
+[INFO ] 2022-02-13 15:32:57.555 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:32:57.560 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:35:13.883 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:35:13.890 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:36:25.880 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:36:46.378 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:36:46.387 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:36:51.004 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:36:51.009 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:36:51.012 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:37:25.406 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:37:25.415 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:37:25.420 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:40:36.996 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:40:37.003 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:40:37.007 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:42:12.335 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:42:13.345 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:42:13.349 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:42:31.019 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:42:31.809 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:42:31.813 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:44:34.798 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:44:35.672 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:44:35.674 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 15:53:09.376 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 15:53:10.186 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.getCurrentSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 15:53:10.189 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 16:34:48.636 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 16:34:48.639 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 16:34:48.641 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 16:36:23.196 [main] HibernateUtil - appendUsers [1] {}
+[ERROR] 2022-02-13 16:36:23.199 [main] HibernateUtil - appendUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 16:36:23.200 [main] HibernateUtil - appendUsers [3] {}
+[INFO ] 2022-02-13 16:48:38.837 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-13 16:48:38.838 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 16:48:38.843 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-13 16:53:39.522 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-13 16:53:39.526 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 16:53:39.527 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-13 17:01:35.824 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-13 17:01:35.831 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 17:01:35.835 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-13 17:03:23.451 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-13 17:03:24.340 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-13 17:03:24.345 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-16 08:04:57.291 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-16 08:04:58.542 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-16 08:04:58.546 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-19 12:15:03.420 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-19 12:15:04.424 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-19 12:15:04.426 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-19 16:29:04.586 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-19 16:29:05.396 [main] HibernateUtil - getSessionFactory[2]{} Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+[ERROR] 2022-02-19 16:29:05.396 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-19 16:29:05.398 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-19 16:35:33.332 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-19 16:35:34.176 [main] HibernateUtil - getSessionFactory[2]{} Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+[ERROR] 2022-02-19 16:35:34.176 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-19 16:35:34.179 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-02-25 11:40:43.458 [main] HibernateUtil - getUsers [1] {}
+[ERROR] 2022-02-25 11:40:44.723 [main] HibernateUtil - getSessionFactory[2]{} Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+[ERROR] 2022-02-25 11:40:44.723 [main] HibernateUtil - getUsers [2] {} Cannot invoke "org.hibernate.SessionFactory.openSession()" because "project.api.HibernateUtil.sessionFactory" is null
+[INFO ] 2022-02-25 11:40:44.725 [main] HibernateUtil - getUsers [3] {}
+[INFO ] 2022-03-12 17:17:31.213 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:17:32.821 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:18:13.491 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:18:15.110 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:19:07.701 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:19:09.417 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:20:07.152 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:20:08.763 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:22:47.856 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:22:49.484 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:24:00.588 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:24:02.250 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:31:12.234 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:31:13.845 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 17:32:04.216 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 17:32:05.846 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-12 19:38:34.191 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-12 19:38:36.828 [main] HibernateDataProvider - getTableInfo[2]{}

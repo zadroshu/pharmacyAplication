@@ -5,3 +5,26 @@
 [INFO ] 2022-04-08 15:51:23.183 [main] MappedSuperClassService - addPharmacyProduct[2]{}
 [INFO ] 2022-04-08 15:57:28.101 [main] MappedSuperClassService - addPharmacyProduct[1]{}
 [ERROR] 2022-04-08 15:57:30.028 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.singletable.PharmacyProduct
+[INFO ] 2022-04-10 10:23:15.814 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-10 10:23:18.558 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.mappedsuperclass.PharmacyProduct
+[INFO ] 2022-04-10 10:23:34.222 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:23:36.536 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:23:46.175 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:23:48.395 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:24:59.629 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:25:02.135 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:27:35.609 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-10 10:27:37.833 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-10 10:27:50.336 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:27:52.589 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:28:25.195 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:28:27.485 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:37:07.383 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-10 10:37:09.810 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.joined.PharmacyProduct
+[INFO ] 2022-04-10 10:37:56.805 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:40:21.203 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:40:23.438 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:40:59.788 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:41:02.005 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:42:21.486 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:42:23.817 [main] MappedSuperClassService - addPharmacyProduct[2]{}

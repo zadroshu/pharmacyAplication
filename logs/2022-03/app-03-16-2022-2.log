@@ -1,0 +1,100 @@
+[INFO ] 2022-03-16 09:13:37.855 [main] HibernateDataProvider - testEntityAdd[1]{}
+[INFO ] 2022-03-16 09:13:39.801 [main] HibernateDataProvider - testEntityAdd[2]{}
+[ERROR] 2022-03-16 09:13:39.833 [main] HibernateDataProvider - testEntityAdd[1]{}org.hibernate.exception.SQLGrammarException: could not execute statement
+[INFO ] 2022-03-16 09:16:13.779 [main] HibernateDataProvider - testEntityAdd[1]{}
+[INFO ] 2022-03-16 09:16:16.145 [main] HibernateDataProvider - testEntityAdd[2]{}
+[INFO ] 2022-03-16 09:16:18.012 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:16:19.875 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:16:19.900 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:16:19.908 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:16:19.952 [main] HibernateDataProvider - getDatabaseTables[2]{}
+[INFO ] 2022-03-16 09:16:19.956 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:16:19.960 [main] HibernateDataProvider - testEntitieRead[1]{}
+[ERROR] 2022-03-16 09:16:19.960 [main] HibernateDataProvider - testEntitieRead[3]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:16:19.964 [main] HibernateDataProvider - testEntityAdd[1]{}
+[ERROR] 2022-03-16 09:16:19.988 [main] HibernateDataProvider - testEntityAdd[1]{}EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:16:19.992 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:16:20.004 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[ERROR] 2022-03-16 09:16:20.004 [main] HibernateDataProvider - testEntityUpdate[]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:16:50.204 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:16:52.000 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-16 09:17:02.801 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:17:04.549 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:17:04.573 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:17:04.585 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:17:04.633 [main] HibernateDataProvider - getDatabaseTables[2]{}
+[INFO ] 2022-03-16 09:17:04.633 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:17:04.637 [main] HibernateDataProvider - testEntitieRead[1]{}
+[ERROR] 2022-03-16 09:17:04.637 [main] HibernateDataProvider - testEntitieRead[3]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:17:04.641 [main] HibernateDataProvider - testEntityAdd[1]{}
+[ERROR] 2022-03-16 09:17:04.669 [main] HibernateDataProvider - testEntityAdd[1]{}EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:17:04.673 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:17:04.685 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[ERROR] 2022-03-16 09:17:04.685 [main] HibernateDataProvider - testEntityUpdate[]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:18:35.076 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:18:36.805 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:18:36.825 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:18:36.833 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:18:36.881 [main] HibernateDataProvider - getDatabaseTables[2]{}
+[INFO ] 2022-03-16 09:18:36.881 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:18:36.885 [main] HibernateDataProvider - testEntitieRead[1]{}
+[ERROR] 2022-03-16 09:18:36.885 [main] HibernateDataProvider - testEntitieRead[3]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:18:36.885 [main] HibernateDataProvider - testEntityAdd[1]{}
+[ERROR] 2022-03-16 09:18:36.909 [main] HibernateDataProvider - testEntityAdd[1]{}EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:18:36.913 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:18:36.925 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[ERROR] 2022-03-16 09:18:36.925 [main] HibernateDataProvider - testEntityUpdate[]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:19:33.674 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:19:35.538 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:19:35.558 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:19:35.570 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:19:35.614 [main] HibernateDataProvider - getDatabaseTables[2]{}
+[INFO ] 2022-03-16 09:19:35.618 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:19:35.622 [main] HibernateDataProvider - testEntitieRead[1]{}
+[ERROR] 2022-03-16 09:19:35.622 [main] HibernateDataProvider - testEntitieRead[3]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:19:35.622 [main] HibernateDataProvider - testEntityAdd[1]{}
+[ERROR] 2022-03-16 09:19:35.646 [main] HibernateDataProvider - testEntityAdd[1]{}EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:19:35.650 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:19:35.662 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[ERROR] 2022-03-16 09:19:35.662 [main] HibernateDataProvider - testEntityUpdate[]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:20:30.054 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:20:31.962 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-16 09:20:47.892 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:20:49.849 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:20:49.865 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:20:49.881 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:20:49.930 [main] HibernateDataProvider - getDatabaseTables[2]{}
+[INFO ] 2022-03-16 09:20:49.930 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:20:49.934 [main] HibernateDataProvider - testEntitieRead[1]{}
+[ERROR] 2022-03-16 09:20:49.934 [main] HibernateDataProvider - testEntitieRead[3]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:20:49.938 [main] HibernateDataProvider - testEntityAdd[1]{}
+[ERROR] 2022-03-16 09:20:49.938 [main] HibernateDataProvider - testEntityAdd[1]{}EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:20:49.942 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:20:49.958 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[ERROR] 2022-03-16 09:20:49.958 [main] HibernateDataProvider - testEntityUpdate[]{} EntityManagerFactory is closed
+[INFO ] 2022-03-16 09:25:05.565 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:25:07.501 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-16 09:25:17.700 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:25:19.469 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:25:19.489 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:25:19.501 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:25:19.553 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:25:19.557 [main] HibernateDataProvider - getDatabaseVersion[2]{}
+[INFO ] 2022-03-16 09:25:19.561 [main] HibernateDataProvider - testEntitieRead[1]{}
+[INFO ] 2022-03-16 09:25:19.565 [main] HibernateDataProvider - testEntitieRead[2]{}
+[INFO ] 2022-03-16 09:25:19.603 [main] HibernateDataProvider - testEntityAdd[1]{}
+[INFO ] 2022-03-16 09:25:19.611 [main] HibernateDataProvider - testEntityAdd[2]{}
+[INFO ] 2022-03-16 09:25:19.619 [main] HibernateDataProvider - getTableInfo[1]{}
+[INFO ] 2022-03-16 09:25:19.639 [main] HibernateDataProvider - getTableInfo[2]{}
+[INFO ] 2022-03-16 09:25:19.639 [main] HibernateDataProvider - testEntityUpdate[1]{}
+[INFO ] 2022-03-16 09:25:19.639 [main] HibernateDataProvider - testEntityUpdate[2]{}
+[ERROR] 2022-03-16 09:25:19.643 [main] HibernateDataProvider - testEntityUpdate[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update TestEntity set dateCreated=?, description=?, name=?, pass=? where id=?
+[INFO ] 2022-03-16 09:25:56.806 [main] HibernateDataProvider - testEntityDelete[1]{}
+[INFO ] 2022-03-16 09:25:58.662 [main] HibernateDataProvider - testEntityDelete[2]{}
+[ERROR] 2022-03-16 09:25:58.686 [main] HibernateDataProvider - testEntityDelete[]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: delete from TestEntity where id=?
+[INFO ] 2022-03-16 09:25:58.694 [main] HibernateDataProvider - getDatabaseTables[1]{}
+[INFO ] 2022-03-16 09:25:58.734 [main] HibernateDataProvider - getDatabaseTables[2]{}
+[INFO ] 2022-03-16 09:25:58.738 [main] HibernateDataProvider - getDatabaseVersion[1]{}
+[INFO ] 2022-03-16 09:25:58.738 [main] HibernateDataProvider - getDatabaseVersion[2]{}
+[INFO ] 2022-03-16 09:25:58.742 [main] HibernateDataProvider - testEntitieRead[1]{}
+[INFO ] 2022-03-16 09:25:58.746 [main] HibernateDataProvider - testEntitieRead[2]{}
