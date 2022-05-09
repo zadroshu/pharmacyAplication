@@ -1,30 +1,19 @@
-[INFO ] 2022-04-08 15:49:17.512 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-08 15:50:14.792 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-08 15:50:16.815 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-08 15:51:21.014 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-08 15:51:23.183 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-08 15:57:28.101 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[ERROR] 2022-04-08 15:57:30.028 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.singletable.PharmacyProduct
-[INFO ] 2022-04-10 10:23:15.814 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[ERROR] 2022-04-10 10:23:18.558 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.mappedsuperclass.PharmacyProduct
-[INFO ] 2022-04-10 10:23:34.222 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:23:36.536 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:23:46.175 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:23:48.395 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:24:59.629 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:25:02.135 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:27:35.609 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
-[ERROR] 2022-04-10 10:27:37.833 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
-[INFO ] 2022-04-10 10:27:50.336 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:27:52.589 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:28:25.195 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:28:27.485 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:37:07.383 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[ERROR] 2022-04-10 10:37:09.810 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.joined.PharmacyProduct
-[INFO ] 2022-04-10 10:37:56.805 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:40:21.203 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:40:23.438 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:40:59.788 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:41:02.005 [main] MappedSuperClassService - addPharmacyProduct[2]{}
-[INFO ] 2022-04-10 10:42:21.486 [main] MappedSuperClassService - addPharmacyProduct[1]{}
-[INFO ] 2022-04-10 10:42:23.817 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-05-09 15:21:59.042 [main] DataProviderMap - getMedicine[1]{}
+[INFO ] 2022-05-09 15:24:05.599 [main] DataProviderMap - getMedicine[1]{}
+[INFO ] 2022-05-09 15:26:18.343 [main] DataProviderMap - getMedicineBidirectional[1]{}
+[ERROR] 2022-05-09 15:26:20.670 [main] DataProviderMap - getMedicineBidirectional[3]{} null
+[INFO ] 2022-05-09 15:27:42.607 [main] DataProviderMap - updateMedicineCategories[1]{}
+[INFO ] 2022-05-09 15:27:44.970 [main] DataProviderMap - updateMedicineCategories[2]{}
+[ERROR] 2022-05-09 15:27:45.004 [main] DataProviderMap - updateMedicineCategories[3]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update map_pharmacyProduct set barcode=?, description=?, nameOfPharmacyProduct=?, price=?, activeSubstanceOfTheMeddicine=? where id=?
+[INFO ] 2022-05-09 15:27:53.688 [main] DataProviderMap - getMedicineBidirectional[1]{}
+[ERROR] 2022-05-09 15:27:55.990 [main] DataProviderMap - getMedicineBidirectional[3]{} null
+[INFO ] 2022-05-09 15:28:07.843 [main] DataProviderMap - getMedicineBidirectional[1]{}
+[ERROR] 2022-05-09 15:28:10.137 [main] DataProviderMap - getMedicineBidirectional[3]{} null
+[INFO ] 2022-05-09 15:28:33.909 [main] DataProviderMap - addMedicineCategory[1]{}
+[INFO ] 2022-05-09 15:28:36.211 [main] DataProviderMap - addMedicineCategory[2]{}
+[INFO ] 2022-05-09 15:28:56.646 [main] DataProviderMap - getMedicineBidirectional[1]{}
+[ERROR] 2022-05-09 15:28:59.239 [main] DataProviderMap - getMedicineBidirectional[3]{} null
+[INFO ] 2022-05-09 15:30:53.165 [main] DataProviderMap - getMedicine[1]{}
+[INFO ] 2022-05-09 15:30:55.518 [main] DataProviderMap - getMedicine[2]{}
+[INFO ] 2022-05-09 15:40:37.765 [main] DataProviderMap - getMedicine[1]{}
+[INFO ] 2022-05-09 15:40:40.156 [main] DataProviderMap - getMedicine[2]{}

@@ -203,14 +203,14 @@ public class JoinedService implements IServiceJoined{
     public Optional<Medicine> getMedicine(long id) {
         Optional<Medicine> medicine = Optional.empty();
         try {
-            log.info("getMedicine[1]{}");
+            log.info("getMedicineBidirectional[1]{}");
             Session session = HibernateUtil.getSessionFactory().openSession();
             session.beginTransaction();
             medicine = Optional.of((Medicine) session.get(Medicine.class, id));
-            log.info("getMedicine[2]{}");
+            log.info("getMedicineBidirectional[2]{}");
             session.getTransaction().commit();
         }catch (Exception e){
-            log.error("getMedicine[3]{} " + e.getMessage());
+            log.error("getMedicineBidirectional[3]{} " + e.getMessage());
         }
         return medicine;
     }

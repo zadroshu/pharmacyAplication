@@ -41,10 +41,10 @@ public class PharmacyAplication {
         getAnaloguesMeddicineBybarcode.setOptionalArg(false);
         getAnaloguesMeddicineBybarcode.setArgName("filePathBarcodeImg> <dataProvider> <sort");
 
-        Option searchPharmacyProductByCategory = new Option("c", "searchPharmacyProductByCategory", true, "Searching pharmacy product by category, 'a' - sort max to min 'b' - sort min to max 'any other symbol - no sort");
+        Option searchPharmacyProductByCategory = new Option("c", "searchPharmacyProductByCategory", true, "Searching pharmacy product by categoryUnidirectional, 'a' - sort max to min 'b' - sort min to max 'any other symbol - no sort");
         searchPharmacyProductByCategory.setArgs(3);
         searchPharmacyProductByCategory.setOptionalArg(false);
-        searchPharmacyProductByCategory.setArgName("category> <dataProvider> <sort");
+        searchPharmacyProductByCategory.setArgName("categoryUnidirectional> <dataProvider> <sort");
 
         Option searchPharmacyProductByName = new Option("n", "searchPharmacyProductByName", true, "Searching pharmacy product by name, 'a' - sort max to min 'b' - sort min to max 'any other symbol - no sort");
         searchPharmacyProductByName.setArgs(3);
@@ -94,11 +94,11 @@ public class PharmacyAplication {
                             log.info("\nBarcode: " + meddicine.getBarcode() + "\n" +
                                     "Name: " + meddicine.getNameOfPharmacyProduct() + "\n" +
                                     "Price: " + meddicine.getPrice() + "\n" +
-                                    "Category of the medicine: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
+                                    "CategoryUnidirectional of the medicineBidirectional: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
                                     "Active substance: " + meddicine.getActiveSubstanceOfTheMeddicine() + "\n" +
                                     "Description: " + meddicine.getDescription() + "\n");
                         }
-                    } else log.info("No such medicine");
+                    } else log.info("No such medicineBidirectional");
                 } else if (arguments[1].equals("XML")) {
                     List<Meddicine> meddicineList = dataProviderXml.getTheAnaloguesOfMedicine(arguments[0]);
                     if (!meddicineList.isEmpty()) {
@@ -111,11 +111,11 @@ public class PharmacyAplication {
                             log.info("\nBarcode: " + meddicine.getBarcode() + "\n" +
                                     "Name: " + meddicine.getNameOfPharmacyProduct() + "\n" +
                                     "Price: " + meddicine.getPrice() + "\n" +
-                                    "Category of the medicine: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
+                                    "CategoryUnidirectional of the medicineBidirectional: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
                                     "Active substance: " + meddicine.getActiveSubstanceOfTheMeddicine() + "\n" +
                                     "Description: " + meddicine.getDescription() + "\n");
                         }
-                    } else log.info("No such medicine");
+                    } else log.info("No such medicineBidirectional");
                 } else if (arguments[1].equals("H2")) {
                     List<Meddicine> meddicineList = dataProviderH2.getTheAnaloguesOfMedicine(arguments[0]);
                     if (!meddicineList.isEmpty()) {
@@ -128,11 +128,11 @@ public class PharmacyAplication {
                             log.info("\nBarcode: " + meddicine.getBarcode() + "\n" +
                                     "Name: " + meddicine.getNameOfPharmacyProduct() + "\n" +
                                     "Price: " + meddicine.getPrice() + "\n" +
-                                    "Category of the medicine: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
+                                    "CategoryUnidirectional of the medicineBidirectional: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
                                     "Active substance: " + meddicine.getActiveSubstanceOfTheMeddicine() + "\n" +
                                     "Description: " + meddicine.getDescription() + "\n");
                         }
-                    } else log.info("No such medicine");
+                    } else log.info("No such medicineBidirectional");
                 } else {
                     log.info("Incorrect DataProvider");
                 }
@@ -152,11 +152,11 @@ public class PharmacyAplication {
                             log.info("\nBarcode: " + meddicine.getBarcode() + "\n" +
                                     "Name: " + meddicine.getNameOfPharmacyProduct() + "\n" +
                                     "Price: " + meddicine.getPrice() + "\n" +
-                                    "Category of the medicine: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
+                                    "CategoryUnidirectional of the medicineBidirectional: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
                                     "Active substance: " + meddicine.getActiveSubstanceOfTheMeddicine() + "\n" +
                                     "Description: " + meddicine.getDescription() + "\n");
                         }
-                    } else log.info("No such medicine");
+                    } else log.info("No such medicineBidirectional");
                 } else if (arguments[1].equals("XML")) {
                     List<Meddicine> meddicineList = dataProviderXml.getTheAnaloguesByBarcode(barcode);
                     if (!meddicineList.isEmpty()) {
@@ -169,11 +169,11 @@ public class PharmacyAplication {
                             log.info("\nBarcode: " + meddicine.getBarcode() + "\n" +
                                     "Name: " + meddicine.getNameOfPharmacyProduct() + "\n" +
                                     "Price: " + meddicine.getPrice() + "\n" +
-                                    "Category of the medicine: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
+                                    "CategoryUnidirectional of the medicineBidirectional: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
                                     "Active substance: " + meddicine.getActiveSubstanceOfTheMeddicine() + "\n" +
                                     "Description: " + meddicine.getDescription() + "\n");
                         }
-                    } else log.info("No such medicine");
+                    } else log.info("No such medicineBidirectional");
                 } else if (arguments[1].equals("H2")) {
                     List<Meddicine> meddicineList = dataProviderH2.getTheAnaloguesByBarcode(barcode);
                     if (!meddicineList.isEmpty()) {
@@ -186,11 +186,11 @@ public class PharmacyAplication {
                             log.info("\nBarcode: " + meddicine.getBarcode() + "\n" +
                                     "Name: " + meddicine.getNameOfPharmacyProduct() + "\n" +
                                     "Price: " + meddicine.getPrice() + "\n" +
-                                    "Category of the medicine: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
+                                    "CategoryUnidirectional of the medicineBidirectional: " + meddicine.getCategoryOfTheMeddicine() + "\n" +
                                     "Active substance: " + meddicine.getActiveSubstanceOfTheMeddicine() + "\n" +
                                     "Description: " + meddicine.getDescription() + "\n");
                         }
-                    } else log.info("No such medicine");
+                    } else log.info("No such medicineBidirectional");
                 } else {
                     log.info("Incorrect DataProvider");
                 }

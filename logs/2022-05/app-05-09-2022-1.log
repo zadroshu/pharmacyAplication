@@ -1,0 +1,112 @@
+[INFO ] 2022-04-08 15:49:17.512 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 15:50:14.792 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 15:50:16.815 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 15:51:21.014 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-08 15:51:23.183 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-08 15:57:28.101 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-08 15:57:30.028 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.singletable.PharmacyProduct
+[INFO ] 2022-04-10 10:23:15.814 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-10 10:23:18.558 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.mappedsuperclass.PharmacyProduct
+[INFO ] 2022-04-10 10:23:34.222 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:23:36.536 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:23:46.175 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:23:48.395 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:24:59.629 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:25:02.135 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:27:35.609 [main] MappedSuperClassService - getAllPharmacyProduct[1]{}
+[ERROR] 2022-04-10 10:27:37.833 [main] MappedSuperClassService - getAllPharmacyProduct[3]{} org.hibernate.hql.internal.ast.QuerySyntaxException: PharmacyProduct is not mapped [SELECT a FROM PharmacyProduct a]
+[INFO ] 2022-04-10 10:27:50.336 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:27:52.589 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:28:25.195 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:28:27.485 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:37:07.383 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[ERROR] 2022-04-10 10:37:09.810 [main] MappedSuperClassService - addPharmacyProduct[3]{} Unknown entity: project.model.inheritance.joined.PharmacyProduct
+[INFO ] 2022-04-10 10:37:56.805 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:40:21.203 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:40:23.438 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:40:59.788 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:41:02.005 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-04-10 10:42:21.486 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-04-10 10:42:23.817 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-05-05 14:14:52.768 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-05-05 14:14:55.131 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-05-05 14:18:08.382 [main] MappedSuperClassService - addPharmacyProduct[1]{}
+[INFO ] 2022-05-05 14:18:10.720 [main] MappedSuperClassService - addPharmacyProduct[2]{}
+[INFO ] 2022-05-05 14:55:17.668 [main] DataProvider - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 14:55:20.004 [main] DataProvider - addMedicineCategory[2]{}
+[ERROR] 2022-05-05 14:55:20.036 [main] DataProvider - addMedicineCategory[3]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update list_pharmacyProduct set barcode=?, description=?, nameOfPharmacyProduct=?, price=?, activeSubstanceOfTheMeddicine=? where id=?
+[INFO ] 2022-05-05 14:55:56.581 [main] DataProvider - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 14:55:58.826 [main] DataProvider - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 14:57:08.074 [main] DataProvider - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 14:57:10.270 [main] DataProvider - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 15:01:02.921 [main] DataProvider - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 15:01:05.129 [main] DataProvider - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 15:05:24.802 [main] DataProvider - addMedicineCategory[1]{}
+[ERROR] 2022-05-05 15:05:27.504 [main] DataProvider - addMedicineCategory[3]{} could not execute statement
+[INFO ] 2022-05-05 15:06:33.874 [main] DataProvider - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 15:06:35.965 [main] DataProvider - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 15:16:25.143 [main] DataProvider - updateMedicineCategories[1]{}
+[INFO ] 2022-05-05 15:16:27.495 [main] DataProvider - updateMedicineCategories[2]{}
+[INFO ] 2022-05-05 15:22:52.229 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:22:54.417 [main] DataProvider - getMedicine[2]{}
+[INFO ] 2022-05-05 15:23:20.179 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:23:22.401 [main] DataProvider - getMedicine[2]{}
+[INFO ] 2022-05-05 15:23:40.186 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:23:42.320 [main] DataProvider - getMedicine[2]{}
+[INFO ] 2022-05-05 15:35:11.177 [main] DataProvider - deleteMedicine[1]{}
+[INFO ] 2022-05-05 15:35:13.485 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:35:13.597 [main] DataProvider - getMedicine[2]{}
+[ERROR] 2022-05-05 15:35:13.620 [main] DataProvider - deleteMedicine[3]{} No value present
+[INFO ] 2022-05-05 15:38:49.481 [main] DataProvider - deleteMedicine[1]{}
+[INFO ] 2022-05-05 15:38:51.556 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:38:51.662 [main] DataProvider - getMedicine[2]{}
+[ERROR] 2022-05-05 15:38:51.688 [main] DataProvider - deleteMedicine[3]{} Index 2 out of bounds for length 2
+[INFO ] 2022-05-05 15:42:28.212 [main] DataProvider - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-05 15:42:30.398 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:42:30.513 [main] DataProvider - getMedicine[2]{}
+[ERROR] 2022-05-05 15:42:30.544 [main] DataProvider - deleteMedicineCategory[3]{} Index 2 out of bounds for length 2
+[INFO ] 2022-05-05 15:43:19.841 [main] DataProvider - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-05 15:43:21.944 [main] DataProvider - getMedicine[1]{}
+[ERROR] 2022-05-05 15:43:22.035 [main] DataProvider - getMedicine[3]{} null
+[ERROR] 2022-05-05 15:43:22.035 [main] DataProvider - deleteMedicineCategory[3]{} No value present
+[INFO ] 2022-05-05 15:43:36.137 [main] DataProvider - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-05 15:43:38.303 [main] DataProvider - getMedicine[1]{}
+[ERROR] 2022-05-05 15:43:38.425 [main] DataProvider - getMedicine[3]{} null
+[ERROR] 2022-05-05 15:43:38.425 [main] DataProvider - deleteMedicineCategory[3]{} No value present
+[INFO ] 2022-05-05 15:48:53.593 [main] DataProvider - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-05 15:48:55.685 [main] DataProvider - getMedicine[1]{}
+[INFO ] 2022-05-05 15:48:55.799 [main] DataProvider - getMedicine[2]{}
+[INFO ] 2022-05-05 15:48:55.836 [main] DataProvider - deleteMedicine[2]{}
+[INFO ] 2022-05-05 16:40:12.287 [main] DataProviderSet - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 16:40:14.789 [main] DataProviderSet - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 16:41:25.308 [main] DataProviderSet - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 16:41:27.521 [main] DataProviderSet - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 16:42:46.664 [main] DataProviderSet - updateMedicineCategories[1]{}
+[INFO ] 2022-05-05 16:42:48.835 [main] DataProviderSet - updateMedicineCategories[2]{}
+[INFO ] 2022-05-05 16:43:12.507 [main] DataProviderSet - getMedicine[1]{}
+[INFO ] 2022-05-05 16:43:14.708 [main] DataProviderSet - getMedicine[2]{}
+[INFO ] 2022-05-05 16:43:24.491 [main] DataProviderSet - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-05 16:43:26.747 [main] DataProviderSet - getMedicine[1]{}
+[INFO ] 2022-05-05 16:43:26.857 [main] DataProviderSet - getMedicine[2]{}
+[INFO ] 2022-05-05 16:43:26.885 [main] DataProviderSet - deleteMedicine[2]{}
+[INFO ] 2022-05-05 16:43:33.245 [main] DataProviderSet - getMedicine[1]{}
+[ERROR] 2022-05-05 16:43:35.432 [main] DataProviderSet - getMedicine[3]{} null
+[INFO ] 2022-05-05 16:57:53.765 [main] DataProviderMap - addMedicineCategory[1]{}
+[ERROR] 2022-05-05 16:57:56.137 [main] DataProviderMap - addMedicineCategory[3]{} Unknown entity: project.model.collectionsandassociatedentities.map.Medicine
+[INFO ] 2022-05-05 16:58:19.795 [main] DataProviderMap - addMedicineCategory[1]{}
+[INFO ] 2022-05-05 16:58:22.087 [main] DataProviderMap - addMedicineCategory[2]{}
+[INFO ] 2022-05-05 16:58:52.606 [main] DataProviderMap - updateMedicineCategories[1]{}
+[INFO ] 2022-05-05 16:58:55.112 [main] DataProviderMap - updateMedicineCategories[2]{}
+[ERROR] 2022-05-05 16:58:55.148 [main] DataProviderMap - updateMedicineCategories[3]{} Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1; statement executed: update map_pharmacyProduct set barcode=?, description=?, nameOfPharmacyProduct=?, price=?, activeSubstanceOfTheMeddicine=? where id=?
+[INFO ] 2022-05-05 16:59:07.710 [main] DataProviderMap - updateMedicineCategories[1]{}
+[INFO ] 2022-05-05 16:59:09.986 [main] DataProviderMap - updateMedicineCategories[2]{}
+[INFO ] 2022-05-05 16:59:30.211 [main] DataProviderMap - getMedicine[1]{}
+[INFO ] 2022-05-05 16:59:32.595 [main] DataProviderMap - getMedicine[2]{}
+[INFO ] 2022-05-05 16:59:48.935 [main] DataProviderMap - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-05 16:59:51.247 [main] DataProviderMap - getMedicine[1]{}
+[INFO ] 2022-05-05 16:59:51.343 [main] DataProviderMap - getMedicine[2]{}
+[INFO ] 2022-05-05 16:59:51.370 [main] DataProviderMap - deleteMedicine[2]{}
+[INFO ] 2022-05-09 15:14:23.404 [main] DataProviderMap - deleteMedicineCategory[1]{}
+[INFO ] 2022-05-09 15:14:26.458 [main] DataProviderMap - getMedicine[1]{}
+[ERROR] 2022-05-09 15:14:26.674 [main] DataProviderMap - getMedicine[3]{} null
+[ERROR] 2022-05-09 15:14:26.674 [main] DataProviderMap - deleteMedicineCategory[3]{} No value present

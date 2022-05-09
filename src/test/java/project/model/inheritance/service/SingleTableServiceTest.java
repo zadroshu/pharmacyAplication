@@ -136,7 +136,7 @@ class SingleTableServiceTest {
                     System.out.println("\nName : " + medicalDevice.getNameOfPharmacyProduct() + "\n"
                             + "Price : " + medicalDevice.getPrice() + "\n"
                             + "Description : " + medicalDevice.getDescription() + "\n"
-                            + "Category : " + medicalDevice.getCategoryOfPharmacyDevices());
+                            + "CategoryUnidirectional : " + medicalDevice.getCategoryOfPharmacyDevices());
                 }
 
 
@@ -163,7 +163,7 @@ class SingleTableServiceTest {
             System.out.println("\nName : " + medicalDevice.getNameOfPharmacyProduct() + "\n"
                     + "Price : " + medicalDevice.getPrice() + "\n"
                     + "Description : " + medicalDevice.getDescription() + "\n"
-                    + "Category : " + medicalDevice.getCategoryOfPharmacyDevices());
+                    + "CategoryUnidirectional : " + medicalDevice.getCategoryOfPharmacyDevices());
 
             assertTrue(true);
 
@@ -251,7 +251,7 @@ class SingleTableServiceTest {
                     System.out.println("\nName : " + medicine.getNameOfPharmacyProduct() + "\n"
                             + "Price : " + medicine.getPrice() + "\n"
                             + "Description : " + medicine.getDescription() + "\n"
-                            + "Category : " + medicine.getCategoryOfTheMeddicine() + "\n"
+                            + "CategoryUnidirectional : " + medicine.getCategoryOfTheMeddicine() + "\n"
                             + "Active substance : " + medicine.getActiveSubstanceOfTheMeddicine());
                 }
             } else {
@@ -269,7 +269,7 @@ class SingleTableServiceTest {
     @Test
     void getMedicine() {
         try {
-            System.out.println("getMedicine");
+            System.out.println("getMedicineBidirectional");
             SingleTableService singleTableService = new SingleTableService();
 
             Medicine medicine = singleTableService.getMedicine(2).get();
@@ -277,7 +277,7 @@ class SingleTableServiceTest {
             System.out.println("\nName : " + medicine.getNameOfPharmacyProduct() + "\n"
                     + "Price : " + medicine.getPrice() + "\n"
                     + "Description : " + medicine.getDescription() + "\n"
-                    + "Category : " + medicine.getCategoryOfTheMeddicine() + "\n"
+                    + "CategoryUnidirectional : " + medicine.getCategoryOfTheMeddicine() + "\n"
                     + "Active substance : " + medicine.getActiveSubstanceOfTheMeddicine());
 
             assertTrue(true);

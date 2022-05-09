@@ -138,7 +138,7 @@ class JoinedServiceTest {
                     System.out.println("\nName : " + medicalDevice.getNameOfPharmacyProduct() + "\n"
                             + "Price : " + medicalDevice.getPrice() + "\n"
                             + "Description : "  + medicalDevice.getDescription() + "\n"
-                            + "Category : " + medicalDevice.getCategoryOfPharmacyDevices());
+                            + "CategoryUnidirectional : " + medicalDevice.getCategoryOfPharmacyDevices());
                 }
 
 
@@ -165,7 +165,7 @@ class JoinedServiceTest {
             System.out.println("\nName : " + medicalDevice.getNameOfPharmacyProduct() + "\n"
                     + "Price : " + medicalDevice.getPrice() + "\n"
                     + "Description : "  + medicalDevice.getDescription() + "\n"
-                    + "Category : " + medicalDevice.getCategoryOfPharmacyDevices());
+                    + "CategoryUnidirectional : " + medicalDevice.getCategoryOfPharmacyDevices());
 
             assertTrue(true);
 
@@ -253,7 +253,7 @@ class JoinedServiceTest {
                     System.out.println("\nName : " + medicine.getNameOfPharmacyProduct() + "\n"
                             + "Price : " + medicine.getPrice() + "\n"
                             + "Description : "  + medicine.getDescription() + "\n"
-                            + "Category : " + medicine.getCategoryOfTheMeddicine() + "\n"
+                            + "CategoryUnidirectional : " + medicine.getCategoryOfTheMeddicine() + "\n"
                             + "Active substance : " + medicine.getActiveSubstanceOfTheMeddicine());
                 }
             }else {
@@ -271,7 +271,7 @@ class JoinedServiceTest {
     @Test
     void getMedicine() {
         try {
-            System.out.println("getMedicine");
+            System.out.println("getMedicineBidirectional");
             JoinedService joinedService = new JoinedService();
 
             Medicine medicine = joinedService.getMedicine(2).get();
@@ -279,7 +279,7 @@ class JoinedServiceTest {
             System.out.println("\nName : " + medicine.getNameOfPharmacyProduct() + "\n"
                     + "Price : " + medicine.getPrice() + "\n"
                     + "Description : "  + medicine.getDescription() + "\n"
-                    + "Category : " + medicine.getCategoryOfTheMeddicine() + "\n"
+                    + "CategoryUnidirectional : " + medicine.getCategoryOfTheMeddicine() + "\n"
                     + "Active substance : " + medicine.getActiveSubstanceOfTheMeddicine());
 
             assertTrue(true);

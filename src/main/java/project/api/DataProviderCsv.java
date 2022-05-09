@@ -772,7 +772,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Checking the presence of an element in a CSV Medicine file by Barcode
+     * Checking the presence of an element in a CSV MedicineUnidirectional file by Barcode
      *
      * @param barcode
      * @param CSV_FILE
@@ -854,7 +854,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Delete medicine object from medicine CSV file by Barcode
+     * Delete medicineBidirectional object from medicineBidirectional CSV file by Barcode
      *
      * @param barcode
      * @param CSV_FILE
@@ -896,7 +896,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Updating medicine object in the CSV file if an element with this Barcode is already present it is replaced otherwise a new one is added
+     * Updating medicineBidirectional object in the CSV file if an element with this Barcode is already present it is replaced otherwise a new one is added
      *
      * @param meddicine
      * @param CSV_FILE
@@ -937,7 +937,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Getting a medicine object from a CSV file by barcode
+     * Getting a medicineBidirectional object from a CSV file by barcode
      *
      * @param barcode
      * @param CSV_FILE
@@ -1280,7 +1280,7 @@ public class DataProviderCsv implements IDataProvider {
 
 
     /**
-     * Searching Meddicines objects in the category from CSV file
+     * Searching Meddicines objects in the categoryUnidirectional from CSV file
      *
      * @param category
      * @return List <code><</code>Meddicine<code>></code>
@@ -1303,7 +1303,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Searching PharmacyProduct objects in the category from CSV file
+     * Searching PharmacyProduct objects in the categoryUnidirectional from CSV file
      *
      * @param category
      * @return List <code><</code>PharmacyProduct<code>></code>
@@ -1319,7 +1319,7 @@ public class DataProviderCsv implements IDataProvider {
                 log.info("searchPharmacyProductByCategory [2] {}");
                 List<MedicalDevice> findedMedicalDevices = searchMedicalDeviceByCategory(category);
                 if (findedMedicalDevices.isEmpty()) {
-                    log.info("searchPharmacyProductByCategory [3] {} This category is empty");
+                    log.info("searchPharmacyProductByCategory [3] {} This categoryUnidirectional is empty");
                 } else {
                     log.info("searchPharmacyProductByCategory [4] {}");
                     for (MedicalDevice medicalDevice : findedMedicalDevices) {
@@ -1343,7 +1343,7 @@ public class DataProviderCsv implements IDataProvider {
 
 
     /**
-     * Searching MedicalDevice objects in the category from CSV file
+     * Searching MedicalDevice objects in the categoryUnidirectional from CSV file
      *
      * @param category
      * @return List <code><</code>MedicalDevice<code>></code>
@@ -1446,7 +1446,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Getting the analogues of medicine from CSV file
+     * Getting the analogues of medicineBidirectional from CSV file
      *
      * @param meddicineName
      * @return List <code><</code>Meddicine<code>></code>
@@ -1477,7 +1477,7 @@ public class DataProviderCsv implements IDataProvider {
     }
 
     /**
-     * Getting the analogues of medicine by barcode from CSV file
+     * Getting the analogues of medicineBidirectional by barcode from CSV file
      *
      * @param barcode
      * @return List <code><</code>Meddicine<code>></code>

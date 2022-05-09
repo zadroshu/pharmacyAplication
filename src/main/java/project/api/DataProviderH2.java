@@ -1373,7 +1373,7 @@ public class DataProviderH2 implements IDataProvider {
 
 
     /**
-     * Searching Meddicines objects in the category from H2 DB
+     * Searching Meddicines objects in the categoryUnidirectional from H2 DB
      *
      * @param category
      * @return List <code><</code>Meddicine<code>></code>
@@ -1396,7 +1396,7 @@ public class DataProviderH2 implements IDataProvider {
     }
 
     /**
-     * Searching PharmacyProduct objects in the category from H2 DB
+     * Searching PharmacyProduct objects in the categoryUnidirectional from H2 DB
      *
      * @param category
      * @return List <code><</code>PharmacyProduct<code>></code>
@@ -1412,7 +1412,7 @@ public class DataProviderH2 implements IDataProvider {
                 log.info("searchPharmacyProductByCategory [2] {}");
                 List<MedicalDevice> findedMedicalDevices = searchMedicalDeviceByCategory(category);
                 if (findedMedicalDevices.isEmpty()) {
-                    log.info("searchPharmacyProductByCategory [3] {} This category is empty");
+                    log.info("searchPharmacyProductByCategory [3] {} This categoryUnidirectional is empty");
                 } else {
                     log.info("searchPharmacyProductByCategory [4] {}");
                     for (MedicalDevice medicalDevice : findedMedicalDevices) {
@@ -1436,7 +1436,7 @@ public class DataProviderH2 implements IDataProvider {
 
 
     /**
-     * Searching MedicalDevice objects in the category from H2 DB
+     * Searching MedicalDevice objects in the categoryUnidirectional from H2 DB
      *
      * @param category
      * @return List <code><</code>MedicalDevice<code>></code>
@@ -1539,7 +1539,7 @@ public class DataProviderH2 implements IDataProvider {
     }
 
     /**
-     * Getting the analogues of medicine from H2 DB
+     * Getting the analogues of medicineBidirectional from H2 DB
      *
      * @param meddicineName
      * @return List <code><</code>Meddicine<code>></code>
@@ -1570,7 +1570,7 @@ public class DataProviderH2 implements IDataProvider {
     }
 
     /**
-     * Getting the analogues of medicine by barcode from H2 DB
+     * Getting the analogues of medicineBidirectional by barcode from H2 DB
      *
      * @param barcode
      * @return List <code><</code>Meddicine<code>></code>

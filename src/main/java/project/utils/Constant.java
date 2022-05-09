@@ -9,8 +9,8 @@ public class Constant {
 
     public static final String CSV_USER = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_csv\\user.csv";
     public static final String XML_USER = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_xml\\user.xml";
-    public static final String CSV_MEDICINE = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_csv\\medicine.csv";
-    public static final String XML_MEDICINE = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_xml\\medicine.xml";
+    public static final String CSV_MEDICINE = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_csv\\medicineBidirectional.csv";
+    public static final String XML_MEDICINE = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_xml\\medicineBidirectional.xml";
     public static final String CSV_MEDICALDEVICES = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_csv\\medicalDevice.csv";
     public static final String XML_MEDICALDEVICES = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_xml\\medicalDevice.xml";
     public static final String CSV_ORDERS = "C:\\Users\\zadro\\IdeaProjects\\ru.sfedu.searchOfMeddicine\\src\\main\\resources\\data_csv\\orders.csv";

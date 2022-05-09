@@ -9,7 +9,7 @@ import javax.persistence.Entity;
 @Entity(name = "SingleTableMedicine")
 @Data
 @NoArgsConstructor
-@DiscriminatorValue("Medicine")
+@DiscriminatorValue("MedicineUnidirectional")
 public class Medicine extends PharmacyProduct {
     private String activeSubstanceOfTheMeddicine;
 

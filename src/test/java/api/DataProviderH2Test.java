@@ -541,7 +541,7 @@ class DataProviderH2Test {
             MedicalDevice meddicine1 = new MedicalDevice();
 
             meddicine1.setNameOfPharmacyProduct("Name3");
-            meddicine1.setCategoryOfPharmacyDevices("category");
+            meddicine1.setCategoryOfPharmacyDevices("categoryUnidirectional");
             meddicine1.setBarcode("I2/5:1520152015201520");
             meddicine1.setPrice(1050);
             meddicine1.setDescription("d22222222222jimeoiej");
@@ -550,7 +550,7 @@ class DataProviderH2Test {
             MedicalDevice meddicine2 = new MedicalDevice();
 
             meddicine2.setNameOfPharmacyProduct("Name1");
-            meddicine2.setCategoryOfPharmacyDevices("category");
+            meddicine2.setCategoryOfPharmacyDevices("categoryUnidirectional");
             meddicine2.setBarcode("EAN-8:65833254");
             meddicine2.setPrice(133);
             meddicine2.setDescription("d22222222222jimeoiej");
@@ -559,7 +559,7 @@ class DataProviderH2Test {
             MedicalDevice meddicine3 = new MedicalDevice();
 
             meddicine3.setNameOfPharmacyProduct("Name2");
-            meddicine3.setCategoryOfPharmacyDevices("category");
+            meddicine3.setCategoryOfPharmacyDevices("categoryUnidirectional");
             meddicine3.setBarcode("CODE-128:CODE128A");
             meddicine3.setPrice(278);
             meddicine3.setDescription("d22222222222jimeoiej");
@@ -647,7 +647,7 @@ class DataProviderH2Test {
 
             DataProviderH2 DataProviderH2 = new DataProviderH2();
 
-            List<MedicalDevice> meddicineList = DataProviderH2.searchMedicalDeviceByCategory("category");
+            List<MedicalDevice> meddicineList = DataProviderH2.searchMedicalDeviceByCategory("categoryUnidirectional");
             for (MedicalDevice meddicine : meddicineList) {
                 System.out.println(meddicine.getBarcode() + "\n" +
                         meddicine.getNameOfPharmacyProduct() + "\n" +
@@ -691,7 +691,7 @@ class DataProviderH2Test {
 
             DataProviderH2 DataProviderH2 = new DataProviderH2();
 
-            List<PharmacyProduct> pharmacyProductList = DataProviderH2.searchPharmacyProductByCategory("category");
+            List<PharmacyProduct> pharmacyProductList = DataProviderH2.searchPharmacyProductByCategory("categoryUnidirectional");
             for (PharmacyProduct pharmacyProduct : pharmacyProductList) {
                 System.out.println(pharmacyProduct.getBarcode() + "\n" +
                         pharmacyProduct.getNameOfPharmacyProduct() + "\n" +
@@ -867,7 +867,7 @@ class DataProviderH2Test {
 
             DataProviderH2 DataProviderH2 = new DataProviderH2();
 
-            List<PharmacyProduct> pharmacyProductList = DataProviderH2.searchPharmacyProductByCategory("category");
+            List<PharmacyProduct> pharmacyProductList = DataProviderH2.searchPharmacyProductByCategory("categoryUnidirectional");
 
             System.out.println("Before sorted\n");
             for (PharmacyProduct pharmacyProduct : pharmacyProductList) {
@@ -898,7 +898,7 @@ class DataProviderH2Test {
 
             DataProviderH2 DataProviderH2 = new DataProviderH2();
 
-            List<PharmacyProduct> pharmacyProductList = DataProviderH2.searchPharmacyProductByCategory("category");
+            List<PharmacyProduct> pharmacyProductList = DataProviderH2.searchPharmacyProductByCategory("categoryUnidirectional");
 
             System.out.println("Before sorted\n");
             for (PharmacyProduct pharmacyProduct : pharmacyProductList) {

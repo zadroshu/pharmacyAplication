@@ -111,7 +111,7 @@ public interface IDataProvider {
      */
     Result<List> appendMeddicines(List<Meddicine> meddicinesList, String FILE_PATH);
     /**
-     * Delete medicine object from medicine datasource by Barcode
+     * Delete medicineBidirectional object from medicineBidirectional datasource by Barcode
      *
      * @param barcode
      * @param FILE_PATH
@@ -119,7 +119,7 @@ public interface IDataProvider {
      */
     Result<List> deleteMeddicineByBarcode(String barcode, String FILE_PATH);
     /**
-     * Updating medicine object in datasource if an element with this Barcode is already present it is replaced otherwise a new one is added
+     * Updating medicineBidirectional object in datasource if an element with this Barcode is already present it is replaced otherwise a new one is added
      *
      * @param meddicine
      * @param FILE_PATH
@@ -127,7 +127,7 @@ public interface IDataProvider {
      */
     Result<List> updateMeddicine(Meddicine meddicine, String FILE_PATH);
     /**
-     * Getting a medicine object from a datasource by barcode
+     * Getting a medicineBidirectional object from a datasource by barcode
      *
      * @param barcode
      * @param FILE_PATH
@@ -174,7 +174,7 @@ public interface IDataProvider {
      */
     Result getMedicalDeviceByBarcode(String barcode, String FILE_PATH);
     /**
-     * Searching PharmacyProduct objects in the category from datasource
+     * Searching PharmacyProduct objects in the categoryUnidirectional from datasource
      *
      * @param category
      * @return List <code><</code>Meddicine<code>></code>
@@ -188,14 +188,14 @@ public interface IDataProvider {
      */
     List<PharmacyProduct> searchPharmacyProductByName(String nameOfPharmacyProduct);
     /**
-     * Getting the analogues of medicine from datasource
+     * Getting the analogues of medicineBidirectional from datasource
      *
      * @param meddicineName
      * @return List <code><</code>Meddicine<code>></code>
      */
     List<Meddicine> getTheAnaloguesOfMedicine(String meddicineName);
     /**
-     * Getting the analogues of medicine by barcode from datasource
+     * Getting the analogues of medicineBidirectional by barcode from datasource
      *
      * @param barcode
      * @return List <code><</code>Meddicine<code>></code>

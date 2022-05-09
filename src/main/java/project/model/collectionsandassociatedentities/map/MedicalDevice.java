@@ -1,14 +1,11 @@
-package project.model.entitiesrelationships.list;
+package project.model.collectionsandassociatedentities.map;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.Entity;
-import javax.persistence.Inheritance;
-import javax.persistence.InheritanceType;
-import javax.persistence.PrimaryKeyJoinColumn;
 
-@Entity(name = "ListMedicalDevice")
+@Entity(name = "map_medical_device")
 @Data
 @NoArgsConstructor
 public class MedicalDevice extends PharmacyProduct {

@@ -139,7 +139,7 @@ class MappedSuperClassServiceTest {
                     System.out.println("\nName : " + medicalDevice.getNameOfPharmacyProduct() + "\n"
                             + "Price : " + medicalDevice.getPrice() + "\n"
                             + "Description : "  + medicalDevice.getDescription() + "\n"
-                            + "Category : " + medicalDevice.getCategoryOfPharmacyDevices());
+                            + "CategoryUnidirectional : " + medicalDevice.getCategoryOfPharmacyDevices());
                 }
 
 
@@ -166,7 +166,7 @@ class MappedSuperClassServiceTest {
             System.out.println("\nName : " + medicalDevice.getNameOfPharmacyProduct() + "\n"
                     + "Price : " + medicalDevice.getPrice() + "\n"
                     + "Description : "  + medicalDevice.getDescription() + "\n"
-                    + "Category : " + medicalDevice.getCategoryOfPharmacyDevices());
+                    + "CategoryUnidirectional : " + medicalDevice.getCategoryOfPharmacyDevices());
 
             assertTrue(true);
 
@@ -254,7 +254,7 @@ class MappedSuperClassServiceTest {
                     System.out.println("\nName : " + medicine.getNameOfPharmacyProduct() + "\n"
                             + "Price : " + medicine.getPrice() + "\n"
                             + "Description : "  + medicine.getDescription() + "\n"
-                            + "Category : " + medicine.getCategoryOfTheMeddicine() + "\n"
+                            + "CategoryUnidirectional : " + medicine.getCategoryOfTheMeddicine() + "\n"
                             + "Active substance : " + medicine.getActiveSubstanceOfTheMeddicine());
                 }
             }else {
@@ -272,7 +272,7 @@ class MappedSuperClassServiceTest {
     @Test
     void getMedicine() {
         try {
-            System.out.println("getMedicine");
+            System.out.println("getMedicineBidirectional");
             MappedSuperClassService mappedSuperClassService = new MappedSuperClassService();
 
             Medicine medicine = mappedSuperClassService.getMedicine(2).get();
@@ -280,7 +280,7 @@ class MappedSuperClassServiceTest {
             System.out.println("\nName : " + medicine.getNameOfPharmacyProduct() + "\n"
                     + "Price : " + medicine.getPrice() + "\n"
                     + "Description : "  + medicine.getDescription() + "\n"
-                    + "Category : " + medicine.getCategoryOfTheMeddicine() + "\n"
+                    + "CategoryUnidirectional : " + medicine.getCategoryOfTheMeddicine() + "\n"
                     + "Active substance : " + medicine.getActiveSubstanceOfTheMeddicine());
 
             assertTrue(true);

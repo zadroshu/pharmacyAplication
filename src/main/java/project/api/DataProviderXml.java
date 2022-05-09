@@ -736,7 +736,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Checking the presence of an element in a XML Medicine file by Barcode
+     * Checking the presence of an element in a XML MedicineUnidirectional file by Barcode
      *
      * @param barcode
      * @param XML_FILE
@@ -821,7 +821,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Delete medicine object from medicine XML file by Barcode
+     * Delete medicineBidirectional object from medicineBidirectional XML file by Barcode
      *
      * @param barcode
      * @param FILE_PATH
@@ -863,7 +863,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Updating medicine object in the XML file if an element with this Barcode is already present it is replaced otherwise a new one is added
+     * Updating medicineBidirectional object in the XML file if an element with this Barcode is already present it is replaced otherwise a new one is added
      *
      * @param meddicine
      * @param FILE_PATH
@@ -904,7 +904,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Getting a medicine object from a XML file by barcode
+     * Getting a medicineBidirectional object from a XML file by barcode
      *
      * @param barcode
      * @param FILE_PATH
@@ -1237,7 +1237,7 @@ public class DataProviderXml implements IDataProvider {
 
 
     /**
-     * Searching Meddicines objects in the category from XML file
+     * Searching Meddicines objects in the categoryUnidirectional from XML file
      * @param category
      * @return List <code><</code>Meddicine<code>></code>
      */
@@ -1259,7 +1259,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Searching PharmacyProduct objects in the category from XML file
+     * Searching PharmacyProduct objects in the categoryUnidirectional from XML file
      * @param category
      * @return List <code><</code>PharmacyProduct<code>></code>
      */
@@ -1274,7 +1274,7 @@ public class DataProviderXml implements IDataProvider {
                 log.info("searchPharmacyProductByCategory [2] {}");
                 List<MedicalDevice> findedMedicalDevices = searchMedicalDeviceByCategory(category);
                 if (findedMedicalDevices.isEmpty()) {
-                    log.info("searchPharmacyProductByCategory [3] {} This category is empty");
+                    log.info("searchPharmacyProductByCategory [3] {} This categoryUnidirectional is empty");
                 } else {
                     log.info("searchPharmacyProductByCategory [4] {}");
                     for (MedicalDevice medicalDevice: findedMedicalDevices) {
@@ -1298,7 +1298,7 @@ public class DataProviderXml implements IDataProvider {
 
 
     /**
-     * Searching MedicalDevice objects in the category from XML file
+     * Searching MedicalDevice objects in the categoryUnidirectional from XML file
      * @param category
      * @return List <code><</code>MedicalDevice<code>></code>
      */
@@ -1397,7 +1397,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Getting the analogues of medicine from XML file
+     * Getting the analogues of medicineBidirectional from XML file
      * @param meddicineName
      * @return List <code><</code>Meddicine<code>></code>
      */
@@ -1427,7 +1427,7 @@ public class DataProviderXml implements IDataProvider {
     }
 
     /**
-     * Getting the analogues of medicine by barcode from XML file
+     * Getting the analogues of medicineBidirectional by barcode from XML file
      * @param barcode
      * @return List <code><</code>Meddicine<code>></code>
      */

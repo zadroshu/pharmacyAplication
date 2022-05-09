@@ -1,4 +1,4 @@
-package project.model.entitiesrelationships.list;
+package project.model.collectionsandassociatedentities.set;
 
 
 import lombok.Data;
@@ -9,7 +9,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-@Entity(name = "ListPharmacyProduct")
+@Entity(name = "set_pharmacyProduct")
 @Data
 @NoArgsConstructor
 public class PharmacyProduct {

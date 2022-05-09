@@ -32,7 +32,35 @@
     <mapping class="project.model.inheritance.joined.MedicalDevice"/>
     <mapping class="project.model.inheritance.joined.Medicine"/>
 
+    <mapping class="project.model.collectionsandassociatedentities.list.PharmacyProduct"/>
+    <mapping class="project.model.collectionsandassociatedentities.list.MedicalDevice"/>
+    <mapping class="project.model.collectionsandassociatedentities.list.Medicine"/>
 
+    <mapping class="project.model.collectionsandassociatedentities.set.PharmacyProduct"/>
+    <mapping class="project.model.collectionsandassociatedentities.set.MedicalDevice"/>
+    <mapping class="project.model.collectionsandassociatedentities.set.Medicine"/>
+
+    <mapping class="project.model.collectionsandassociatedentities.map.PharmacyProduct"/>
+    <mapping class="project.model.collectionsandassociatedentities.map.MedicalDevice"/>
+    <mapping class="project.model.collectionsandassociatedentities.map.Medicine"/>
+
+    <mapping class="project.model.displayingrelationshipsbetweenentities.unidirectional.MedicineUnidirectional"/>
+    <mapping class="project.model.displayingrelationshipsbetweenentities.unidirectional.CategoryUnidirectional"/>
+
+    <mapping class="project.model.displayingrelationshipsbetweenentities.bidirectional.MedicineBidirectional"/>
+    <mapping class="project.model.displayingrelationshipsbetweenentities.bidirectional.CategoryBidirectional"/>
+
+    <mapping class="project.model.displayingrelationshipsbetweenentities.sharedprimarykey.MedicineSharedPK"/>
+    <mapping class="project.model.displayingrelationshipsbetweenentities.sharedprimarykey.CategorySharedPK"/>
+
+    <mapping class="project.model.displayingrelationshipsbetweenentities.generatedexternalprimarykey.MedicineGeneratedPK"/>
+    <mapping class="project.model.displayingrelationshipsbetweenentities.generatedexternalprimarykey.CategoryGeneratedPK"/>
+
+    <mapping class="project.model.displayingrelationshipsbetweenentities.foreignkey.MedicineFK"/>
+    <mapping class="project.model.displayingrelationshipsbetweenentities.foreignkey.CategoryFK"/>
+
+    <mapping class="project.model.displayingrelationshipsbetweenentities.many_to_many_association.MedicineMTM"/>
+    <mapping class="project.model.displayingrelationshipsbetweenentities.many_to_many_association.CategoryMTM"/>
     <!-- DB schema will be updated if needed -->
     <!-- <property name="hibernate.hbm2ddl.auto">update</property> -->
   </session-factory>
